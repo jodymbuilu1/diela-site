@@ -3,236 +3,53 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>DIELA</title>
-  <meta name="description" content="DIELA — un espace dédié à la réflexion, à la connaissance, à la planification, à l'action, à l'archivage et à la transmission.">
-  <style>
-    :root{
-      --bg:#f7f3ec;
-      --panel:#fbf8f2;
-      --text:#1d2328;
-      --muted:#5d676e;
-      --line:#dbd2c3;
-      --accent:#7c5a33;
-      --accent2:#39464f;
-      --button:#1d2328;
-      --buttonText:#ffffff;
-      --buttonAlt:#ece4d8;
-    }
-    *{box-sizing:border-box}
-    html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Georgia,"Times New Roman",serif}
-    body{min-height:100vh}
-    .page{
-      min-height:100vh;
-      display:flex;
-      flex-direction:column;
-      padding:28px 24px 38px;
-    }
-    .hero{
-      flex:1;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-    }
-    .shell{
-      width:min(1120px,100%);
-      display:grid;
-      grid-template-columns: minmax(300px, 1.1fr) minmax(280px, 0.9fr);
-      gap:48px;
-      align-items:center;
-    }
-    .left{
-      display:flex;
-      flex-direction:column;
-      gap:18px;
-    }
-    .identity{
-      display:flex;
-      align-items:center;
-      gap:18px;
-      margin-bottom:6px;
-    }
-    .identity img{
-      width:84px;
-      height:84px;
-      object-fit:contain;
-      filter: drop-shadow(0 4px 12px rgba(0,0,0,.08));
-      flex:0 0 auto;
-    }
-    h1{
-      margin:0;
-      font-size:clamp(42px, 6vw, 82px);
-      letter-spacing:.22em;
-      font-weight:500;
-      padding-left:.22em;
-      line-height:1.02;
-    }
-    .subtitle{
-      margin:0;
-      font-family:Arial,Helvetica,sans-serif;
-      font-size:clamp(14px,1.5vw,17px);
-      letter-spacing:.06em;
-      text-transform:uppercase;
-      color:var(--muted);
-    }
-    .teaser{
-      max-width:650px;
-      border-left:2px solid var(--line);
-      padding-left:20px;
-      margin-top:6px;
-    }
-    .teaser p,
-    .fulltext p{
-      font-family:Arial,Helvetica,sans-serif;
-      font-size:16px;
-      line-height:1.85;
-      margin:0 0 14px;
-      color:#394047;
-    }
-    .fulltext{
-      display:none;
-      padding-top:10px;
-    }
-    .fulltext.open{display:block}
-    .right{
-      background:rgba(255,255,255,.55);
-      border:1px solid var(--line);
-      border-radius:24px;
-      padding:28px;
-      box-shadow:0 10px 30px rgba(50,35,10,.06);
-    }
-    .right h2{
-      margin:0 0 14px;
-      font-size:clamp(22px,2.8vw,34px);
-      font-weight:500;
-      line-height:1.2;
-    }
-    .right p{
-      margin:0 0 24px;
-      color:var(--muted);
-      font-family:Arial,Helvetica,sans-serif;
-      font-size:15.5px;
-      line-height:1.8;
-    }
-    .buttons{
-      display:flex;
-      flex-wrap:wrap;
-      gap:12px;
-      margin-top:10px;
-    }
-    .btn{
-      appearance:none;
-      border:none;
-      border-radius:999px;
-      padding:13px 20px;
-      text-decoration:none;
-      font-family:Arial,Helvetica,sans-serif;
-      font-size:14px;
-      cursor:pointer;
-      transition:transform .12s ease, opacity .12s ease, background .12s ease;
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-    }
-    .btn:hover{transform:translateY(-1px)}
-    .btn-primary{
-      background:var(--button);
-      color:var(--buttonText);
-    }
-    .btn-secondary{
-      background:var(--buttonAlt);
-      color:var(--text);
-      border:1px solid var(--line);
-    }
-    footer{
-      width:min(1120px,100%);
-      margin:0 auto;
-      padding-top:24px;
-      font-family:Arial,Helvetica,sans-serif;
-      font-size:12.5px;
-      color:#7a7f84;
-    }
-    @media (max-width: 900px){
-      .shell{
-        grid-template-columns:1fr;
-        gap:28px;
-      }
-      .right{
-        padding:24px;
-      }
-      .identity img{
-        width:72px;
-        height:72px;
-      }
-      h1{
-        font-size:clamp(34px, 11vw, 64px);
-      }
-    }
-  </style>
+  <meta name="description" content="DIELA, think and do tank ancré dans la nation congolaise. Relier pensée, planification, action, mémoire et transmission.">
+  <meta name="theme-color" content="#ffffff">
+  <title>DIELA — Lettre fondatrice</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="page">
-    <section class="hero">
-      <div class="shell">
-        <div class="left">
-          <div class="identity">
-            <img src="assets/diela-logo.png" alt="Logo DIELA — Makukwa ma tatu">
-            <div>
-              <h1>DIELA</h1>
-              <p class="subtitle">Réflexion · Connaissance · Planification · Action</p>
+  <a class="skip-link" href="#lettre">Aller au contenu</a>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="wordmark" href="index.html" aria-label="DIELA — Accueil">DIELA</a>
+      <nav aria-label="Navigation principale"><a class="nav-link" href="explorer.html">Explorer <span aria-hidden="true">↗</span></a></nav>
+    </header>
+    <main class="letter-layout" id="lettre">
+      <article class="founding-letter" aria-labelledby="letter-title">
+        <p class="eyebrow">Lettre fondatrice</p>
+        <h1 id="letter-title">La pensée<br>précède l’œuvre.</h1>
+        <div class="letter-copy">
+          <p>Toute matérialisation humaine commence par une pensée. Viennent ensuite la créativité et la réflexion, la planification, puis l’action. L’archivage, la mémoire et la transmission permettent à ce qui a été compris et accompli de traverser le temps.</p>
+          <details class="letter-details">
+            <summary><span class="read-label">Lire la suite</span><span class="close-label">Réduire</span><span class="read-mark" aria-hidden="true">+</span></summary>
+            <div class="letter-continuation">
+              <p>DIELA est dédié à ces mécanismes. Il est un lieu où la pensée peut se former, être interrogée, prendre une structure et rencontrer le réel. Un lieu où les idées sont travaillées jusqu’à pouvoir orienter une décision, soutenir une institution ou engendrer une œuvre.</p>
+              <p>La nation congolaise en constitue le substrat principal : son histoire, ses institutions, ses formes de vie et ses possibilités. Cette inscription ouvre un travail sur l’Afrique et le monde, à partir d’un socle congolais assumé.</p>
+              <p>La caverne de Platon offre une image de cette exigence : sortir des apparences, rechercher la clarté, puis revenir vers le réel avec une compréhension plus juste. Éclairer suppose aussi d’examiner nos propres façons de voir. Quels angles morts de la réalité congolaise nos habitudes de pensée laissent-elles dans l’ombre ? Et si certaines de nos manières de comprendre les problèmes contribuaient à leur persistance ?</p>
+              <p>DIELA est ainsi un <span lang="en">think and do tank</span>. Il prend la place de matrice intellectuelle jusqu’ici portée par le think tank ELIKYA. Il pense, éclaire et structure ; il fait aussi émerger des manifestations concrètes. Ses émanations acquièrent leur vocation propre, tout en restant nourries par ce travail de réflexion.</p>
+              <p>Le DIELA Institute en est le noyau intellectuel. Le Projet Luila, les Coopératives Elikya et le Projet ELIKYA expriment, chacun selon sa fonction, ce passage de la pensée à des formes organisées d’action.</p>
+              <p>Cette matrice se veut une pompe à lumière : rendre visibles les questions délaissées, mettre les idées à l’épreuve et conserver la mémoire de ce que l’expérience nous apprend. Relier la pensée à la planification, la planification à l’action, puis l’action à la mémoire et à la transmission : telle est la raison d’être de DIELA.</p>
             </div>
-          </div>
-
-          <div class="teaser">
-            <p>
-              Toute matérialisation humaine commence par une pensée. Elle se poursuit par la créativité et la réflexion, puis par la planification, et enfin par l’exécution.
-            </p>
-            <p>
-              DIELA est un espace dédié à ces mécanismes de pensée, de planification et d’action, ainsi qu’à leur archivage et à leur transmission.
-            </p>
-
-            <div id="fulltext" class="fulltext">
-              <p>
-                À travers DIELA, je souhaite préserver un lieu où les idées ne se perdent pas. Un lieu où elles peuvent être formulées, organisées, approfondies, mises en œuvre, puis conservées comme mémoire de travail, de création et de transformation.
-              </p>
-              <p>
-                La métaphore de la caverne de Platon m’accompagne ici comme une intuition fondatrice : sortir de la confusion, interroger les apparences, chercher une compréhension plus juste du réel, puis revenir vers le monde avec davantage de clarté et de responsabilité.
-              </p>
-              <p>
-                DIELA ne se limite donc pas à penser. DIELA cherche à relier la pensée à l’action, l’action à la mémoire, et la mémoire à la transmission.
-              </p>
-            </div>
-
-            <div class="buttons">
-              <button class="btn btn-secondary" id="toggleBtn" type="button" aria-expanded="false" aria-controls="fulltext">Lire</button>
-            </div>
-          </div>
+          </details>
         </div>
-
-        <aside class="right">
-          <h2>Explorer DIELA</h2>
-          <p>
-            Découvrir les espaces de connaissance, de recherche, de projets et d’archives hébergés par DIELA.
-          </p>
-          <div class="buttons">
-            <a class="btn btn-primary" href="explorer.html">Découvrir</a>
-          </div>
-        </aside>
-      </div>
-    </section>
-
-    <footer>
-      DIELA
-    </footer>
+        <footer class="letter-signature">
+          <!-- Emplacement réservé à une authentique signature manuscrite, si fournie.
+               Remplacer la ligne typographique ci-dessous par une image avec son texte alternatif. -->
+          <p class="signature-name">Jody Pukuta Mbuilu</p>
+          <p class="signature-role">Fondateur de DIELA</p>
+        </footer>
+      </article>
+      <aside class="identity-space" aria-label="Emblème DIELA">
+        <!-- LOGO SLOT : remplacer uniquement le contenu de ce conteneur pour une future
+             version 3D. Conserver une image de repli et éviter le chargement automatique lourd. -->
+        <div class="logo-slot" data-logo-slot>
+          <img src="assets/diela-logo.png" alt="Makukwa ma tatu — emblème de DIELA" width="1254" height="1254" decoding="async">
+        </div>
+        <p class="emblem-caption">Makukwa ma tatu</p>
+      </aside>
+    </main>
+    <footer class="site-footer"><span>DIELA</span><span>République démocratique du Congo</span></footer>
   </div>
-
-  <script>
-    const btn = document.getElementById('toggleBtn');
-    const block = document.getElementById('fulltext');
-    btn.addEventListener('click', () => {
-      const open = block.classList.toggle('open');
-      btn.textContent = open ? 'Réduire' : 'Lire';
-      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-    });
-  </script>
 </body>
 </html>
