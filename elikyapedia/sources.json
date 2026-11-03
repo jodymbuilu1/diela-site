@@ -1,0 +1,96 @@
+{
+  "edition": "1.0",
+  "published": "2026-11-03",
+  "consulted": "2026-11-03",
+  "sources": [
+    {
+      "id": "E1",
+      "title": "Access, Governance and Reform for the Electricity and Water Sectors Project",
+      "publisher": "Banque mondiale",
+      "date": "9 mars 2022",
+      "url": "https://documents1.worldbank.org/curated/en/745801649084767899/pdf/Congo-Democratic-Republic-of-Access-Governance-and-Reform-for-the-Electricity-and-Water-Sectors-Project.pdf",
+      "locator": "PAD4396, P173506, paragraphes 12, 27 et composante 3",
+      "note": "Document de conception : les interventions décrites ne prouvent pas leur réalisation."
+    },
+    {
+      "id": "E2",
+      "title": "Democratic Republic of Congo — Expanding Access to Electricity and Services",
+      "publisher": "Banque mondiale / QII",
+      "date": "14 mars 2022",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/104841647238131573",
+      "locator": "Notice et présentation du projet",
+      "note": "Éclaire le rôle de la gouvernance et de la régulation dans l’extension du service."
+    },
+    {
+      "id": "F1",
+      "title": "Open Budget Survey 2023 — Democratic Republic of Congo",
+      "publisher": "International Budget Partnership",
+      "date": "édition 2023",
+      "url": "https://internationalbudget.org/open-budget-survey/country-results/2023/democratic-republic-congo",
+      "locator": "Résultats, disponibilité des documents et méthodologie",
+      "note": "Observations arrêtées au 31 décembre 2022. Ne décrit pas la situation budgétaire de 2026."
+    },
+    {
+      "id": "F2",
+      "title": "Reassessing Tax Incentives: Falling Short of Promised Growth and Equity",
+      "publisher": "Banque mondiale",
+      "date": "juillet 2025",
+      "url": "https://documents1.worldbank.org/curated/en/099072525115545348/pdf/P507143-4d5b3298-cf68-43b1-b5c1-5cc5861aab24.pdf",
+      "locator": "Résumé exécutif B ; chapitre 2, sections 2.1, 2.4 et 2.5",
+      "note": "Les dépenses fiscales sont des estimations de recettes non perçues selon une référence, pas une trésorerie immédiatement récupérable."
+    },
+    {
+      "id": "A1",
+      "title": "Plan stratégique pour la République démocratique du Congo — opération CD02",
+      "publisher": "Programme alimentaire mondial",
+      "date": "plan approuvé en 2020 ; révisions mentionnées en 2022 et 2024",
+      "url": "https://www.wfp.org/operations/cd02-democratic-republic-congo-country-strategic-plan-2021-2024",
+      "locator": "Présentation du contexte et résultats stratégiques",
+      "note": "Diagnostic historique sur les conflits, les infrastructures et l’accès aux marchés ; ce n’est pas une mesure de la faim en 2026."
+    },
+    {
+      "id": "A2",
+      "title": "Inclusive and Resilient Rural Development Programme — PADRIR",
+      "publisher": "Fonds international de développement agricole",
+      "date": "fiche de programme, conception 2019",
+      "url": "https://www.ifad.org/en/w/projects/2000002386",
+      "locator": "Objectifs et investissements du programme",
+      "note": "Intentions et cibles de programme : ne pas les présenter comme des résultats acquis."
+    },
+    {
+      "id": "A3",
+      "title": "National Agriculture Development Program — cadre de gestion environnementale et sociale",
+      "publisher": "Organisme emprunteur, dépôt Banque mondiale",
+      "date": "14 mai 2021",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/923891620989169634",
+      "locator": "P169021, notice documentaire et périmètre sectoriel",
+      "note": "Référence de conception et de sauvegardes ; pas une évaluation d’impact."
+    }
+  ],
+  "provenance": [
+    {
+      "domain": "energie",
+      "corpus": [
+        "B07 — Secteur Enrgie RDC : Hydrocarbures & énergie en RDC (2000–2025), scénarios 2025–2040",
+        "B13 — La SNEL en RDC (2000–2025)"
+      ],
+      "limits": "Les recherches B07 et B13 emploient des taux d’accès et des millésimes différents. Les valeurs n’ont pas été réconciliées avec une série officielle unique : aucun taux national actuel n’est donc affiché. Les annexes et tableaux de bord annoncés dans ces recherches n’ont pas été retrouvés comme fichiers autonomes et ne sont pas présentés comme disponibles."
+    },
+    {
+      "domain": "finances-publiques",
+      "corpus": [
+        "B01 — Institutions de collecte des recettes publiques en RDC (2000–2025)",
+        "B02 — État des lieux de la reddition des comptes en RDC (2000–2025)",
+        "B20 — Budget et recettes RDC"
+      ],
+      "limits": "Les longues séries et allégations contenues dans les recherches internes ne sont pas reprises comme établies. Aucun classement de responsables ni montant de détournement n’est publié. La première édition ne reconstitue pas les comptes 2026 et ne fournit pas de conseil fiscal individuel."
+    },
+    {
+      "domain": "agriculture",
+      "corpus": [
+        "B09 — Pilier économique de la RDC (2000–2025), perspectives 2025–2040 : section Agriculture et contraintes transversales"
+      ],
+      "limits": "Aucune monographie agricole autonome n’a été identifiée dans le dossier Drive consulté : ce premier dossier repose sur la section agricole de B09, complétée par des sources institutionnelles. Les estimations de surfaces et de population nourrissable ne sont pas reprises sans harmonisation des définitions. Aucun rendement ni résultat opérationnel de Luila ou des Coopératives Elikya n’est inventé."
+    }
+  ]
+}
