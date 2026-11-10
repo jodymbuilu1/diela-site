@@ -169,6 +169,19 @@ Trente ans après leur apparition, les ADF demeurent ainsi un révélateur des v
 
 Cette interrogation relie l’histoire des ADF à l’analyse des capacités de l’État, de la protection des civils et de la stabilisation territoriale.
 
+## Carte et repères géographiques
+
+L’activité d’un groupe armé ne se confond pas avec un contrôle territorial permanent. Les ADF peuvent se déplacer, se disperser et mener des attaques hors de leurs implantations. Cette carte situe les lieux ; elle ne mesure ni leur présence continue ni leur capacité à administrer une zone. [9] [10]
+
+Repères géographiques pour lire l’histoire des ADF (1995–2025). Beni est ici une ville repère du territoire homonyme au Nord-Kivu ; En Ituri, Mambasa est le chef-lieu du territoire homonyme et Komanda se trouve dans le territoire d’Irumu. Les points ne désignent ni des attaques, ni des localités occupées. Les limites administratives des territoires et les emprises opérationnelles des ADF ne sont pas tracées.
+
+Carte originale ELIKYAPEDIA, 10 novembre 2026. Fond géographique : Natural Earth, domaine public. Localités : coordonnées publiques de repérage, arrondies.
+
+Pour examiner les zones d’opérations estimées, consulter la figure 13 de Critical Threats Project, publiée le 31 juillet 2025 (carte datée du 30 juillet). Elle correspond à une appréciation de cette période et ne décrit pas la situation actuelle. La carte originale reste consultable chez son éditeur. [10]
+
+Carte ELIKYAPEDIA : https://diela.org/elikyapedia/cartes/adf-reperes.svg
+Carte originale CTP : https://www.criticalthreats.org/wp-content/uploads/20250730-DRC-ISCAP-AOO-Map.png
+
 ## Sources
 
 [1] Conseil de sécurité de l’ONU — ADF, résumé des motifs de sanctions (CDe.001) — https://main.un.org/securitycouncil/en/sanctions/1533/materials/summaries/entity/allied-democratic-forces-(adf)
@@ -197,3 +210,6 @@ Africa Center for Strategic Studies, 8 février 2019 : origines ADF/NALU et dyna
 
 [9] Groupe d’experts de l’ONU — Rapport S/2025/446 — https://digitallibrary.un.org/record/4085466/files/S_2025_446-EN.pdf
 3 juillet 2025 : développements concernant les ADF et leurs attaques, notamment annexe 56. Période documentaire de 2025, sans extrapolation à 2026.
+
+[10] Critical Threats Project / AEI — Africa File, 31 juillet 2025, figure 13 — https://www.criticalthreats.org/analysis/russia-us-compete-west-africa-somalia-sudan-parallel-governments-deadly-attacks-in-burkinafaso-and-drc-africa-file-july-31-2025
+Carte « ISCAP Area of Operations in the DRC », datée du 30 juillet 2025. Crédit de la figure : Yale Ford ; Armed Conflict Location and Event Data (ACLED). Zones estimées d’opérations, à distinguer d’un contrôle administratif. Lien vers l’original, sans reproduction ni adaptation de cette carte.
