@@ -1,6 +1,6 @@
 # ELIKYAPEDIA — édition 2.0
 
-Publication du 9 novembre 2026 : trois domaines (Politique, Économie, Social), cinq articles de référence chacun.
+Édition du 10 novembre 2026 : seize articles dans trois domaines (six en Politique, cinq en Économie, cinq en Social).
 
 ## Source éditoriale
 
@@ -9,8 +9,8 @@ Publication du 9 novembre 2026 : trois domaines (Politique, Économie, Social), 
 `python elikyapedia/build.py` depuis la racine génère :
 
 - le catalogue et les trois portails de domaine ;
-- quinze articles sous `articles/<slug>/index.html` ;
-- quinze versions texte sous `textes/<slug>.md` ;
+- seize articles sous `articles/<slug>/index.html` ;
+- seize versions texte sous `textes/<slug>.md` ;
 - les pages de sources et de méthode ;
 - les pages de continuité depuis les anciennes adresses.
 

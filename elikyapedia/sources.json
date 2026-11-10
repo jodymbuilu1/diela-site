@@ -1,6 +1,6 @@
 {
   "edition": "2.0",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "articles": [
     {
       "title": "La justice en République démocratique du Congo",
@@ -449,6 +449,57 @@
           "title": "UNESCO — Recommandation sur une science ouverte, 2021",
           "url": "https://www.unesco.org/fr/legal-affairs/recommendation-open-science?hub=249867",
           "note": "Cadre international de coopération et d’accès aux connaissances ; ne constitue pas un bilan national."
+        }
+      ]
+    },
+    {
+      "title": "ADF : trente ans d’une guerre qui a changé de visage dans l’Est du Congo",
+      "slug": "adf",
+      "sources": [
+        {
+          "title": "Conseil de sécurité de l’ONU — ADF, résumé des motifs de sanctions (CDe.001)",
+          "url": "https://main.un.org/securitycouncil/en/sanctions/1533/materials/summaries/entity/allied-democratic-forces-(adf)",
+          "note": "Notice historique mise à jour le 5 décembre 2016 : création en 1995 et dispersion en 2013–2014. Ses indications de commandement ne décrivent pas la situation actuelle."
+        },
+        {
+          "title": "BCNUDH / MONUSCO — Violations commises par les ADF dans le territoire de Beni, octobre–décembre 2014",
+          "url": "https://monusco.unmissions.org/en/node/8479",
+          "note": "Rapport rendu public en mai 2015 et communiqué de présentation ; constatations limitées à la période étudiée."
+        },
+        {
+          "title": "Groupe d’étude sur le Congo — Who are the killers of Beni?",
+          "url": "https://www.congoresearchgroup.org/en/2016/03/21/new-report-who-are-the-killers-of-beni/",
+          "note": "21 mars 2016 : enquête de terrain, implantation locale, pluralité des acteurs et limites d’attribution des massacres."
+        },
+        {
+          "title": "Conseil de sécurité de l’ONU — Jamil Mukulu",
+          "url": "https://main.un.org/securitycouncil/en/sanctions/1533/materials/summaries/individual/jamil-mukulu",
+          "note": "Notice mise à jour le 5 décembre 2016 : arrestation en Tanzanie en avril 2015 et extradition en Ouganda en juillet 2015."
+        },
+        {
+          "title": "National Counterterrorism Center — ISIS–Democratic Republic of Congo",
+          "url": "https://archive.dni.gov/nctc/terrorist_groups/isis_drc.html",
+          "note": "Fiche archivée portant la mention « As of February 2022 » : reconnaissance publique par l’État islamique en 2019. Ce profil officiel ne prouve pas le contrôle opérationnel de chaque attaque."
+        },
+        {
+          "title": "Groupe d’experts de l’ONU — Rapport S/2015/19",
+          "url": "https://documents.un.org/api/symbol/access?l=en&s=S%2F2015%2F19&t=pdf",
+          "note": "Janvier 2015, section II.A, paragraphe 4 et suivants : lancement de Sukola I en janvier 2014 et dispersion des ADF."
+        },
+        {
+          "title": "Groupe d’experts de l’ONU — Rapport S/2022/479",
+          "url": "https://digitallibrary.un.org/record/3977153/files/S_2022_479-EN.pdf",
+          "note": "Juin 2022, paragraphe 21 et suivants : lancement de Shujaa le 30 novembre 2021 et contexte des opérations conjointes."
+        },
+        {
+          "title": "Paul Nantulya — The Ever-Adaptive Allied Democratic Forces Insurgency",
+          "url": "https://africacenter.org/spotlight/the-ever-adaptive-allied-democratic-forces-insurgency/",
+          "note": "Africa Center for Strategic Studies, 8 février 2019 : origines ADF/NALU et dynamiques locales ; analyse historique antérieure à Shujaa."
+        },
+        {
+          "title": "Groupe d’experts de l’ONU — Rapport S/2025/446",
+          "url": "https://digitallibrary.un.org/record/4085466/files/S_2025_446-EN.pdf",
+          "note": "3 juillet 2025 : développements concernant les ADF et leurs attaques, notamment annexe 56. Période documentaire de 2025, sans extrapolation à 2026."
         }
       ]
     }
