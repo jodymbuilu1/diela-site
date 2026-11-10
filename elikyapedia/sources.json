@@ -543,6 +543,72 @@
           "note": "Annexe n° 9 au projet de loi de finances 2027, introduction p. 5 : mention de la loi n° 23/030 du 28 juin 2023 modifiant et complétant la LOFIP. Cette référence sert au repérage de la modification législative, sans utiliser les projections 2027 comme résultats constatés."
         }
       ]
+    },
+    {
+      "title": "Exécution des dépenses d’investissement public en République démocratique du Congo (2020–2025)",
+      "slug": "investissements-publics",
+      "sources": [
+        {
+          "title": "RDC — Loi n° 11/011 du 13 juillet 2011 relative aux finances publiques",
+          "url": "https://budget.gouv.cd/wp-content/uploads/textes-lois/lofip2011.pdf",
+          "note": "Journal officiel, numéro spécial du 25 juillet 2011 (et non du 15 juillet). Version initiale ; classification des dépenses, chaîne de la dépense, reddition et finances provinciales. À lire avec les modifications ultérieures."
+        },
+        {
+          "title": "Ministère du Budget — Déclaration sur les risques budgétaires 2024–2026",
+          "url": "https://budget.gouv.cd/wp-content/uploads/budget2024/projet/document_num_8_drb_2024-2026_IMPR.pdf",
+          "note": "Septembre 2023, section 6.6, p. 68, graphique 6.4 : catégories constructions/réfections et équipements, données 2017–2021 issues des états de suivi budgétaire. Les projections 2024–2026 ne sont pas utilisées comme résultats réalisés."
+        },
+        {
+          "title": "Actualite.cd — RDC : les investissements publics ont représenté 3 % des dépenses courantes en 2020, soit 129 millions USD",
+          "url": "https://actualite.cd/2021/01/30/rdc-les-investissements-publics-ont-represente-3-des-depenses-courantes-en-2020-soit-129",
+          "note": "30 janvier 2021. Compte rendu d’une évaluation du ministère des Finances, avec son périmètre comptable. Son indicateur de composition des dépenses ne se substitue pas à un taux d’exécution des crédits."
+        },
+        {
+          "title": "Cour des comptes — Rapport sur l’exécution du budget du pouvoir central, exercice 2022",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2024/04/RAPPORT-POUVOIR-CENTRAL-2022.pdf",
+          "note": "Graphiques et tableaux des dépenses en capital, pages imprimées 22–23. La date figurant sur la couverture du fichier est incohérente avec l’exercice : la référence identifie donc le rapport par l’exercice, sans attribuer une date de clôture à partir de cette couverture."
+        },
+        {
+          "title": "Cour des comptes — Rapport général sur l’exécution du budget du pouvoir central, exercice 2023",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2024/12/RAPPORT-DEFINITIF-REDDITION-2023.pdf",
+          "note": "Octobre 2024, pp. 47–49, tableaux 34–36 et graphique 21. Taux par catégorie et série des paiements nominaux de construction 2020–2023. L’indice est calculé à partir du total annuel, sans conversion monétaire ni correction de prix."
+        },
+        {
+          "title": "Cour des comptes — Rapport général sur l’exécution du budget du pouvoir central, exercice 2024",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2026/01/RAPPORT-GENERAL-2024-1.pdf",
+          "note": "Octobre 2025, résumé exécutif pp. 2–4, tableau 12 p. 37 et tableau 35 p. 55. Prévisions et paiements du budget général ; les indicateurs des ressources affectées aux investissements ont un périmètre distinct."
+        },
+        {
+          "title": "Blaise Mbatshi et Yves Awa Muguma — Loi de finances 2026 : enjeux de crédibilité de l’exécution",
+          "url": "https://www.bdo-ea.com/getattachment/56e909dd-47b7-42dc-bf97-322c7cb3bb64/Note-d-analyse-sur-le-Budget-2026-de-la-RDC-1-%281%29.pdf?lang=fr-FR",
+          "note": "BDO DRC Economic Insights, mars 2026, résumé et annexe D, tableaux 19–21. Analyse indépendante utilisant des documents du ministère du Budget. Les écarts avec les tableaux de la Cour ne sont pas résolus ici ; aucune série unique n’en est déduite."
+        },
+        {
+          "title": "RDC — Loi n° 10/010 du 27 avril 2010 relative aux marchés publics",
+          "url": "https://www.armp-rdc.cd/wp-content/uploads/2021/12/Lois-relative-aux-marchs-publicsx.pdf",
+          "note": "Texte publié par l’Autorité de régulation des marchés publics. Article 1 et définitions : préparation, passation, exécution et contrôle des marchés de travaux, fournitures et services. Pas d’analyse de contentieux individuels."
+        },
+        {
+          "title": "Cour des comptes — Rapport public annuel, exercices 2024 et 2025",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2026/04/RAPPORT-PUBLIC-2024_2025-DEFINITIF.pdf",
+          "note": "Kinshasa, février 2026. Constats concernant les budgets provinciaux de 2023, notamment pp. 28–32. Le millésime du rapport public n’est pas celui de tous les comptes qu’il examine."
+        },
+        {
+          "title": "Cour des comptes — Rapport général sur l’exécution du budget du pouvoir central, exercice 2025",
+          "url": "https://courdescomptes.cd/reddition-des-comptes-du-budget-du-pouvoir-central-pour-lexercice-2025/",
+          "note": "Notice officielle du 4 novembre 2026 donnant accès au rapport intégral de Kinshasa, octobre 2026. Tableau 2, p. imprimée 23, et tableau 3, pp. 28–29 : paiements rapportés aux crédits de référence. Le contrôle de la Cour est distinct de l’adoption parlementaire de la loi de reddition."
+        },
+        {
+          "title": "Ministère du Budget — Projets annuels de performance 2027, tome I, introduction",
+          "url": "https://www.budget.gouv.cd/wp-content/uploads/budget2027/plf2027/document_num_9_pap_tome1_2027.pdf",
+          "note": "Introduction p. 5 : référence à la loi n° 23/030 du 28 juin 2023 modifiant la LOFIP. Utilisée uniquement pour identifier la modification législative, sans présenter les prévisions 2027 comme réalisations."
+        },
+        {
+          "title": "RDC — Loi organique n° 18/024 du 13 novembre 2018 relative à la Cour des comptes",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2025/07/LOI-ORGANIQUE-COUR-DES-COMPTES-RDC.pdf",
+          "note": "Journal officiel, numéro spécial du 24 novembre 2018, notamment article 153 : contrôle de gestion, performance des programmes et évaluation des politiques publiques. Les compétences prévues ne prouvent pas leur exercice pour chaque projet."
+        }
+      ]
     }
   ]
 }

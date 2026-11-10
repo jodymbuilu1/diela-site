@@ -14,6 +14,7 @@ DOMAINS = {
 def esc(s): return html.escape(str(s), quote=True)
 def inline(s):
     s=esc(s)
+    s=re.sub(r'\[([^\]\n]+)\]\((/elikyapedia/articles/[a-z0-9-]+/(?:#[a-z0-9-]+)?)\)', r'<a href="\2">\1</a>', s)
     s=re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', s)
     s=re.sub(r'\*(.+?)\*', r'<em>\1</em>', s)
     return re.sub(r'\[(\d+)\]',lambda m:f'<sup><a href="#source-{m[1]}" aria-label="Référence {m[1]}">[{m[1]}]</a></sup>',s)
@@ -71,7 +72,7 @@ def article_page(a,articles):
     prose=''.join(section_html(s,i) for i,s in enumerate(sections,1))
     refs=''.join(f'<li id="source-{i}"><a href="{esc(s["url"])}" rel="noopener">{esc(s["title"])}</a><p>{esc(s.get("note",""))}</p></li>' for i,s in enumerate(a['sources'],1))
     corpus=''.join(f'<li>{esc(s["title"])}'+(f' — {esc(s.get("period",""))}' if s.get('period') else '')+'</li>' for s in a.get('corpus',[]))
-    related=''.join(f'<a href="/elikyapedia/articles/{b["slug"]}/">{esc(b["title"])}</a>' for b in articles if (b['domain']==a['domain'] or b['slug'] in a.get('relatedSlugs',[])) and b['slug']!=slug)
+    related=''.join(f'<a href="/elikyapedia/articles/{b["slug"]}/">{esc(b["title"])}</a>' for b in articles if (b['slug'] in a['relatedSlugs'] if a.get('relatedSlugs') else b['domain']==a['domain']) and b['slug']!=slug)
     documentation=f'''<details><summary>Documentation de travail utilisée</summary><p>Les rapports énumérés ci-dessous appartiennent au corpus de travail « État des lieux de la RDC » : un ensemble de recherches thématiques réunies par DIELA pour préparer les articles et repérer leurs sources. Leur présence dans ce corpus ne vaut pas validation indépendante. Les références publiques de cet article figurent ci-dessus ; les notes internes et données personnelles ne sont pas reproduites. <a href="/elikyapedia/methode.html#corpus">Comprendre le rôle du corpus et la méthode de rédaction.</a></p><ul>{corpus}</ul></details>''' if a.get('corpus') else ''
     related_heading='Lire aussi' if a.get('relatedSlugs') else 'Lire aussi dans '+dom
     body=f'''<main id="contenu" class="article-layout"><aside class="contents"><p>Dans cet article</p><nav aria-label="Sommaire de l’article">{toc}</nav></aside><article class="article"><div class="breadcrumbs"><a href="/elikyapedia/">Encyclopédie</a><span>/</span><a href="/elikyapedia/{a['domain']}/">{dom}</a></div><header class="article-header"><p class="eyebrow">{esc(label)}</p><h1>{esc(a['title'])}</h1>{intro}<p class="article-meta">Mis à jour le {article_date}{period} · {max(1,round(nwords/220))} min de lecture · <a href="#references">Sources</a></p><div class="reading-nav"><a href="#en-bref">En bref</a><a href="#article-detaille">Article détaillé</a><button type="button" data-print>Imprimer / PDF</button></div></header>
@@ -125,6 +126,7 @@ if __name__=='__main__':
     counts=Counter(a['domain'] for a in articles)
     assert set(counts)==set(DOMAINS) and all(n>=5 for n in counts.values())
     assert len({a['slug'] for a in articles})==len(articles)
+    known_slugs={a['slug'] for a in articles}
     for a in articles:
         assert len(a['summary'].split())==100,(a['slug'],len(a['summary'].split()))
         assert len(a['keyPoints'])==10,a['slug']
@@ -134,6 +136,10 @@ if __name__=='__main__':
         assert not re.search(r'https?://(?:docs|drive)\.google\.com',json.dumps(a)),a['slug']
         cites={int(c) for c in re.findall(r'\[(\d+)\]',text)}
         assert cites and all(1<=c<=len(a['sources']) for c in cites),a['slug']
+        assert all(slug in known_slugs for slug in a.get('relatedSlugs',[])),a['slug']
+        assert not a.get('parentSlug') or a['parentSlug'] in known_slugs,a['slug']
+        for target in re.findall(r'\]\(/elikyapedia/articles/([a-z0-9-]+)/',json.dumps(a,ensure_ascii=False)):
+            assert target in known_slugs,(a['slug'],target)
         article_page(a,articles)
     catalog(articles)
     for domain in DOMAINS: catalog(articles,domain)

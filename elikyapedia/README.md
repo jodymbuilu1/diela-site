@@ -1,6 +1,6 @@
 # ELIKYAPEDIA — édition 2.0
 
-Édition du 10 novembre 2026 : dix-sept articles dans trois domaines (sept en Politique, cinq en Économie, cinq en Social).
+Édition du 10 novembre 2026 : dix-huit articles dans trois domaines (sept en Politique, six en Économie, cinq en Social).
 
 ## Source éditoriale
 
@@ -9,8 +9,8 @@
 `python elikyapedia/build.py` depuis la racine génère :
 
 - le catalogue et les trois portails de domaine ;
-- dix-sept articles sous `articles/<slug>/index.html` ;
-- dix-sept versions texte sous `textes/<slug>.md` ;
+- dix-huit articles sous `articles/<slug>/index.html` ;
+- dix-huit versions texte sous `textes/<slug>.md` ;
 - les pages de sources et de méthode ;
 - les pages de continuité depuis les anciennes adresses.
 
@@ -23,3 +23,5 @@ Le générateur valide les effectifs (au moins cinq par domaine), la longueur de
 Modifier `articles.json`, vérifier les sources, actualiser les dates de l'édition dans le générateur, régénérer, puis contrôler les liens et la mise en page avant publication. Conserver les slugs et les renvois historiques. Le Git conserve les versions antérieures. Les cahiers PDF v1 restent des archives ; ils ne sont pas l'édition courante.
 
 Les documents Drive demeurent inchangés. Les informations personnelles, instructions, stratégies internes, projections non vérifiées et accusations non sourcées ne doivent pas être publiées. Les documents tiers sont référencés chez leurs éditeurs et ne sont pas redistribués.
+
+Les articles spécialisés peuvent identifier leur article général par `parentSlug`. Les liens internes contextuels utilisent `[libellé](/elikyapedia/articles/slug/)` ; le générateur vérifie que les destinations existent dans le catalogue. Les liens internes facilitent la navigation et ne remplacent pas les références documentaires.

@@ -25,7 +25,7 @@ La reddition des comptes publics désigne l'ensemble des opérations par lesquel
 
 Dans le domaine budgétaire, elle permet de comparer les autorisations accordées par le législateur avec les recettes effectivement encaissées et les dépenses effectivement payées pendant un exercice déterminé.
 
-En République démocratique du Congo (RDC), la reddition des comptes constitue une étape du cycle des finances publiques. Elle intervient après l'exécution du budget et se traduit notamment par l'élaboration et l'examen d'une loi portant reddition des comptes.
+En République démocratique du Congo (RDC), la reddition des comptes constitue une étape du cycle des [finances publiques](/elikyapedia/articles/finances-publiques/). Elle intervient après l'exécution du budget et se traduit notamment par l'élaboration et l'examen d'une loi portant reddition des comptes.
 
 L'article 29 de la loi n° 11/011 du 13 juillet 2011 relative aux finances publiques précise que cette loi arrête le compte général du pouvoir central et règle définitivement le budget de l'exercice précédent. Elle constate les encaissements de recettes et les dépenses payées et prévoit, dans les conditions légales, le traitement des dépassements et des crédits non consommés. [1]
 
@@ -177,7 +177,7 @@ Source : https://internationalbudget.org/open-budget-survey/country-results/2023
 
 Au cours de cette période, les rapports d'exécution budgétaire et les rapports de la Cour des comptes ont fourni des informations permettant d'examiner plus précisément la gestion des finances publiques.
 
-Le rapport de la Cour des comptes relatif à l'exercice 2023, établi en octobre 2024, illustre la diversité des opérations soumises à vérification : recettes internes et extérieures, dépenses courantes, investissements, dette publique, budgets annexes, comptes spéciaux et opérations de trésorerie. [5]
+Le rapport de la Cour des comptes relatif à l'exercice 2023, établi en octobre 2024, illustre la diversité des opérations soumises à vérification : recettes internes et extérieures, dépenses courantes, [investissements publics](/elikyapedia/articles/investissements-publics/), dette publique, budgets annexes, comptes spéciaux et opérations de trésorerie. [5]
 
 Il montre également que la production de documents de reddition ne signifie pas nécessairement que toutes les opérations ont été exécutées conformément aux autorisations.
 
@@ -230,6 +230,8 @@ Les budgets annexes retracent certaines opérations de services publics dans les
 Le rapport de la Cour des comptes relatif à l'exercice 2023 examine distinctement ces composantes et relève des discordances concernant certaines entités relevant des budgets annexes. [5]
 
 L'analyse de la reddition des comptes doit donc tenir compte du périmètre exact des opérations examinées. Une présentation limitée au budget général ne couvre pas nécessairement l'ensemble des opérations financières publiques pertinentes.
+
+*Pour approfondir : [Exécution des dépenses d’investissement public en RDC (2020–2025)](/elikyapedia/articles/investissements-publics/).*
 
 ## La transparence budgétaire et l'accès du public aux comptes
 

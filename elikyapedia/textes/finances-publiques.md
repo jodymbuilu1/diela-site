@@ -1,6 +1,6 @@
 # Finances publiques de la République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
@@ -35,7 +35,9 @@ La DGI, la DGDA et la DGRAD sont les trois régies nationales les plus fréquemm
 
 La préparation budgétaire transforme les orientations gouvernementales en estimations de recettes et en plafonds de dépenses. Elle suppose des hypothèses sur la croissance, l’inflation, les échanges et les revenus attendus des principaux contribuables. Les ministères formulent leurs besoins ; les arbitrages déterminent ce qui peut être financé. Le projet soumis au Parlement présente ainsi un choix collectif sous contrainte de ressources. L’adoption de la loi de finances autorise ces opérations pour l’exercice considéré selon le cadre légal applicable. [1]
 
-Un budget peut être organisé par administration, par nature économique ou par programme. La classification administrative identifie qui dépense ; la classification économique distingue notamment rémunérations, fonctionnement et investissement ; la logique de programme rapproche des crédits d’un objectif public. Ces lectures sont complémentaires. Un crédit destiné à l’éducation ne renseigne pas, à lui seul, sur le nombre de classes construites ou d’enseignants effectivement présents. Le budget citoyen constitue une présentation simplifiée destinée à faciliter cette lecture sans remplacer les documents détaillés. [4]
+Un budget peut être organisé par administration, par nature économique ou par programme. La classification administrative identifie qui dépense ; la classification économique distingue notamment rémunérations, fonctionnement et [investissement public](/elikyapedia/articles/investissements-publics/) ; la logique de programme rapproche des crédits d’un objectif public. Ces lectures sont complémentaires. Un crédit destiné à l’éducation ne renseigne pas, à lui seul, sur le nombre de classes construites ou d’enseignants effectivement présents. Le budget citoyen constitue une présentation simplifiée destinée à faciliter cette lecture sans remplacer les documents détaillés. [4]
+
+*Article détaillé : [Exécution des dépenses d’investissement public en RDC (2020–2025)](/elikyapedia/articles/investissements-publics/).*
 
 ## La chaîne de la dépense et la trésorerie
 
@@ -57,9 +59,11 @@ Certains revenus extractifs ont des règles particulières de répartition. L’
 
 ## Contrôle, reddition des comptes et responsabilité
 
-Le contrôle intervient avant, pendant et après l’exécution. Il peut porter sur la disponibilité des crédits, la conformité d’une procédure, la justification d’un paiement ou la qualité des comptes. Les organes administratifs, le Parlement et la Cour des comptes n’exercent pas exactement les mêmes fonctions. La loi portant reddition des comptes permet de confronter le budget autorisé aux opérations de l’exercice achevé. Elle éclaire les écarts, mais sa seule adoption ne prouve pas que toutes les observations ont reçu une suite. [1]
+Le contrôle intervient avant, pendant et après l’exécution. Il peut porter sur la disponibilité des crédits, la conformité d’une procédure, la justification d’un paiement ou la qualité des comptes. Les organes administratifs, le Parlement et la Cour des comptes n’exercent pas exactement les mêmes fonctions. La [loi portant reddition des comptes](/elikyapedia/articles/reddition-des-comptes/) permet de confronter le budget autorisé aux opérations de l’exercice achevé. Elle éclaire les écarts, mais sa seule adoption ne prouve pas que toutes les observations ont reçu une suite. [1]
 
 Une anomalie comptable, une irrégularité administrative et une infraction pénale sont des catégories différentes. L’absence d’une pièce dans un dossier ne permet pas, sans investigation, d’attribuer un détournement à une personne. Inversement, une dépense juridiquement régulière peut être peu efficace. L’analyse publique distingue donc la régularité de l’opération, la fiabilité de l’information et le résultat obtenu. Cette distinction évite de transformer une lacune documentaire en accusation ou un paiement enregistré en preuve de service rendu.
+
+*Article détaillé : [Reddition des comptes publics en RDC](/elikyapedia/articles/reddition-des-comptes/).*
 
 ## Lire et comparer les données budgétaires
 
