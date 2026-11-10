@@ -1,27 +1,27 @@
 # Administration territoriale et décentralisation en RDC
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-L’administration territoriale organise la présence de l’État et des pouvoirs locaux dans l’ensemble de la République démocratique du Congo. Elle articule le pouvoir central, les provinces et les entités territoriales décentralisées. La décentralisation confie des compétences à des institutions disposant d’une autonomie, tandis que la déconcentration répartit les services du même État. Le ministère de l’Intérieur intervient dans l’administration du territoire, la sécurité intérieure et les relations avec les autorités locales, selon les attributions gouvernementales. Comprendre cet ensemble exige de distinguer les compétences légales, les ressources disponibles et les services effectivement rendus aux habitants, particulièrement dans les zones rurales éloignées.
+Obtenir un acte de naissance, demander un service ou contester une décision met les habitants en relation avec l’administration territoriale. En République démocratique du Congo, celle-ci relie autorités nationales, provinces, villes et espaces ruraux. La décentralisation confie décisions à des institutions autonomes ; la déconcentration rapproche les services du même État des habitants. Ces deux organisations ne donnent pas les mêmes responsabilités aux autorités locales. Pour qu’une mission soit assurée, les compétences prévues par la loi doivent s’accompagner de ressources, d’agents et d’équipements. L’article explique cette répartition des pouvoirs, le rôle du gouverneur, l’état civil et les services de proximité.
 
 ## Dix points clés
 
-1. La RDC est un État unitaire doté d’une organisation décentralisée.
-2. Kinshasa possède le statut de province.
-3. Les provinces ne sont pas des États souverains.
-4. Ville, commune, secteur et chefferie sont des catégories d’entités décentralisées.
-5. Le territoire n’est pas lui-même une entité territoriale décentralisée.
-6. Déconcentration et décentralisation désignent deux mécanismes différents.
-7. Le gouverneur intervient à la fois dans l’exécutif provincial et dans la représentation de l’État.
-8. Les compétences doivent être distinguées des moyens effectivement transférés.
-9. L’état civil et le fichier électoral répondent à des fonctions différentes.
-10. Le maintien de l’ordre doit respecter les libertés et les garanties légales.
+1. La RDC reste un seul État, mais certaines décisions et responsabilités sont confiées aux provinces et aux autorités locales.
+2. Kinshasa possède le statut de province : elle ne relève pas d’une autre province.
+3. Une province dispose de compétences propres sans devenir un pays indépendant.
+4. Villes, communes, secteurs et chefferies disposent d’une autonomie prévue par la loi pour certaines affaires locales.
+5. Le territoire est une circonscription administrative ; il n’a pas le même statut autonome qu’une commune ou une chefferie.
+6. Décentraliser confie des compétences à des autorités autonomes ; déconcentrer rapproche les services de l’État des habitants.
+7. Le gouverneur dirige l’exécutif provincial et représente aussi l’autorité nationale, selon les fonctions prévues par la loi.
+8. Confier une mission à une commune ne suffit pas : elle doit aussi disposer d’agents, de ressources et de matériel.
+9. L’état civil enregistre les naissances, mariages et décès ; le fichier électoral sert à organiser le vote.
+10. Assurer l’ordre public ne dispense pas les autorités de respecter les libertés et les garanties légales.
 
 ## Les échelles de l’action publique
 
-L’administration territoriale est l’ensemble des institutions, services et procédures qui permettent d’administrer un pays dans ses différentes circonscriptions. En RDC, elle relie les autorités nationales, les provinces, les villes et les espaces ruraux. Elle concerne autant la circulation des décisions que l’enregistrement des personnes, la gestion de services locaux, la prévention des crises et la production d’informations sur le territoire. L’habitant la rencontre souvent par une démarche concrète : obtenir un acte, contester une décision ou demander une intervention publique.
+L’administration territoriale organise la présence des autorités et des services publics dans les différentes parties du pays. En RDC, elle relie les autorités nationales, les provinces, les villes et les espaces ruraux. Elle concerne autant la circulation des décisions que l’enregistrement des personnes, la gestion de services locaux, la prévention des crises et la production d’informations sur le territoire. L’habitant la rencontre souvent par une démarche concrète : obtenir un acte, contester une décision ou demander une intervention publique.
 
 L’échelle administrative ne doit pas être confondue avec l’ensemble des rapports sociaux. Une même localité peut relever d’une circonscription administrative, d’une zone de santé et d’une organisation coutumière dont les périmètres ne coïncident pas. Identifier le service compétent exige de connaître la fonction recherchée, et pas seulement la proximité géographique d’un bureau. Cette distinction évite d’attribuer automatiquement au ministère de l’Intérieur toute difficulté survenant dans une province : l’éducation, les routes, les finances ou la justice possèdent également leurs autorités et leurs règles.
 
@@ -47,13 +47,13 @@ Les organes prévus par la loi doivent être distingués des modalités transito
 
 Une compétence administrative requiert des moyens récurrents : agents formés, locaux, archives, équipements, déplacements et financement. La création d’une province ou d’une commune génère des besoins de fonctionnement avant même de produire de nouveaux services. Le découpage provincial appliqué en 2015 a porté l’organisation territoriale à la configuration de vingt-six provinces prévue par la Constitution. L’augmentation du nombre d’administrations n’indique toutefois pas automatiquement une hausse proportionnelle des ressources ou de la qualité des services.
 
-Les textes distinguent recettes propres, ressources liées aux recettes nationales et mécanismes de péréquation. Le principe constitutionnel relatif aux recettes à caractère national ne doit pas être assimilé à une preuve de versement ou de retenue effectivement réalisée.[1][3] Pour analyser un financement, il faut préciser l’assiette, l’exercice budgétaire et la phase : prévision, affectation, transfert, encaissement ou dépense. Une somme inscrite dans un budget n’est pas nécessairement disponible dans la trésorerie locale. La péréquation répond, quant à elle, à la question des inégalités de ressources entre territoires.
+Une province peut financer ses activités avec des recettes qu’elle perçoit elle-même et des ressources provenant de recettes nationales. Les mécanismes de péréquation visent, eux, à réduire les inégalités de moyens entre territoires. Les textes définissent ces ressources et leur répartition. [1] [3] Mais une part prévue par la loi n’est pas une preuve de versement : il faut distinguer la somme annoncée, celle transférée et celle effectivement reçue. Pour comparer les financements, l’année budgétaire et les recettes servant de base au calcul doivent donc être les mêmes.
 
 ## Intérieur, police et libertés publiques
 
 Le ministère de l’Intérieur intervient dans la coordination administrative et la sécurité intérieure selon les attributions gouvernementales. La Police nationale congolaise ne remplit pas la même fonction que l’armée : la première assure notamment la sécurité publique et le maintien de l’ordre, tandis que la défense nationale répond à un cadre distinct. Leur éventuelle coordination dans une crise ne les transforme pas en institutions interchangeables. Les attributions exactes d’un service doivent être vérifiées dans les textes en vigueur et les actes d’organisation.
 
-La gestion d’une manifestation illustre l’articulation entre ordre public et libertés. La sécurité protège participants, riverains et agents ; elle ne supprime pas les garanties constitutionnelles de réunion, d’expression et de manifestation. La restriction d’une liberté et l’usage de la force doivent être appréciés selon leur base légale et leurs conditions, plutôt qu’à partir de la seule justification politique. La coordination de la police, des autorités territoriales et des services judiciaires importe également après l’événement : constater les blessures, préserver les preuves et permettre les recours fait partie de la gestion institutionnelle d’une crise.
+Lors d’une manifestation, les autorités doivent protéger les participants, les riverains et les agents tout en respectant les libertés de réunion, d’expression et de manifestation. Une justification politique ne suffit pas à rendre légale une restriction ou l’usage de la force : leurs conditions doivent être examinées au regard du droit. La police, les autorités locales et la justice interviennent aussi après l’événement. Constater les blessures, conserver les preuves et permettre aux personnes concernées de déposer un recours font partie de cette responsabilité.
 
 ## État civil, identité et continuité des services
 

@@ -1,27 +1,27 @@
 # La protection sociale en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-La protection sociale regroupe les mécanismes qui réduisent la vulnérabilité face à la vieillesse, aux risques professionnels, aux charges familiales, à la maladie ou à la pauvreté. En RDC, elle associe régimes contributifs, assistance publique, interventions humanitaires et solidarités familiales. La CNSS administre le régime général, tandis que la CNSSAP intervient dans le régime spécial des agents publics selon son cadre légal. L’affiliation, les cotisations versées et les prestations reçues doivent être distinguées. L’importance de l’emploi informel complique l’extension de la couverture. Les enjeux portent sur l’accès, la fiabilité des droits, le financement, la gouvernance et la continuité des prestations.
+Une maladie, un accident ou la vieillesse peuvent réduire les revenus tout en augmentant les dépenses d’une famille. La protection sociale cherche à limiter ces difficultés par l’assurance, les aides publiques et d’autres formes de soutien. En RDC, la CNSS gère le régime général et la CNSSAP un régime spécial pour les agents publics. Les solidarités familiales et les interventions humanitaires jouent aussi un rôle. Être affilié ne garantit pas qu’une prestation sera reçue. L’article explique les cotisations, les droits et les paiements, ainsi que les difficultés pour étendre une protection régulière aux personnes travaillant dans l’économie informelle du pays.
 
 ## Dix points clés
 
-1. La protection sociale dépasse le seul paiement des pensions.
-2. Assurance contributive et assistance sociale reposent sur des mécanismes différents.
-3. La CNSS succède à l’INSS dans le cadre de la réforme de 2016–2018.
-4. La CNSSAP relève d’un régime spécial distinct pour les agents publics.
-5. Affiliation, cotisation et accès effectif à une prestation sont trois étapes.
-6. La protection contre les risques professionnels comprend prévention et réparation.
-7. Le travail informel rend les mécanismes liés au salaire difficiles à généraliser.
-8. Les solidarités familiales sont importantes mais ne garantissent pas des droits universels.
-9. Une caisse sociale doit concilier paiement présent et engagements futurs.
-10. Couverture légale et couverture effective doivent être mesurées séparément.
+1. La protection sociale aide à faire face à la maladie, aux accidents, à la vieillesse et à d’autres situations qui fragilisent les revenus.
+2. Une assurance financée par des cotisations diffère d’une aide accordée selon les besoins ou la situation des bénéficiaires.
+3. La CNSS a remplacé l’INSS dans le cadre de la réforme de 2016–2018 ; elle gère le régime général de sécurité sociale.
+4. La CNSSAP gère un régime spécial pour les agents publics, distinct de celui de la CNSS.
+5. Être inscrit à une caisse, y cotiser et recevoir une prestation sont trois situations différentes.
+6. La protection contre les accidents du travail comprend la prévention des risques et la prise en charge de leurs conséquences.
+7. Les dispositifs financés par les cotisations salariales atteignent difficilement les travailleurs sans emploi salarié déclaré.
+8. L’aide familiale peut être essentielle sans garantir à chaque personne une protection régulière.
+9. Une caisse doit payer les prestations actuelles tout en prévoyant les ressources nécessaires aux droits futurs.
+10. Une protection prévue par la loi n’est effective que si les personnes peuvent réellement en bénéficier.
 
 ## Définition et fonctions de la protection sociale
 
-La protection sociale désigne un ensemble de dispositifs destinés à prévenir ou à compenser les conséquences économiques et sociales de certains risques. Une maladie peut entraîner une dépense et une perte de revenu ; un accident professionnel peut réduire durablement la capacité de travail ; la vieillesse modifie les ressources d’un ménage. La protection concerne donc des événements individuels, mais aussi la stabilité collective : elle peut contribuer à éviter qu’un choc temporaire provoque une pauvreté durable ou interrompe la scolarité des enfants.
+La protection sociale aide les personnes à faire face aux dépenses et aux pertes de revenu liées à la maladie, aux accidents, à la vieillesse ou à d’autres difficultés. Une maladie peut entraîner une dépense et une perte de revenu ; un accident professionnel peut réduire durablement la capacité de travail ; la vieillesse modifie les ressources d’un ménage. La protection concerne donc des événements individuels, mais aussi la stabilité collective : elle peut contribuer à éviter qu’un choc temporaire provoque une pauvreté durable ou interrompe la scolarité des enfants.
 
 Deux mécanismes doivent être distingués. L’assurance sociale repose sur l’affiliation et des contributions, avec des droits définis par des règles. L’assistance sociale vise des personnes ou des situations selon des critères d’éligibilité et un financement qui ne dépend pas nécessairement de contributions antérieures. Les transferts familiaux constituent une autre forme de soutien. Ils peuvent être importants, mais ne créent pas les mêmes garanties qu’un droit opposable assorti d’une procédure de recours.
 
@@ -47,13 +47,13 @@ La fiabilité administrative a une conséquence directe sur l’accès aux droit
 
 Une protection organisée principalement autour de la relation salariale atteint difficilement les personnes dont l’activité est irrégulière, indépendante ou non déclarée. Pour ces ménages, la contribution mensuelle fixe peut ne pas correspondre au calendrier des revenus. Les agriculteurs, vendeurs, artisans et travailleurs occasionnels rencontrent des situations diverses ; les regrouper dans une seule catégorie masque les différences de capacité contributive et de risque. L’extension de la couverture implique donc des mécanismes adaptés, ainsi qu’une capacité d’identification et de gestion.
 
-Les familles, associations, communautés religieuses et réseaux de proximité soutiennent de nombreuses personnes confrontées à un décès, à une maladie ou à une interruption de revenu. Cette solidarité peut répondre rapidement à des besoins ignorés par les dispositifs formels. Elle présente aussi des limites : le soutien dépend des ressources disponibles dans le réseau et peut diminuer lorsque plusieurs membres subissent le même choc. L’assistance publique et l’action humanitaire ont des logiques propres ; elles ne doivent pas être assimilées à une pension contributive.
+Lorsqu’une personne tombe malade, perd un revenu ou subit un décès dans sa famille, ses proches et ses réseaux peuvent apporter une aide rapide. Les associations et les communautés religieuses jouent aussi ce rôle. Mais ce soutien dépend des moyens disponibles : il peut diminuer lorsque plusieurs membres du réseau sont touchés en même temps. L’aide familiale, l’assistance publique et l’intervention humanitaire ne garantissent donc pas les mêmes droits ni la même continuité qu’une pension financée par des cotisations. Ces protections se complètent sans être interchangeables.
 
 ## Financement, réserves et gouvernance
 
 Une institution de sécurité sociale reçoit des ressources aujourd’hui et contracte des engagements qui peuvent se prolonger pendant plusieurs décennies. Elle doit payer les prestations courantes, couvrir ses coûts administratifs et anticiper les besoins futurs. La viabilité ne se lit donc pas dans un simple solde bancaire. Elle dépend des cotisants, des rémunérations déclarées, de la régularité des versements, de la durée des prestations et des règles de gestion. Une augmentation des recettes peut accompagner une augmentation plus rapide des engagements.
 
-Les réserves et les placements doivent être appréciés au regard de leur sécurité, de leur liquidité et des obligations de la caisse. Un actif immobilier peut avoir une valeur patrimoniale sans fournir immédiatement les ressources nécessaires au paiement des pensions. Les comptes, audits et évaluations actuarielles apportent des informations complémentaires. L’examen de la solvabilité ou des irrégularités de gestion exige des comptes, des audits et des constatations précises, associés à une période et à un périmètre comptable.
+Une caisse peut posséder des biens de valeur et manquer pourtant d’argent disponible pour payer les pensions. Un immeuble, par exemple, ne se transforme pas immédiatement en moyens de paiement. Les réserves et les placements doivent donc être examinés avec les prestations à verser aujourd’hui et les droits à financer demain. Les comptes et les audits décrivent la gestion ; les évaluations actuarielles estiment les engagements futurs. Conclure à une difficulté financière ou à une irrégularité exige des données précises, datées et portant sur les mêmes opérations.
 
 ## Évaluer la couverture et les résultats
 

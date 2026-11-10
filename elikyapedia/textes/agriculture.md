@@ -1,27 +1,27 @@
 # Agriculture et systèmes alimentaires en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-L’agriculture congolaise fournit des aliments, des revenus et des emplois dans des milieux écologiques divers. Manioc, maïs, riz, bananes, légumineuses et cultures commerciales s’insèrent dans des systèmes locaux différents. La richesse des terres ne garantit pourtant ni rendement élevé ni sécurité alimentaire. L’accès au foncier, aux semences, aux outils, aux routes et aux marchés détermine ce que les producteurs peuvent récolter et vendre. Les conflits, les déplacements et les pertes après récolte fragilisent ces chaînes. Comprendre l’agriculture demande donc de relier la parcelle aux activités de transformation, de transport et de commerce, ainsi qu’à la nutrition et aux ressources naturelles.
+L’agriculture congolaise nourrit les populations et procure des revenus, mais la disponibilité des terres ne suffit pas à assurer de bonnes récoltes. Les producteurs ont besoin d’un accès durable au foncier, de semences adaptées, de travail, d’eau et de débouchés. Manioc, maïs, riz, bananes et cultures commerciales s’inscrivent dans des systèmes différents selon les territoires. Après la récolte, le stockage, la transformation et le transport influencent ce qui peut être vendu ou consommé. Les conflits et les aléas climatiques perturbent ces activités. L’article relie le travail des exploitations à l’approvisionnement des marchés, aux revenus ruraux et à la sécurité alimentaire.
 
 ## Dix points clés
 
-1. Les systèmes agricoles varient selon le climat, les sols et l’accès aux marchés.
-2. Le manioc occupe une place importante dans l’alimentation et les échanges.
-3. La production vivrière et les cultures commerciales peuvent coexister sur une exploitation.
-4. Les hectares disponibles ne mesurent pas la productivité agricole.
-5. Les semences et les boutures relèvent de circuits formels et locaux.
-6. La sécurité foncière influence les investissements de long terme.
-7. Les routes et les coûts de transport conditionnent les débouchés.
-8. Stockage et transformation réduisent certaines pertes et créent de la valeur.
-9. Une production nationale accrue ne garantit pas l’accès alimentaire de tous les ménages.
-10. Les conflits et les aléas climatiques affectent à la fois les producteurs et les consommateurs.
+1. Les cultures et les méthodes agricoles doivent être adaptées au climat, aux sols et aux marchés de chaque territoire.
+2. Le manioc est à la fois un aliment important et une source de revenus pour de nombreux producteurs.
+3. Une exploitation peut cultiver pour nourrir la famille et vendre une partie de sa production.
+4. Disposer de beaucoup de terres ne dit pas combien on récolte par hectare ni combien le travail rapporte.
+5. Les agriculteurs se procurent semences et boutures auprès d’organismes, de commerçants ou par des échanges locaux.
+6. La possibilité de conserver l’usage d’une terre compte pour décider d’y planter ou d’y investir durablement.
+7. Une récolte ne trouve pas facilement d’acheteur si les routes sont impraticables ou si le transport coûte trop cher.
+8. Le stockage et la transformation peuvent limiter les pertes et permettre de vendre des produits mieux valorisés.
+9. Produire davantage dans le pays ne garantit pas que chaque ménage puisse acheter ou obtenir une alimentation suffisante.
+10. Les conflits et les aléas climatiques peuvent interrompre la production, les transports et l’approvisionnement des marchés.
 
 ## Définition et diversité des agricultures
 
-L’agriculture regroupe les activités de culture et d’élevage destinées à produire des aliments, des matières premières et des revenus. En RDC, cette définition recouvre une grande diversité : champs familiaux, maraîchage périurbain, plantations commerciales, élevages et associations entre cultures. La pêche et la forêt participent également aux moyens d’existence ruraux, sans se confondre avec la production agricole au sens strict. Les conditions d’une zone de savane ne sont pas celles d’un territoire forestier ou d’un plateau d’altitude.
+L’agriculture fournit des aliments, des matières premières et des revenus par la culture des plantes et l’élevage. En RDC, cette définition recouvre une grande diversité : champs familiaux, maraîchage périurbain, plantations commerciales, élevages et associations entre cultures. La pêche et la forêt participent également aux moyens d’existence ruraux, sans se confondre avec la production agricole au sens strict. Les conditions d’une zone de savane ne sont pas celles d’un territoire forestier ou d’un plateau d’altitude.
 
 L’unité pertinente n’est donc pas toujours la moyenne nationale. Calendrier des pluies, qualité des sols, pression des maladies, accès à une ville et situation sécuritaire déterminent les possibilités locales. Les profils de moyens d’existence publiés par FEWS NET montrent comment les ménages combinent productions, travail rémunéré, petit commerce et autres activités. [1] Une exploitation peut consommer une partie de sa récolte, vendre un surplus et acheter d’autres denrées : agriculture de subsistance et participation au marché ne sont pas deux mondes étanches.
 
@@ -63,9 +63,9 @@ Les conflits déplacent les agriculteurs, empêchent l’accès aux champs et pe
 
 ## Institutions, connaissances et lecture des données
 
-Les administrations agricoles, les services de recherche et de vulgarisation, les organisations de producteurs et les acteurs privés participent au secteur. Les uns définissent un cadre et apportent des services, les autres produisent, transforment et commercialisent. La réussite d’une coopérative dépend de règles de gestion et de services concrets ; son statut ne garantit ni débouché ni bonne gouvernance. De même, une mécanisation efficace suppose des conducteurs, de l’entretien, des pièces et un calendrier d’utilisation cohérent.
+Le secteur agricole réunit ceux qui produisent, transforment et vendent, mais aussi ceux qui définissent les règles, recherchent de nouvelles techniques ou accompagnent les exploitations. Les services de vulgarisation transmettent ainsi des connaissances utilisables par les producteurs. Créer une coopérative ne garantit pas qu’elle trouvera des acheteurs : elle doit rendre des services et disposer de règles de gestion fiables. Acheter un tracteur ne suffit pas non plus à mécaniser durablement une exploitation. Il faut un conducteur, de l’entretien, des pièces et une utilisation adaptée au calendrier agricole.
 
-Pour comparer des performances, il faut préciser culture, campagne, superficie, méthode de mesure et destination des volumes. Les surfaces semées, les surfaces récoltées et les surfaces aménagées sont différentes. Les statistiques nationales, les enquêtes d’exploitation et les études de chaîne de valeur se complètent. Une estimation de potentiel indique ce qui pourrait être obtenu sous certaines hypothèses ; une récolte mesurée décrit un résultat observé. Cette distinction est fondamentale dans les comparaisons entre régions, car une grande superficie disponible peut coexister avec de faibles rendements et un accès difficile aux marchés.
+Une grande superficie disponible ne garantit pas de bonnes récoltes. Pour comparer deux exploitations ou deux régions, il faut savoir quelle culture est mesurée, pendant quelle campagne, sur quelle surface et avec quelle méthode. Une terre aménagée n’est pas forcément semée ; une surface semée n’est pas toujours récoltée. Les enquêtes auprès des exploitations, les statistiques nationales et les études du transport ou de la vente renseignent des étapes différentes. Un rendement espéré décrit une possibilité ; une récolte mesurée décrit ce qui a réellement été obtenu.
 
 ## Sources
 

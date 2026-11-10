@@ -1,27 +1,27 @@
 # L’éducation en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-L’éducation en RDC comprend des parcours scolaires, universitaires, techniques et non formels, organisés par un ensemble d’acteurs publics et privés. Les réseaux confessionnels occupent une place importante dans l’offre publique conventionnée. La gratuité du primaire public, déployée depuis 2019, a modifié son financement sans supprimer tous les obstacles à la scolarisation. La disponibilité des enseignants, les infrastructures et les apprentissages restent déterminants. Les inégalités concernent notamment les territoires, les revenus, le genre et les situations de handicap ou de déplacement. L’analyse distingue accès, présence, achèvement et compétences acquises. Elle relie école, formation professionnelle, enseignement supérieur et besoins sociaux du pays.
+L’éducation congolaise comprend l’école, l’université, la formation professionnelle et les dispositifs permettant de reprendre des apprentissages interrompus. Les établissements publics, les réseaux confessionnels conventionnés et les écoles privées occupent des places différentes. La gratuité du primaire public, déployée depuis 2019, a changé son financement sans supprimer tous les coûts supportés par les familles. Être inscrit ne signifie pas forcément fréquenter les cours, terminer un cycle ou maîtriser les savoirs attendus. La présence des enseignants, leur formation et les conditions d’enseignement comptent. L’article explique ces parcours et les obstacles liés aux revenus, aux territoires, aux conflits et aux situations de handicap.
 
 ## Dix points clés
 
-1. L’éducation couvre des voies formelles et non formelles.
-2. Écoles publiques conventionnées et écoles privées ne se confondent pas.
+1. Apprendre peut se faire à l’école, dans une formation professionnelle ou par des dispositifs d’alphabétisation et de rattrapage.
+2. Une école publique conventionnée peut être gérée avec un réseau confessionnel ; elle ne se confond pas avec une école privée.
 3. La gratuité du primaire public est mise en œuvre depuis septembre 2019.
-4. Les coûts indirects peuvent continuer à peser sur les familles.
-5. Inscription, présence, achèvement et apprentissage sont des mesures différentes.
-6. La formation et la disponibilité des enseignants influencent la qualité.
-7. Les langues d’apprentissage ont un rôle pédagogique et social.
-8. L’enseignement technique relie formation générale et compétences professionnelles.
-9. Les conflits et déplacements perturbent la continuité scolaire.
-10. Les statistiques doivent distinguer taux bruts, taux nets et acquis scolaires.
+4. Même lorsque l’enseignement est gratuit, les fournitures, les transports et d’autres dépenses peuvent peser sur les familles.
+5. Être inscrit ne signifie ni assister régulièrement aux cours, ni terminer le cycle, ni maîtriser les apprentissages.
+6. La qualité de l’enseignement dépend notamment de la formation des enseignants et de leur présence en classe.
+7. La langue d’enseignement compte pour comprendre les cours et poursuivre les apprentissages.
+8. L’enseignement technique et professionnel prépare notamment à exercer des métiers.
+9. Les conflits et les déplacements peuvent interrompre la scolarité et désorganiser les écoles.
+10. Un taux de scolarisation indique une fréquentation mesurée, pas ce que les élèves savent effectivement faire.
 
 ## Architecture du système éducatif
 
-Le système éducatif congolais comprend l’enseignement maternel, primaire, secondaire, technique et professionnel, ainsi que l’enseignement supérieur et universitaire. Il existe également des dispositifs d’alphabétisation, de rattrapage et d’éducation non formelle. Ces voies répondent à des situations différentes : entrée dans les apprentissages, poursuite d’études, acquisition d’un métier ou reprise après une interruption. Leur articulation importe autant que leur existence, car une personne peut avoir besoin de passer d’une voie à une autre au cours de sa formation.
+L’éducation congolaise comprend l’école maternelle, primaire et secondaire, les formations techniques et professionnelles, puis l’enseignement supérieur et universitaire. Il existe également des dispositifs d’alphabétisation, de rattrapage et d’éducation non formelle. Ces voies répondent à des situations différentes : entrée dans les apprentissages, poursuite d’études, acquisition d’un métier ou reprise après une interruption. Leur articulation importe autant que leur existence, car une personne peut avoir besoin de passer d’une voie à une autre au cours de sa formation.
 
 La loi-cadre n°14/004 du 11 février 2014 constitue un repère juridique majeur. Elle définit les principes et l’organisation de l’enseignement national. Les appellations ministérielles et les découpages administratifs peuvent évoluer ; ils ne doivent pas être confondus avec les cycles pédagogiques. Pour comprendre un parcours, il faut identifier son niveau, ses conditions d’accès, sa certification et les possibilités de poursuite. Un diplôme décrit une qualification reconnue ; il ne mesure pas, à lui seul, l’ensemble des compétences réellement maîtrisées. [1]
 
@@ -47,7 +47,7 @@ Le français et les langues congolaises occupent des fonctions différentes selo
 
 Les obstacles scolaires se cumulent souvent. Éloignement, pauvreté, handicap, travail des enfants, manque d’infrastructures adaptées ou interruption liée à un déplacement peuvent réduire la fréquentation. Les contraintes qui touchent les filles comprennent aussi des risques de violence et des responsabilités domestiques ; elles varient selon les milieux et les âges. L’UNICEF identifie les coûts directs et indirects ainsi que les crises parmi les freins à une éducation accessible et de qualité. Ces mécanismes ne se résument pas à un manque de motivation des familles. [4]
 
-Une interruption scolaire ne correspond pas toujours à un abandon définitif. Les dispositifs de rattrapage, d’enseignement accéléré et de formation non formelle peuvent permettre une reprise. Leur valeur dépend de la qualité des apprentissages et de la reconnaissance des acquis, afin que les bénéficiaires disposent de perspectives réelles. En contexte de conflit, la continuité inclut également la sécurité des lieux d’apprentissage et des itinéraires. L’école a besoin d’un environnement protecteur pour remplir sa fonction éducative.
+Quitter temporairement l’école ne signifie pas toujours abandonner ses études. Des cours de rattrapage, des programmes accélérés et des formations hors du parcours scolaire ordinaire peuvent permettre une reprise. Encore faut-il que les apprentissages soient solides et reconnus, afin d’ouvrir une poursuite d’études ou une formation utile. Pendant un conflit, reprendre les cours suppose aussi de pouvoir rejoindre l’école sans danger. La sécurité des bâtiments et des trajets participe donc à la continuité de l’éducation, au même titre que les enseignants et les programmes.
 
 ## Formation technique et enseignement supérieur
 
@@ -59,7 +59,7 @@ L’enseignement supérieur forme notamment les professionnels, enseignants et c
 
 Le taux brut de scolarisation rapporte tous les élèves d’un cycle à la population d’âge officiel correspondante ; il peut dépasser cent pour cent lorsque de nombreux élèves sont plus jeunes ou plus âgés. Le taux net se concentre sur la population d’âge prévu. Aucun des deux ne prouve que les élèves assistent régulièrement aux cours ou maîtrisent les compétences attendues. Le taux d’achèvement, les transitions entre cycles et les évaluations d’apprentissage apportent des informations complémentaires.
 
-Le Rapport d’état du système éducatif national publié en 2014 offre une analyse historique des flux, des ressources et des disparités. Il reste utile pour comprendre les mécanismes, mais ses chiffres ne décrivent pas automatiquement l’école de 2026. Toute comparaison doit préciser année, périmètre et définition. Relier inscriptions, moyens réellement déployés et acquis permet de comprendre les résultats sans confondre une expansion quantitative avec une amélioration complète du service éducatif. [5]
+Le rapport national sur le système éducatif publié en 2014 décrit les parcours scolaires, les ressources et les inégalités de cette période. Ses analyses aident à comprendre des mécanismes, mais ses chiffres ne décrivent pas automatiquement l’école de 2026. [5] Pour suivre une évolution, il faut comparer des années et des populations définies de la même façon. Davantage d’inscriptions peut traduire un meilleur accès à l’école ; cela ne dit pas, à lui seul, si les enseignants sont présents, si les élèves restent scolarisés ou s’ils apprennent davantage.
 
 ## Sources
 

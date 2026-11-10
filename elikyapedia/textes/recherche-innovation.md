@@ -1,27 +1,27 @@
 # La recherche scientifique et l’innovation en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-La recherche scientifique en RDC associe universités, instituts publics, équipes hospitalières, partenaires et initiatives privées. Elle produit des connaissances sur la santé, l’agriculture, les sociétés, les ressources naturelles et les technologies. L’innovation transforme certaines connaissances en usages, sans se réduire aux brevets ni aux applications numériques. Le passage du laboratoire au terrain dépend des compétences, des équipements, du financement et des organisations. Les collaborations internationales apportent des moyens mais posent aussi des questions de priorités, de gouvernance et de partage des résultats. L’évaluation doit distinguer publications, capacités durables, qualité scientifique et utilité sociale, en précisant les limites des données disponibles.
+La recherche scientifique cherche à comprendre des phénomènes et à résoudre des problèmes avec des méthodes vérifiables. En RDC, universités, instituts, équipes hospitalières et partenaires travaillent sur la santé, l’agriculture, les sociétés et les ressources naturelles. Mais une découverte ou une publication ne devient pas automatiquement un outil utilisable. Le passage à l’usage dépend des compétences, des équipements, du financement et de l’organisation. L’article explique cette différence entre recherche et innovation, le rôle des institutions et les conditions de collaboration. Il montre pourquoi compter les publications ou les brevets ne suffit pas à mesurer l’utilité des connaissances pour les populations.
 
 ## Dix points clés
 
-1. Recherche fondamentale, recherche appliquée et développement expérimental sont complémentaires.
-2. Les universités forment des chercheurs et produisent des connaissances.
-3. Les instituts spécialisés disposent de missions et de terrains propres.
-4. L’INRB relie laboratoire, recherche biomédicale et surveillance sanitaire.
-5. L’INERA participe à la recherche agronomique et à son adaptation territoriale.
-6. Une publication ne devient pas automatiquement un service ou une innovation.
-7. Les brevets ne mesurent qu’une partie de l’activité inventive.
-8. Équipements, maintenance et techniciens conditionnent la continuité scientifique.
-9. La collaboration doit organiser éthique, données, attribution et partage des bénéfices.
-10. Les statistiques de recherche exigent des définitions et des années comparables.
+1. La recherche peut chercher à comprendre un phénomène, résoudre un problème pratique ou mettre au point un procédé.
+2. Les universités transmettent des connaissances, forment des chercheurs et participent à la production de nouveaux savoirs.
+3. Les instituts spécialisés concentrent des compétences sur des domaines précis, comme la santé ou l’agriculture.
+4. L’INRB associe la recherche biomédicale, le travail de laboratoire et la surveillance sanitaire.
+5. L’INERA mène des recherches agricoles dont l’adaptation aux conditions locales compte pour les producteurs.
+6. Publier un résultat ne suffit pas à le transformer en traitement, en technique agricole ou en service utilisable.
+7. Un brevet protège certaines inventions ; son nombre ne mesure pas toutes les innovations effectivement utilisées.
+8. Un laboratoire a besoin de techniciens, d’entretien et d’approvisionnements, pas seulement d’appareils.
+9. Une collaboration scientifique doit préciser qui décide, utilise les données, reçoit le crédit et bénéficie des résultats.
+10. Comparer des équipes ou des pays suppose de compter les mêmes activités sur des périodes comparables.
 
 ## Ce que recouvrent recherche et innovation
 
-La recherche scientifique produit des connaissances par des méthodes explicites, soumises à la discussion et à la vérification. Elle peut chercher à comprendre un phénomène sans application immédiate, répondre à une question pratique ou développer un procédé. L’innovation concerne la mise en usage d’une nouveauté ou d’une amélioration dans un contexte donné. Une invention peut rester sans utilisation ; à l’inverse, une organisation peut innover en adaptant une technique existante. Ces distinctions évitent de réduire la science à des équipements ou l’innovation à une annonce.
+La recherche scientifique cherche à comprendre des phénomènes ou à résoudre des problèmes avec des méthodes que d’autres peuvent examiner et vérifier. Elle peut chercher à comprendre un phénomène sans application immédiate, répondre à une question pratique ou développer un procédé. L’innovation concerne la mise en usage d’une nouveauté ou d’une amélioration dans un contexte donné. Une invention peut rester sans utilisation ; à l’inverse, une organisation peut innover en adaptant une technique existante. Ces distinctions évitent de réduire la science à des équipements ou l’innovation à une annonce.
 
 En RDC, les besoins de connaissance concernent aussi bien les maladies et les cultures agricoles que les langues, les institutions, les sols et les modes de production. Les sciences humaines et sociales contribuent à comprendre les usages, les comportements et les rapports de pouvoir qui influencent l’adoption d’une solution. Une technologie techniquement performante peut rester inutilisée si elle ne correspond ni aux ressources ni aux pratiques des utilisateurs. La recherche et l’innovation forment ainsi un ensemble de relations, plutôt qu’une suite automatique de découvertes.
 
@@ -57,9 +57,9 @@ Les partenariats internationaux soulèvent aussi des questions de choix des suje
 
 ## Comment apprécier les capacités et les résultats
 
-Le nombre de publications mesure une activité de diffusion, mais dépend des bases consultées, des disciplines et des règles de comptage. Les ouvrages, rapports techniques, données et productions dans les langues locales peuvent être moins visibles que les articles indexés. Les brevets constituent un autre indicateur, soumis à des choix juridiques et économiques ; leur nombre ne mesure ni toutes les inventions ni leur adoption. Les comparaisons internationales nécessitent des définitions communes et des périodes identiques.
+Compter les articles scientifiques renseigne sur les publications, mais laisse parfois de côté des livres, des rapports techniques, des données et des travaux en langues locales. Le résultat dépend aussi des bases de données consultées et des règles de comptage. Les brevets apportent une autre information : ils concernent les inventions pour lesquelles une protection juridique a été demandée. Leur nombre ne dit pas combien de techniques sont utilisées ni à qui elles servent. Comparer des équipes ou des pays suppose donc de préciser les activités comptées et la période étudiée.
 
-Une appréciation plus complète relie ressources, continuité des équipes, qualité des travaux et effets observables. Un résultat peut contribuer à une politique publique, à une meilleure surveillance ou à une pratique agricole sans créer un produit commercial. À l’inverse, une technologie vendue peut produire des bénéfices inégaux ou des effets indésirables. Les études prospectives peuvent comparer plusieurs trajectoires possibles, mais leurs scénarios restent des hypothèses conditionnelles. Les objectifs de financement ou de formation qu’elles proposent ne décrivent pas les capacités déjà disponibles et ne constituent pas des résultats acquis.
+Un résultat de recherche peut améliorer la surveillance sanitaire, une pratique agricole ou une décision publique sans devenir un produit vendu. À l’inverse, une technologie commercialisée peut apporter des bénéfices inégaux ou des effets indésirables. L’utilité se juge donc aussi à la qualité des travaux, à la continuité des équipes et aux changements observés. Les scénarios prospectifs décrivent ce qui pourrait arriver sous certaines conditions. Ils ne prouvent pas qu’un financement annoncé, des équipements ou des compétences sont déjà disponibles sur le terrain.
 
 ## Sources
 

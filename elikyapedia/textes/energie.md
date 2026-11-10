@@ -1,27 +1,27 @@
 # Énergie en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-L’énergie en RDC associe hydroélectricité, combustibles domestiques et produits pétroliers, avec des usages différents selon les territoires. Le potentiel du fleuve Congo contraste avec la difficulté d’accès à un service électrique fiable. Entre une ressource et une prise utilisable interviennent centrales, réseaux, distribution, entretien et financement. La SNEL demeure un acteur historique important, dans un secteur ouvert à d’autres opérateurs par la loi de 2014. Les grands projets hydroélectriques, les mini-réseaux et les équipements autonomes répondent à des besoins distincts. L’évaluation du secteur doit mesurer disponibilité, qualité, coût, couverture territoriale et effets environnementaux pour les ménages comme pour les entreprises.
+Le potentiel hydroélectrique du Congo ne garantit pas que chaque foyer dispose d’électricité. Entre le fleuve et une prise utilisable, il faut des centrales en état de marche, des lignes, une distribution locale et un financement durable. L’énergie sert aussi à cuisiner, à se déplacer et à produire. Les besoins diffèrent donc selon les ménages, les entreprises et les territoires. La SNEL reste un acteur historique dans un secteur ouvert à d’autres opérateurs depuis la loi de 2014. L’article explique les barrages, les réseaux, les solutions autonomes et les conditions nécessaires pour fournir un service fiable, accessible et régulièrement entretenu.
 
 ## Dix points clés
 
-1. L’énergie comprend davantage que l’électricité : cuisson, transport et chaleur en font partie.
-2. La puissance installée se distingue de la puissance réellement disponible.
-3. Les mégawatts mesurent une puissance ; les kilowattheures mesurent une énergie.
-4. L’hydroélectricité structure les principaux réseaux électriques congolais.
-5. Un ménage raccordé peut subir une alimentation insuffisante ou irrégulière.
-6. Le transport à haute tension et la distribution locale ont des fonctions distinctes.
-7. La loi de 2014 organise le cadre du secteur électrique.
-8. Les mini-réseaux et les systèmes autonomes peuvent desservir des zones éloignées.
-9. Le potentiel d’Inga doit être distingué des ouvrages existants et des projets.
-10. La maintenance et le recouvrement des factures conditionnent la continuité du service.
+1. L’énergie sert à s’éclairer, mais aussi à cuisiner, se déplacer, chauffer et produire.
+2. Une centrale peut avoir une grande capacité annoncée tout en produisant moins lorsque ses équipements sont indisponibles.
+3. Les mégawatts indiquent une puissance ; les kilowattheures indiquent la quantité d’électricité produite ou consommée au fil du temps.
+4. Les barrages hydroélectriques alimentent une part importante des principaux réseaux congolais.
+5. Être raccordé au réseau ne garantit pas une alimentation continue ni suffisante.
+6. Les lignes de transport acheminent l’électricité sur de longues distances ; la distribution la livre localement aux usagers.
+7. La loi de 2014 organise le secteur électrique et son ouverture à des opérateurs autres que la SNEL.
+8. Un mini-réseau ou un équipement autonome peut fournir de l’électricité loin des grandes lignes nationales.
+9. Le potentiel d’Inga désigne ce qui pourrait être développé ; il ne correspond pas à la production des barrages déjà en service.
+10. Entretenir les installations et disposer de recettes régulières aide à maintenir le service dans la durée.
 
 ## Un système énergétique aux usages multiples
 
-Le système énergétique congolais réunit les ressources, les infrastructures et les organisations qui fournissent l’électricité, les carburants et l’énergie de cuisson. Son analyse change selon l’usage considéré. Un ménage prépare ses repas avec un combustible ; un hôpital conserve des vaccins et fait fonctionner ses équipements avec de l’électricité ; un transporteur dépend d’un carburant et d’une chaîne logistique. Ces besoins peuvent coexister dans un même territoire sans être satisfaits par une solution unique.
+L’énergie permet aux ménages de cuisiner, aux hôpitaux de faire fonctionner leurs appareils et aux entreprises de produire ou de transporter. Ces usages dépendent de ressources et d’installations différentes. Un ménage prépare ses repas avec un combustible ; un hôpital conserve des vaccins et fait fonctionner ses équipements avec de l’électricité ; un transporteur dépend d’un carburant et d’une chaîne logistique. Ces besoins peuvent coexister dans un même territoire sans être satisfaits par une solution unique.
 
 Les hydrocarbures et l’électricité constituent des filières différentes, dont le fonctionnement est lié aux transports, à l’industrie et à la vie quotidienne. Cette approche évite de déduire le niveau de développement énergétique de la seule production d’un barrage. Le potentiel naturel, la capacité technique de conversion et le service final sont trois réalités différentes. La disponibilité d’eau ou de soleil ne dispense ni d’investissements ni d’une organisation durable de l’exploitation.
 
@@ -45,7 +45,7 @@ L’accès est une notion plus large que la présence d’une ligne. Il faut dis
 
 ## Institutions, opérateurs et cadre juridique
 
-La SNEL est l’opérateur historique auquel une grande partie des infrastructures est associée. Il convient toutefois de distinguer cet opérateur du ministère responsable de la politique sectorielle, de l’autorité de régulation et des organismes chargés de promouvoir l’électrification. Les fonctions d’orientation, de contrôle économique et d’exploitation ne se confondent pas. Des producteurs privés et des dispositifs locaux peuvent également participer à la fourniture d’électricité.
+La SNEL exploite une grande partie des infrastructures électriques historiques. Elle ne remplit pas toutes les fonctions du secteur : le ministère définit la politique publique, l’autorité de régulation encadre notamment son fonctionnement économique et d’autres organismes soutiennent l’électrification. Produire et distribuer l’électricité, fixer les orientations et contrôler les opérateurs sont donc des tâches distinctes. Des producteurs privés et des réseaux locaux peuvent aussi fournir de l’électricité. L’existence de plusieurs acteurs impose de comprendre leurs responsabilités plutôt que d’attribuer tout le service à une seule institution.
 
 La loi n°14/011 du 17 juin 2014 relative au secteur de l’électricité constitue la référence juridique de cette organisation. Elle encadre les activités et prévoit notamment la régulation ainsi qu’un mécanisme de promotion de l’électrification rurale et périurbaine. [2] L’existence d’une loi ne suffit pas à déterminer l’état d’un projet : les autorisations, les contrats, les tarifs et les conditions techniques doivent être examinés séparément. Une annonce d’investissement ne constitue ni une autorisation d’exploiter ni une preuve de mise en service.
 
@@ -53,7 +53,7 @@ La loi n°14/011 du 17 juin 2014 relative au secteur de l’électricité consti
 
 Dans les zones éloignées des grands réseaux, un mini-réseau peut relier une production locale à plusieurs consommateurs. Un système autonome dessert au contraire un utilisateur ou un bâtiment sans réseau collectif étendu. Les sources peuvent associer solaire, petite hydroélectricité, batteries et groupes de secours. Chaque configuration comporte des contraintes : investissement initial, stockage, disponibilité des pièces, compétences de maintenance et niveau de demande.
 
-La pertinence d’un dispositif dépend des services attendus. Éclairer et recharger un téléphone ne nécessite pas la même puissance qu’un moulin, une chaîne du froid ou un atelier. Une solution dimensionnée uniquement sur la demande domestique peut limiter les usages productifs ; une installation surdimensionnée peut être coûteuse à financer. Le choix entre extension de réseau, mini-réseau et équipement individuel doit donc prendre en compte la densité de population, la distance, les besoins et la capacité de gestion sur plusieurs années.
+Une installation adaptée à l’éclairage et à la recharge de téléphones peut être insuffisante pour un moulin, un atelier ou une chaîne du froid. À l’inverse, financer une installation trop grande pour les besoins réels peut coûter inutilement cher. Le choix dépend donc de ce que les usagers veulent faire, du nombre de clients, des distances et des moyens d’entretien. Un réseau national, un mini-réseau local et un équipement individuel répondent à des situations différentes ; aucun ne convient automatiquement à tous les villages ou à toutes les activités.
 
 ## Carburants, cuisson et conséquences environnementales
 

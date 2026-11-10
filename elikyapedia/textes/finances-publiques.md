@@ -4,24 +4,24 @@ ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-Les finances publiques organisent la collecte, l’affectation et le contrôle des ressources de l’État congolais. Elles relient fiscalité, budget, trésorerie, dette et services publics. Comprendre leur fonctionnement exige de distinguer les prévisions votées des recettes encaissées et des dépenses payées. La DGI, la DGDA et la DGRAD interviennent dans des catégories différentes de recettes. Le Parlement autorise le budget et examine son exécution ; les institutions de contrôle vérifient la régularité de la gestion. Les revenus miniers occupent une place importante, mais leur volatilité complique la programmation. L’enjeu central consiste à transformer des ressources mobilisées en résultats publics et vérifiables.
+Les finances publiques organisent la façon dont l’État congolais obtient de l’argent, décide de son utilisation et vérifie les dépenses. Impôts, recettes douanières, redevances, dons et emprunts alimentent les budgets selon des règles différentes. Le Parlement autorise les recettes et les dépenses ; le gouvernement exécute le budget ; les institutions de contrôle examinent les comptes. Une somme prévue n’est pas nécessairement encaissée, et une dépense décidée peut rester impayée. Les revenus miniers peuvent varier. L’article explique cette chaîne, les relations avec les provinces et la manière de lire les comptes sans confondre argent dépensé et services rendus aux habitants.
 
 ## Dix points clés
 
-1. Le budget est une autorisation annuelle, pas un relevé des paiements déjà réalisés.
-2. Les recettes fiscales, non fiscales, les dons et l’emprunt ont des natures différentes.
-3. La DGI administre les impôts intérieurs.
-4. La DGDA intervient au cordon douanier et dans les accises.
-5. La DGRAD encadre les recettes non fiscales relevant de son mandat.
-6. L’engagement d’une dépense ne signifie pas que son bénéficiaire a été payé.
-7. Les recettes minières varient avec les prix, les volumes et les résultats des entreprises.
-8. L’État central, les provinces et les entités territoriales décentralisées ont des finances liées mais distinctes.
-9. La reddition des comptes confronte les autorisations à l’exécution.
-10. Une recette supplémentaire n’améliore un service que si la dépense est exécutée et son résultat contrôlé.
+1. Le budget autorise des recettes et des dépenses pour l’année ; il ne prouve pas que l’argent a été encaissé ou payé.
+2. L’impôt et les dons apportent des ressources différentes d’un emprunt, qui devra être remboursé.
+3. La Direction générale des impôts (DGI) administre les impôts intérieurs relevant de ses compétences.
+4. La Direction générale des douanes et accises (DGDA) intervient notamment sur les recettes douanières et les accises.
+5. La DGRAD intervient sur les recettes non fiscales, comme certains droits et redevances relevant de ses compétences.
+6. Une dépense engagée peut rester impayée : la décision de dépenser et le paiement sont deux étapes différentes.
+7. Les recettes minières peuvent varier avec les prix mondiaux, la production et les résultats des entreprises.
+8. Les comptes du pouvoir central, des provinces et des autorités locales sont liés, mais ne couvrent pas les mêmes opérations.
+9. La reddition des comptes explique après l’exercice ce qui a été encaissé et dépensé, puis le confronte aux autorisations.
+10. Collecter davantage d’argent ne suffit pas à améliorer un service : il faut financer les activités, les réaliser et vérifier leurs résultats.
 
 ## Définition et périmètre
 
-Les finances publiques désignent les règles, les institutions et les opérations par lesquelles les administrations obtiennent des ressources et les utilisent pour leurs missions. En RDC, elles concernent le pouvoir central, les provinces et les entités territoriales décentralisées. Elles ne se réduisent ni au ministère des Finances ni à la seule fiscalité : la préparation du budget, sa mise en œuvre, la comptabilité, les marchés publics et la gestion de la dette appartiennent au même ensemble. La loi du 13 juillet 2011 relative aux finances publiques, couramment appelée LOFIP, constitue une référence structurante pour l’élaboration, l’exécution et le contrôle des budgets. [1]
+Les finances publiques organisent la façon dont l’État obtient de l’argent, décide de son utilisation et contrôle les dépenses. En RDC, elles concernent le pouvoir central, les provinces et les entités territoriales décentralisées. Elles ne se réduisent ni au ministère des Finances ni à la seule fiscalité : la préparation du budget, sa mise en œuvre, la comptabilité, les marchés publics et la gestion de la dette appartiennent au même ensemble. La loi du 13 juillet 2011 relative aux finances publiques, couramment appelée LOFIP, constitue une référence structurante pour l’élaboration, l’exécution et le contrôle des budgets. [1]
 
 Le périmètre d’un chiffre doit toujours être précisé. Les recettes du budget général ne sont pas nécessairement celles de l’ensemble des administrations publiques. Les comptes spéciaux, les budgets annexes, les financements de projets et les opérations d’entreprises publiques peuvent relever de présentations différentes. Additionner des ensembles qui se recouvrent conduit à compter deux fois une même ressource. À l’inverse, un tableau trop étroit peut laisser hors champ une partie des obligations financières de l’État.
 
@@ -49,7 +49,7 @@ La trésorerie est la disponibilité des fonds dans le temps. Même avec des rec
 
 Les industries extractives influencent les finances congolaises par les impôts sur les bénéfices, les redevances, les droits et les revenus de participations publiques. Chaque flux obéit à une assiette différente. Une hausse de la production ne garantit pas une hausse proportionnelle de l’impôt sur les bénéfices : coûts, amortissements, investissements et prix de vente interviennent dans son calcul. De même, la valeur des exportations n’est pas une somme intégralement disponible pour le Trésor.
 
-Cette dépendance expose le budget à des mouvements de prix mondiaux et à la situation de grandes entreprises. Le travail du FMI sur une économie congolaise riche en ressources et fortement dollarisée décrit ces interactions entre recettes, dépenses publiques, change et inflation. [6] Une année de recettes élevées peut améliorer la trésorerie sans résoudre une faiblesse durable de l’assiette fiscale. Pour étudier la tendance, il faut distinguer les gains temporaires liés à la conjoncture des ressources reproductibles sur plusieurs exercices.
+Lorsque les prix mondiaux des minerais ou les résultats des grandes entreprises changent, les ressources de l’État peuvent varier. Le FMI étudie ces liens entre revenus miniers, dépenses publiques, change et inflation dans une économie où le dollar est largement utilisé. [6] Une bonne année peut apporter de l’argent disponible sans élargir durablement les activités et revenus sur lesquels l’impôt est calculé. Il faut donc distinguer une rentrée exceptionnelle et les ressources sur lesquelles l’État peut raisonnablement compter plusieurs années de suite.
 
 ## Provinces, services publics et équité territoriale
 
@@ -67,7 +67,7 @@ Une anomalie comptable, une irrégularité administrative et une infraction pén
 
 ## Lire et comparer les données budgétaires
 
-Un taux d’exécution rapproche une réalisation et une prévision, mais son interprétation dépend du dénominateur. Un budget initial, un budget rectifié et un plafond de trésorerie ne donnent pas le même ratio. Les comparaisons entre exercices doivent également contrôler l’inflation, les variations de change, les changements de classification et les arriérés. Une croissance nominale de dépense ne signifie pas nécessairement davantage de biens ou de services achetés.
+Un taux d’exécution indique quelle part des dépenses prévues a été réalisée. Son sens change si l’on compare les paiements au budget voté au départ, au budget modifié en cours d’année ou aux fonds que le Trésor pouvait débloquer. La comparaison entre deux années exige aussi de tenir compte des prix, du change, des catégories comptables et des factures restées impayées. Dépenser une somme plus élevée ne signifie pas forcément acheter davantage de biens ou rendre davantage de services : les mêmes achats peuvent simplement coûter plus cher.
 
 Pour documenter un sujet, les pièces les plus utiles forment une séquence : loi de finances et annexes, états d’exécution, comptes de l’exercice, rapports de contrôle et données sur le service concerné. Le budget citoyen aide à s’orienter, tandis que les documents détaillés permettent la vérification. La comparaison de ces pièces met en évidence les écarts entre prévision, mobilisation et emploi des ressources. Les données sur les équipements livrés et les services rendus permettent ensuite de relier ces écarts à leurs conséquences concrètes pour la population.
 

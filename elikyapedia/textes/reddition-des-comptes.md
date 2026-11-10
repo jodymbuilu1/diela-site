@@ -4,34 +4,34 @@ ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-La reddition des comptes publics en République démocratique du Congo est la procédure par laquelle les autorités présentent et font examiner les recettes encaissées et les dépenses payées au cours d’un exercice budgétaire. Encadrée notamment par la Constitution de 2006 et la loi relative aux finances publiques de 2011, elle associe le gouvernement, la Cour des comptes et le Parlement. Depuis les années 2000, son cadre juridique et la disponibilité des documents budgétaires ont évolué. Les évaluations indépendantes et les rapports de contrôle signalent toutefois des difficultés persistantes : dépassements de crédits, information incomplète et contrôle limité de l’exécution budgétaire.
+Rendre les comptes publics consiste à expliquer ce que l’État a encaissé et dépensé, puis à le comparer au budget autorisé. En RDC, le gouvernement présente les comptes, la Cour des comptes les examine et le Parlement intervient dans leur approbation législative. Cette procédure permet de repérer les dépenses dépassant les crédits, les sommes inutilisées et les informations contradictoires. Publier les comptes ne garantit pourtant ni leur exactitude ni le suivi des anomalies. L’article explique ces étapes, les rôles des institutions et les limites documentées du contrôle, en distinguant les irrégularités budgétaires des preuves nécessaires pour établir une infraction pénale.
 
 ## Dix points clés
 
-1. La reddition des comptes consiste à établir et examiner les résultats définitifs de l'exécution d'un budget public.
-2. La Constitution du 18 février 2006 reconnaît le rôle de la Cour des comptes dans le contrôle des finances publiques.
-3. La loi n° 11/011 du 13 juillet 2011, relative aux finances publiques, constitue le principal cadre juridique de la reddition budgétaire.
-4. La loi portant reddition des comptes constate les recettes encaissées et les dépenses payées et arrête les résultats de l'exercice concerné.
-5. Le gouvernement prépare les comptes, la Cour des comptes les examine et le Parlement intervient dans leur contrôle et leur approbation législative.
-6. Le contrôle budgétaire doit distinguer les crédits autorisés, les dépenses effectivement payées et les éventuelles régularisations.
-7. Les dépassements de crédits constituent une difficulté documentée. La Cour des comptes en a notamment relevé dans son examen de l'exercice 2023.
-8. La transparence budgétaire demeure limitée. L'Enquête sur le budget ouvert 2023 attribue à la RDC un score de 41 sur 100.
-9. L'accès à l'information ne suffit pas à mesurer la responsabilité financière. La publication des comptes, leur vérification et le suivi des observations sont des opérations distinctes.
-10. La reddition des comptes concerne plusieurs niveaux d'administration. La législation prévoit des mécanismes applicables au pouvoir central, aux provinces et aux entités territoriales décentralisées.
+1. Rendre les comptes publics consiste à expliquer ce qui a été encaissé et dépensé, puis à le comparer au budget autorisé.
+2. La Constitution confie à la Cour des comptes le contrôle des finances et des biens publics.
+3. La loi de 2011 sur les finances publiques organise notamment la présentation et l’examen des comptes après chaque exercice.
+4. La loi de reddition arrête les résultats budgétaires de l’exercice ; elle ne se limite pas à annoncer des dépenses.
+5. Le gouvernement présente les comptes, la Cour les contrôle et le Parlement les examine dans la procédure législative.
+6. Une dépense prévue, une dépense payée et un dépassement à régulariser ne désignent pas la même situation.
+7. Pour 2023, la Cour a relevé des dépenses dépassant les crédits : ce constat ne prouve pas à lui seul un détournement.
+8. L’enquête sur le budget ouvert 2023 relève un accès encore insuffisant à l’information budgétaire en RDC, avec 41 points sur 100.
+9. Publier les comptes, les vérifier et donner suite aux anomalies sont trois tâches différentes ; la publication seule ne suffit pas.
+10. Les provinces et les autorités locales doivent aussi rendre leurs comptes, selon des procédures adaptées à leurs budgets.
 
 ## Définition et portée de la reddition des comptes
 
-La reddition des comptes publics désigne l'ensemble des opérations par lesquelles une autorité chargée de gérer des ressources publiques présente les résultats de cette gestion aux institutions compétentes pour les examiner.
+Rendre les comptes publics, c’est expliquer ce qui a été encaissé et dépensé, puis le comparer au budget autorisé. Le gouvernement présente ces comptes aux institutions chargées de les examiner : la Cour des comptes et le Parlement.
 
-Dans le domaine budgétaire, elle permet de comparer les autorisations accordées par le législateur avec les recettes effectivement encaissées et les dépenses effectivement payées pendant un exercice déterminé.
+Le Parlement autorise des recettes et des dépenses. Après l’année budgétaire, les comptes permettent de comparer cette autorisation avec l’argent réellement encaissé et les dépenses payées.
 
 En République démocratique du Congo (RDC), la reddition des comptes constitue une étape du cycle des [finances publiques](/elikyapedia/articles/finances-publiques/). Elle intervient après l'exécution du budget et se traduit notamment par l'élaboration et l'examen d'une loi portant reddition des comptes.
 
-L'article 29 de la loi n° 11/011 du 13 juillet 2011 relative aux finances publiques précise que cette loi arrête le compte général du pouvoir central et règle définitivement le budget de l'exercice précédent. Elle constate les encaissements de recettes et les dépenses payées et prévoit, dans les conditions légales, le traitement des dépassements et des crédits non consommés. [1]
+La loi de reddition arrête les comptes de l’année écoulée. Elle constate les recettes encaissées et les dépenses payées, puis traite, dans les conditions prévues par la loi, les dépassements de dépenses et les crédits restés inutilisés. Ces fonctions sont précisées à l’article 29 de la loi de 2011 sur les finances publiques. [1]
 
-La reddition des comptes poursuit plusieurs fonctions complémentaires : établir le résultat budgétaire, vérifier la conformité de l'exécution aux autorisations, rendre les opérations financières intelligibles et fournir au Parlement les informations nécessaires à son contrôle. [1]
+La reddition permet de savoir si les dépenses ont respecté les autorisations, quel solde budgétaire reste en fin d’année et quelles explications le gouvernement doit fournir au Parlement. Rendre ces opérations compréhensibles fait partie de la procédure de contrôle. [1]
 
-Elle ne se confond toutefois ni avec un audit de performance, qui évalue l'efficacité ou l'efficience de l'utilisation des ressources, ni avec une enquête judiciaire, qui recherche d'éventuelles infractions et leurs auteurs.
+Examiner les comptes ne répond pas à toutes les questions. Un audit de performance cherche si les moyens ont produit les résultats attendus et s’ils ont été bien utilisés. Une enquête judiciaire cherche, elle, à établir une éventuelle infraction et ses auteurs.
 
 ### Distinction entre budget et reddition des comptes
 
@@ -187,7 +187,7 @@ Les rapports de contrôle permettent ainsi d'étudier séparément l'existence d
 
 ### Les dépassements de crédits
 
-Un dépassement de crédits apparaît lorsque les dépenses imputées à une autorisation budgétaire excèdent les crédits disponibles, selon les règles applicables à la catégorie de dépenses concernée.
+Il y a dépassement lorsque les dépenses d’une catégorie excèdent les crédits disponibles pour cette catégorie. L’analyse doit tenir compte des règles applicables et des modifications du budget intervenues pendant l’année.
 
 La LOFIP distingue notamment des mécanismes d'autorisation et de régularisation des crédits. Les articles 29, 39 et 40 sont pertinents pour l'examen de certaines situations de dépassement. [1]
 
@@ -199,7 +199,7 @@ Un dépassement peut correspondre à différentes situations administratives ou 
 
 ### La sous-consommation des crédits
 
-La sous-consommation désigne la situation dans laquelle une partie des crédits autorisés n'est pas utilisée pendant l'exercice.
+La sous-consommation signifie qu’une partie des dépenses autorisées n’a pas été réalisée pendant l’année. Le montant inutilisé ne permet pas, à lui seul, de savoir si les projets ont été retardés, annulés ou financés autrement.
 
 Elle peut résulter d'une insuffisance des recettes disponibles, de retards dans les procédures de passation des marchés, de difficultés d'exécution des projets ou de modifications des priorités budgétaires.
 
@@ -249,7 +249,7 @@ L'édition 2023 a évalué 125 pays. Pour la RDC, les résultats étaient les su
 | Participation du public | 33 |
 | Contrôle institutionnel | 54 |
 
-Avec un score de transparence de 41 sur 100, la RDC occupait la 74e place parmi les 125 pays étudiés.
+L’information budgétaire accessible au public reste insuffisante selon l’enquête 2023 de l’International Budget Partnership : la RDC obtient 41 points sur 100, au 74e rang des 125 pays évalués. Ce score porte sur la disponibilité et le contenu des documents, pas sur la part d’argent détourné. [4]
 
 L'organisme considère qu'un score d'au moins 61 indique généralement la publication d'une quantité d'informations suffisante pour permettre un débat public éclairé sur le budget.
 
@@ -295,7 +295,7 @@ Ces deux dimensions doivent être distinguées.
 
 Le contrôle de performance s'intéresse aux résultats obtenus avec les ressources mobilisées.
 
-Il peut porter sur l'économie des moyens, l'efficience des procédures ou l'efficacité des interventions publiques. La loi organique de 2018, notamment son article 153, prévoit l’appréciation de la performance des programmes et l’évaluation des politiques publiques dans le champ de compétence de la Cour. [3]
+Un contrôle de performance peut examiner si l’administration a acheté au bon coût, utilisé ses moyens sans gaspillage et atteint les objectifs annoncés. L’article 153 de la loi organique de 2018 prévoit notamment le contrôle de la performance des programmes et l’évaluation des politiques publiques par la Cour des comptes. [3]
 
 Par exemple, la régularité du paiement d'un marché de construction ne suffit pas à établir que l'ouvrage a été achevé, qu'il respecte les caractéristiques prévues ou qu'il répond aux besoins identifiés.
 

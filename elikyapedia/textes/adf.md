@@ -4,20 +4,20 @@ ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-Les Forces démocratiques alliées (ADF), issues d’une rébellion ougandaise formée en 1995, se sont implantées dans l’Est congolais. Leur trajectoire relie les montagnes du Rwenzori, les forêts de Beni, les massacres de civils et le rapprochement avec l’État islamique. L’arrestation de Jamil Mukulu en 2015 puis la direction de Musa Baluku accompagnent cette transformation. Les offensives militaires, dont Sukola I et Shujaa, ont perturbé leurs bases sans supprimer leur capacité d’adaptation. Comprendre ce conflit exige de distinguer responsabilités documentées, réseaux locaux, affiliation internationale et analyses stratégiques. La protection des populations demeure centrale dans toute perspective de stabilisation institutionnelle et économique.
+Nées d’une rébellion ougandaise en 1995, les Forces démocratiques alliées se sont implantées dans l’Est congolais, autour de Beni. Leur histoire est marquée par les massacres de civils, les déplacements et le rapprochement avec l’État islamique. Après l’arrestation de Jamil Mukulu en 2015, Musa Baluku s’impose à la tête du mouvement. Les offensives militaires ont perturbé ses bases sans faire disparaître sa capacité d’adaptation. L’article retrace cette évolution entre 1995 et 2025. Il distingue les responsabilités documentées des incertitudes et explique pourquoi la protection durable des populations dépend aussi des institutions, des services publics et des moyens de subsistance locaux.
 
 ## Dix points clés
 
-1. Les ADF sont issues d’une insurrection ougandaise constituée au milieu des années 1990.
-2. Le mouvement s’est implanté dans l’espace frontalier du Rwenzori et les forêts autour de Beni.
-3. Les massacres de Beni à partir de 2014 constituent un tournant majeur pour les populations civiles.
-4. L’attribution d’une attaque exige une enquête : les ADF ne sont pas les seuls acteurs armés de la région.
-5. Jamil Mukulu a été arrêté en Tanzanie en 2015 ; Musa Baluku s’est imposé à la direction du mouvement.
-6. Les revendications de l’État islamique à partir de 2019 inscrivent les ADF dans une dimension djihadiste internationale.
-7. Affiliation idéologique, communication et commandement opérationnel ne sont pas des notions équivalentes.
-8. Sukola I débute en janvier 2014 ; l’opération conjointe Shujaa est lancée le 30 novembre 2021.
-9. La protection des civils dépend aussi des institutions, des moyens de subsistance et de la confiance locale.
-10. Les trajectoires d’affaiblissement, de clandestinité ou d’expansion sont des scénarios d’analyse, pas des prévisions certaines.
+1. Les ADF sont nées d’une insurrection contre le pouvoir ougandais au milieu des années 1990, avant leur implantation en RDC.
+2. Le mouvement a établi des bases dans la région frontalière du Rwenzori et dans les forêts autour de Beni.
+3. À partir de 2014, les massacres autour de Beni bouleversent la vie des populations et provoquent des déplacements.
+4. Toutes les attaques de la région ne peuvent pas être attribuées automatiquement aux ADF : d’autres acteurs armés y opèrent.
+5. Après l’arrestation de Jamil Mukulu en 2015, Musa Baluku s’est imposé à la tête du mouvement.
+6. À partir de 2019, l’État islamique revendique des attaques dans l’Est congolais, donnant une dimension internationale au conflit.
+7. Une affiliation à l’État islamique ne démontre pas à elle seule qui a ordonné chaque attaque.
+8. Les opérations Sukola I, lancée en 2014, et Shujaa, lancée conjointement avec l’Ouganda en 2021, visent les capacités des ADF.
+9. Protéger durablement les civils demande aussi des services publics, des moyens de subsistance et des relations de confiance avec les communautés.
+10. Affaiblissement, survie clandestine ou expansion sont des évolutions possibles examinées dans l’analyse, pas des événements annoncés avec certitude.
 
 ## Une guerre qui dure depuis trois décennies
 
@@ -77,7 +77,7 @@ Cette affiliation modifie la dimension du conflit.
 
 Les ADF ne sont plus seulement considérées comme une insurrection étrangère installée sur le territoire congolais. Elles deviennent également une composante de la menace djihadiste régionale, avec des implications pour la coopération sécuritaire, les réseaux de recrutement et la lutte contre le financement du terrorisme.
 
-Il convient toutefois de distinguer l'affiliation idéologique et médiatique d'un contrôle opérationnel direct. La nature exacte des relations entre la direction locale des ADF et les structures centrales de l'État islamique reste un objet d'investigation.
+Un groupe peut reprendre l’idéologie et la communication de l’État islamique sans que cela démontre qui ordonne chaque attaque. Les liens exacts entre les chefs locaux des ADF et les structures centrales de l’État islamique restent à établir par les enquêtes.
 
 Cette distinction est essentielle pour comprendre le fonctionnement réel du mouvement, plutôt que de réduire son histoire à une simple extension du terrorisme international.
 
@@ -111,7 +111,7 @@ Une armée peut détruire un campement sans rétablir durablement l'autorité pu
 
 Elle peut disperser une unité armée sans empêcher sa reconstitution lorsque persistent les réseaux de financement, les circuits clandestins d'approvisionnement et les possibilités de recrutement.
 
-La lutte contre les ADF pose ainsi plusieurs problèmes simultanés : la qualité du renseignement, la coordination entre les services de sécurité, la surveillance des frontières, la protection des populations et la capacité des administrations civiles à fonctionner dans les territoires affectés.
+Combattre les ADF suppose à la fois de recueillir des informations fiables, de coordonner les services de sécurité et de protéger les habitants. Cela suppose aussi que les administrations civiles puissent fonctionner dans les zones affectées et que les frontières soient surveillées.
 
 La dimension économique est également importante. Les activités commerciales informelles, l'exploitation des ressources et les réseaux transfrontaliers peuvent offrir aux organisations armées des possibilités de financement et de ravitaillement. Leur contribution exacte aux ressources des ADF doit néanmoins être établie avec prudence.
 
@@ -127,13 +127,13 @@ La persistance des ADF rappelle que les frontières nationales ne suffisent pas 
 
 L'histoire du mouvement relie directement la RDC à l'Ouganda. Son évolution récente l'inscrit également dans des dynamiques sécuritaires plus larges en Afrique centrale et orientale.
 
-Cette dimension transfrontalière rend nécessaire la coopération entre États, particulièrement en matière de renseignement, de contrôle des déplacements et de lutte contre les réseaux financiers clandestins.
+La circulation des combattants, des ressources et des réseaux entre plusieurs pays donne une place importante à la coopération entre États. Celle-ci concerne notamment le partage d’informations, le contrôle des déplacements et le suivi des financements clandestins.
 
 Mais elle soulève également des questions de souveraineté.
 
 La présence de forces étrangères sur le territoire congolais, même dans le cadre d'accords bilatéraux, nécessite des objectifs précis, des mécanismes de contrôle et une évaluation transparente des résultats.
 
-Pour la RDC, l'enjeu consiste à bénéficier d'une coopération régionale efficace sans substituer durablement les capacités militaires étrangères à celles de ses propres institutions.
+Pour la RDC, coopérer avec ses voisins peut apporter des moyens de lutte contre les ADF. L’enjeu analysé ici est de renforcer aussi les institutions congolaises, afin que la protection du territoire ne repose pas durablement sur des forces étrangères.
 
 ## Après les ADF : reconstruire les conditions de la paix
 

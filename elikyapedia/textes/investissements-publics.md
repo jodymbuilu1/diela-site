@@ -4,24 +4,24 @@ ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-L’exécution des dépenses d’investissement public en République démocratique du Congo mesure l’utilisation des crédits destinés aux équipements, constructions et réhabilitations. Les rapports de la Cour des comptes montrent des résultats contrastés entre catégories et exercices : dépassements pour certains équipements, sous-consommation pour des constructions et écarts entre prévisions et paiements. En 2025, les dépenses en capital du budget général ont été payées à 44,56 % des crédits de référence. L’analyse distingue autorisations, engagements, paiements et ouvrages effectivement livrés. Les données financières éclairent l’exécution budgétaire, sans établir seules la qualité des infrastructures concernées en RDC ni les causes de chaque retard.
+Prévoir une route, payer un chantier et livrer un ouvrage utilisable sont trois choses différentes. L’exécution des investissements publics mesure l’utilisation des crédits destinés aux équipements, aux constructions et aux réhabilitations. En RDC, les rapports de contrôle montrent des situations contrastées : certaines dépenses dépassent les prévisions, tandis que d’autres utilisent moins de la moitié des crédits. En 2025, les paiements d’investissement du budget général restent sous cette moitié. L’article explique les résultats de 2020 à 2025, les étapes de la dépense et les financements. Il montre pourquoi les comptes seuls ne prouvent ni l’achèvement ni la qualité des infrastructures.
 
 ## Dix points clés
 
-1. Les dépenses en capital regroupent notamment les équipements et les constructions, réfections et réhabilitations.
-2. Une autorisation de dépense, un engagement, un paiement et un ouvrage livré sont des objets distincts.
-3. Pour 2020, la déclaration budgétaire de septembre 2023 reprend 22,7 % d’exécution pour les constructions/réfections et 18,22 % pour les équipements.
-4. Les paiements nominaux de construction augmentent entre 2020 et 2022, puis diminuent en 2023 ; cette série n’est pas corrigée de l’inflation.
-5. En 2023, le taux d’exécution atteint 101,32 % pour les équipements et 42,95 % pour les constructions et réhabilitations.
-6. En 2024, la Cour publie 50,54 % pour les dépenses en capital du budget général, contre 114,12 % pour les dépenses courantes.
-7. Pour 2025, les mêmes grandes composantes présentent respectivement 44,56 % et 107,76 % dans le tableau n° 2 du rapport de contrôle.
-8. Les financements extérieurs, les ressources intérieures et les étapes contractuelles doivent être distingués dans l’analyse des projets.
-9. Un paiement d’investissement ne prouve pas à lui seul l’achèvement, la qualité ou le fonctionnement d’une infrastructure.
-10. Les données du pouvoir central, des programmes pilotes et des provinces ont des périmètres différents ; leurs taux ne s’additionnent pas.
+1. L’investissement public finance notamment les équipements, la construction et la remise en état d’infrastructures.
+2. Prévoir un chantier, engager une dépense, payer une facture et livrer un ouvrage sont des étapes différentes.
+3. En 2020, moins d’un quart des crédits de construction et de réfection ont été exécutés ; pour les équipements, moins d’un cinquième.
+4. Les paiements de construction augmentent entre 2020 et 2022, puis reculent en 2023 ; ces montants ne sont pas corrigés de l’inflation.
+5. En 2023, les équipements dépassent légèrement les crédits prévus, tandis que les constructions et réhabilitations en utilisent moins de la moitié.
+6. En 2024, environ la moitié des crédits d’investissement du budget général est payée, alors que les dépenses courantes dépassent les prévisions.
+7. En 2025, moins de la moitié des crédits d’investissement du budget général est payée ; les dépenses courantes dépassent encore les crédits prévus.
+8. Les projets dépendent de fonds publics ou extérieurs, mais aussi de la préparation des contrats et du calendrier des paiements.
+9. Payer un chantier ne prouve pas qu’il est terminé, de bonne qualité ou effectivement utilisable.
+10. Les taux d’un programme, d’une province et du budget général ne couvrent pas les mêmes dépenses : on ne peut pas les additionner.
 
 ## Définition et périmètre des investissements publics
 
-L’investissement public désigne les dépenses engagées par les administrations publiques pour acquérir, créer, améliorer ou renouveler des actifs destinés à fournir des services ou à soutenir l’activité économique.
+L’investissement public finance notamment des routes, des écoles, des hôpitaux et des équipements. Il permet aux administrations de créer, d’améliorer ou de renouveler les moyens matériels nécessaires aux services publics et à l’activité économique.
 
 En République démocratique du Congo (RDC), ces dépenses peuvent notamment concerner les routes, les ponts, les bâtiments administratifs, les établissements scolaires, les infrastructures sanitaires, les équipements techniques et d’autres immobilisations publiques. Ces opérations relèvent des [finances publiques congolaises](/elikyapedia/articles/finances-publiques/).
 
@@ -101,9 +101,9 @@ Le contrôle financier de l’exercice s’inscrit dans la [reddition des compte
 
 L'année 2020 a été marquée par les conséquences économiques et budgétaires de la pandémie de COVID-19.
 
-Selon la Déclaration sur les risques budgétaires 2024–2026, publiée par le ministère du Budget en septembre 2023, le taux d'exécution des crédits destinés aux constructions et réfections était de 22,7 % en 2020. Celui des crédits d'équipement atteignait 18,22 %. [2]
+En 2020, moins d’un quart des crédits de construction et de réfection ont été exécutés (22,7 %). Pour les équipements, cette part était inférieure à un cinquième (18,22 %). Le ministère du Budget reprend ces chiffres dans sa Déclaration sur les risques budgétaires publiée en septembre 2023. [2]
 
-Ces deux résultats indiquent qu'une partie importante des autorisations budgétaires d'investissement n'avait pas donné lieu à des dépenses exécutées selon l'indicateur retenu par le ministère.
+Ces pourcentages comparent les dépenses exécutées aux autorisations de chaque catégorie. Ils ne disent pas quelle part des routes ou des équipements prévus a été effectivement livrée.
 
 Dans une évaluation de la politique budgétaire de 2020 rapportée par le média Actualite.cd, le ministère des Finances estimait également que les dépenses d'investissement représentaient une part limitée des dépenses suivies dans son périmètre d'analyse. [3]
 
@@ -111,7 +111,7 @@ Les pourcentages provenant de ces deux publications ne sont pas directement inte
 
 ### L’exercice 2021
 
-Pour 2021, le ministère du Budget présente un taux d'exécution de 37,8 % pour les constructions et réfections. [2]
+En 2021, un peu plus d’un tiers des crédits de construction et de réfection ont été exécutés : le taux atteint 37,8 %, selon le ministère du Budget. [2]
 
 Ce résultat représente une amélioration par rapport au taux de 22,7 % enregistré en 2020, tout en demeurant inférieur à la moitié des crédits de référence.
 
@@ -156,7 +156,7 @@ Elle ne permet pas non plus de mesurer directement l'évolution du volume réel 
 
 ### Les constructions, réfections et réhabilitations
 
-Le total des dépenses en capital présente un taux d’exécution de 77,44 %. Il réunit deux composantes aux résultats très différents : 101,32 % pour les équipements et 42,95 % pour les constructions, réfections et réhabilitations. Un constat concernant les constructions ne doit donc pas être étendu à tous les équipements. [5]
+En 2023, les constructions et réhabilitations utilisent moins de la moitié de leurs crédits prévus (42,95 %), alors que les équipements dépassent légèrement les leurs (101,32 %). Ensemble, ces deux catégories atteignent 77,44 %, soit un peu plus des trois quarts des dépenses en capital prévues. On ne peut donc pas décrire tous les investissements par un même constat de faible exécution. [5]
 
 Le rapport général de la Cour des comptes sur l'exercice 2023, publié en octobre 2024, fournit une analyse détaillée de l'exécution des dépenses en capital. [5]
 
@@ -200,9 +200,9 @@ Le rapport général de la Cour des comptes sur l'exercice 2024, établi en octo
 
 Source : Cour des comptes, rapport sur l’exercice 2024, tableau n° 12, p. 37. Les taux rapportent les paiements aux crédits de référence du tableau. [6]
 
-Les dépenses courantes ont atteint 114,12 % des prévisions retenues par la Cour, tandis que les dépenses en capital ont atteint 50,54 %.
+En 2024, environ la moitié des crédits d’investissement du budget général a donné lieu à des paiements (50,54 %). Les dépenses courantes, en revanche, ont dépassé les crédits de référence, avec un taux de 114,12 %. [6]
 
-Autrement dit, les dépenses courantes ont dépassé les crédits de référence, alors que près de la moitié des crédits en capital n'ont pas été exécutés sous forme de paiements.
+Le repère de 100 % correspond aux crédits de référence : en dessous, une partie n’a pas donné lieu à des paiements ; au-dessus, les paiements dépassent ce montant. Le taux ne mesure donc pas la proportion des chantiers terminés.
 
 Les dépenses en capital représentaient 30,50 % des paiements du budget général en 2024, contre 69,50 % pour les dépenses courantes. [6]
 
@@ -214,7 +214,7 @@ Au sein des dépenses en capital, le tableau n° 35 distingue un taux de 59,27 %
 
 Le rapport de la Cour des comptes distingue également les sources de financement des investissements.
 
-Pour le périmètre des financements d'investissement qu'elle examine dans son résumé exécutif, la Cour indique que les ressources extérieures représentaient 87,04 % des financements prévus et 70,84 % des paiements enregistrés. [6]
+Les financements extérieurs occupent une place importante dans les investissements examinés par le résumé exécutif de la Cour : ils représentent 87,04 % des financements prévus et 70,84 % des paiements enregistrés. Ce calcul porte sur l’ensemble particulier étudié dans ce résumé, pas nécessairement sur toutes les dépenses en capital du budget général. [6]
 
 Cette structure montre l'importance des financements extérieurs dans les investissements examinés.
 
@@ -224,7 +224,7 @@ Elle doit cependant être interprétée avec prudence. Les montants considérés
 
 La Cour des comptes a également signalé des paiements de dépenses d'investissement effectués sans ordonnancement préalable au cours de l'exercice 2024. [6]
 
-L'ordonnancement constitue normalement une étape de la chaîne de la dépense publique, par laquelle l'autorité compétente donne l'ordre de procéder au paiement.
+L’ordonnancement est l’ordre donné par l’autorité compétente de payer une dépense. Il intervient normalement avant le paiement, dans la chaîne de la dépense publique.
 
 Un paiement effectué sans ordonnancement préalable soulève donc une question de conformité à la procédure ordinaire, sous réserve des régimes dérogatoires légalement applicables.
 
@@ -248,7 +248,7 @@ Il est donc préférable de présenter ces résultats séparément plutôt que d
 
 Le rapport général de la Cour des comptes relatif à l’exercice 2025, établi en octobre 2026, a été mis en ligne le 4 novembre 2026. Il examine l’exécution de la loi de finances n° 24/011 du 20 décembre 2024, modifiée par la loi rectificative n° 25/044 du 28 juin 2025. Ces constatations de contrôle ne doivent pas être confondues avec l’adoption parlementaire de la loi de reddition. [10]
 
-Dans le tableau n° 2, les dépenses en capital du budget général présentent un taux de paiement de 44,56 %. Les équipements atteignent 41,40 % et les constructions, réfections et réhabilitations 51,36 %. Les dépenses courantes sont payées à 107,76 % des crédits de référence. [10]
+En 2025, moins de la moitié des crédits d’investissement du budget général a été payée (44,56 %). Cette part atteint 41,40 % pour les équipements et 51,36 % pour les constructions, réfections et réhabilitations. Les dépenses courantes dépassent leurs crédits de référence, avec un taux de 107,76 %. Ces valeurs figurent dans le tableau n° 2 de la Cour des comptes. [10]
 
 | Composante du budget général | Taux d’exécution en 2025 |
 | --- | --- |
@@ -362,7 +362,7 @@ Ils peuvent être complétés par des rapports techniques, des audits de perform
 
 ### La question de la crédibilité budgétaire
 
-La crédibilité budgétaire renvoie notamment à la capacité des administrations à exécuter le budget conformément aux autorisations et aux prévisions.
+La crédibilité budgétaire désigne notamment la capacité à réaliser ce qui a été prévu dans le budget. Un écart récurrent entre les dépenses autorisées et les paiements montre que la programmation ne décrit pas suffisamment ce qui sera effectivement financé.
 
 L'étude de BDO RDC publiée en mars 2026 identifie l'écart entre les crédits votés et les paiements effectifs comme une difficulté récurrente de la gestion budgétaire congolaise, particulièrement pour les dépenses d'investissement. [7]
 

@@ -25,3 +25,13 @@ Modifier `articles.json`, vérifier les sources, actualiser les dates de l'édit
 Les documents Drive demeurent inchangés. Les informations personnelles, instructions, stratégies internes, projections non vérifiées et accusations non sourcées ne doivent pas être publiées. Les documents tiers sont référencés chez leurs éditeurs et ne sont pas redistribués.
 
 Les articles spécialisés peuvent identifier leur article général par `parentSlug`. Les liens internes contextuels utilisent `[libellé](/elikyapedia/articles/slug/)` ; le générateur vérifie que les destinations existent dans le catalogue. Les liens internes facilitent la navigation et ne remplacent pas les références documentaires.
+
+## Clarté pour le lecteur
+
+- Chaque résumé et chaque point clé doit se comprendre isolément.
+- Expliquer ce qui se passe avant de donner le nom d’un mécanisme ou d’un document.
+- Définir les termes techniques et les sigles à la première utilisation.
+- Accompagner les chiffres de leur sens, de leur période et de ce qui est mesuré.
+- Réserver les précisions documentaires longues aux références ; conserver leurs appels au passage.
+- Préserver les incertitudes utiles, sans transformer chaque phrase en avertissement abstrait.
+- Vérifier après reformulation que le lecteur peut dire ce qu’il vient d’apprendre.

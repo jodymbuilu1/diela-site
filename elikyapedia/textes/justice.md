@@ -1,27 +1,27 @@
 # La justice en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-La justice congolaise comprend les juridictions, les parquets, les services d’enquête, les professions juridiques et les institutions chargées d’exécuter les décisions. Son architecture distingue les ordres judiciaire, administratif et constitutionnel, auxquels s’ajoutent des juridictions spécialisées. La Constitution garantit l’indépendance des juges et les droits de la défense. L’histoire du pays a cependant laissé un pluralisme juridique et encore de fortes disparités territoriales. Comprendre ce système suppose de distinguer le droit applicable, l’implantation des institutions et l’accès effectif au recours. Les enjeux concernent autant la protection des libertés que les contrats, les conflits fonciers et la réponse aux violences de masse.
+La justice permet de régler des conflits, de protéger des droits et de poursuivre les infractions en République démocratique du Congo. Une succession, un litige commercial ou une accusation pénale ne suivent pas les mêmes procédures. Tribunaux, parquets, enquêteurs, avocats et services chargés d’appliquer les décisions interviennent à différentes étapes. La Constitution garantit l’indépendance des juges et les droits de la défense. Mais disposer d’un droit ne suffit pas toujours à obtenir justice : distance, coût, information et exécution des jugements comptent. L’article explique les juridictions, la place de la coutume et les difficultés posées par les violences de masse.
 
 ## Dix points clés
 
-1. La justice est une chaîne d’institutions, au-delà du seul tribunal.
-2. Le siège juge ; le parquet conduit notamment l’action publique.
-3. La Cour de cassation se situe au sommet de l’ordre judiciaire.
-4. Le Conseil d’État appartient à l’ordre administratif.
-5. La Cour constitutionnelle exerce des compétences distinctes.
-6. Les droits de la défense protègent toute personne poursuivie.
-7. La carte prévue par la loi ne prouve pas l’installation effective des juridictions.
-8. La coutume demeure applicable dans les limites du droit écrit et de l’ordre public.
-9. Un jugement doit pouvoir être exécuté pour produire ses effets.
-10. Justice pénale et justice transitionnelle répondent à des besoins complémentaires.
+1. Obtenir justice peut nécessiter une enquête, un procès et l’application effective de la décision rendue.
+2. Le parquet conduit notamment les poursuites pénales ; les juges du siège rendent les décisions.
+3. Les affaires civiles et pénales relèvent de l’ordre judiciaire, au sommet duquel se trouve la Cour de cassation.
+4. Une décision de l’administration peut être contestée devant la justice administrative, dont le Conseil d’État fait partie.
+5. La Cour constitutionnelle veille notamment au respect de la Constitution ; elle ne remplace pas les autres tribunaux.
+6. Une personne poursuivie doit pouvoir connaître les accusations, se défendre et contester les décisions selon les voies prévues.
+7. Un tribunal prévu dans la loi n’est pas nécessairement installé et accessible aux habitants.
+8. La coutume peut être prise en compte par la justice, dans les limites imposées par le droit écrit et l’ordre public.
+9. Un jugement favorable reste sans effet concret si personne ne parvient à le faire appliquer.
+10. Après des violences de masse, les procès peuvent être complétés par la recherche de vérité, les réparations et des réformes.
 
 ## Un système de règlement des conflits et de protection des droits
 
-La justice désigne à la fois une valeur et une fonction institutionnelle. Comme fonction, elle tranche des différends en appliquant des règles reconnues, impose des sanctions lorsque la loi le prévoit et protège les personnes contre les atteintes à leurs droits. Une affaire de succession, un litige commercial, une contestation administrative et une poursuite pénale ne suivent pas nécessairement le même parcours. Leur point commun est la possibilité de soumettre une prétention à un tiers habilité à statuer, dans une procédure offrant des garanties aux parties.
+La justice permet de faire trancher un conflit, de demander la protection d’un droit ou de poursuivre une infraction. Les institutions judiciaires appliquent les règles reconnues et peuvent imposer les sanctions prévues par la loi. Une affaire de succession, un litige commercial, une contestation administrative et une poursuite pénale ne suivent pas nécessairement le même parcours. Leur point commun est la possibilité de soumettre une prétention à un tiers habilité à statuer, dans une procédure offrant des garanties aux parties.
 
 Le tribunal est donc le lieu visible d’un ensemble plus vaste : greffes, parquets, police judiciaire, avocats, experts, huissiers et administration pénitentiaire. Le greffe conserve les actes et assure la continuité documentaire ; la défense conteste les preuves et présente les arguments de la personne poursuivie. L’enquête doit établir des faits et préserver des éléments vérifiables. Le fonctionnement de cette chaîne explique pourquoi la nomination de magistrats ou la construction d’un bâtiment ne suffisent pas, seules, à mesurer la qualité du service judiciaire.
 
@@ -57,9 +57,9 @@ La loi de 2013 prévoit des juridictions de proximité et conserve des dispositi
 
 ## Violences de masse et connaissance du système
 
-Les crimes commis dans les conflits armés posent des difficultés particulières : protection des témoins, conservation des preuves, déplacements des populations et responsabilité des auteurs comme des supérieurs. Le rapport Mapping des Nations unies documente des violations graves alléguées entre mars 1993 et juin 2003. Il constitue un travail de documentation, et non une série de condamnations individuelles. La qualification judiciaire et la culpabilité doivent être établies par les juridictions compétentes dans une procédure régulière.[4]
+Poursuivre les crimes commis pendant un conflit exige de préserver les preuves et de protéger les témoins, parfois alors que les populations ont fui. Les enquêtes peuvent concerner les auteurs directs et leurs supérieurs. Le rapport Mapping des Nations unies documente de graves violations alléguées entre mars 1993 et juin 2003. Il ne condamne pas les personnes citées : seuls les tribunaux compétents peuvent établir leur culpabilité, après une procédure respectant leurs droits. [4]
 
-La justice transitionnelle associe, selon les dispositifs retenus, poursuites, recherche de vérité, réparations et réformes institutionnelles. Ces instruments ne sont pas interchangeables : une commission de vérité ne remplace pas automatiquement un procès, et une indemnisation ne reconstitue pas tous les faits. L’analyse du système judiciaire exige enfin des données datées : affaires entrantes et terminées, délais, détention préventive, exécution et répartition des moyens. Une série sur les délais doit notamment préciser la matière et le point de départ du calcul ; le temps entre dépôt et jugement n’inclut pas nécessairement celui de l’exécution.
+Après des violences de masse, la justice transitionnelle peut associer des procès, la recherche de vérité, des réparations et des réformes des institutions. Une commission de vérité cherche à établir les faits ; elle ne remplace pas automatiquement un procès. Une indemnisation répare certains préjudices sans expliquer à elle seule tout ce qui s’est passé. Les délais judiciaires doivent aussi être précisés : attendre un jugement et attendre son application sont deux périodes différentes. Compter les affaires reçues, terminées et effectivement exécutées éclaire des étapes distinctes de l’accès à la justice.
 
 ## Sources
 

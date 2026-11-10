@@ -1,27 +1,27 @@
 # Monnaie, banques et inclusion financière en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-Le système monétaire et financier congolais associe monnaie nationale, usage étendu du dollar, banques, microfinance, coopératives et monnaie électronique. La Banque Centrale du Congo veille principalement à la stabilité des prix et encadre les activités financières relevant de son mandat. La dollarisation protège certaines transactions contre la perte de valeur monétaire, mais complique la transmission de la politique monétaire et crée des risques de change. L’accès à un compte ne garantit ni crédit adapté ni usage. Comprendre le secteur exige de distinguer épargne, paiement, prêt et investissement, puis d’examiner la confiance, la supervision, les infrastructures et les besoins des utilisateurs.
+En République démocratique du Congo, le franc congolais et le dollar américain servent à payer, à épargner et à emprunter selon des usages différents. La Banque Centrale du Congo cherche principalement à stabiliser les prix et encadre les activités financières relevant de ses compétences. Banques, coopératives, microfinance et services de monnaie électronique ne proposent pas les mêmes produits. Ouvrir un compte ne garantit ni son utilisation ni l’accès à un crédit adapté. Un emprunteur payé en francs peut subir la hausse du dollar. L’article explique ces mécanismes et les conditions qui permettent d’utiliser les services financiers avec confiance et protection.
 
 ## Dix points clés
 
-1. La Banque Centrale du Congo a pour objectif principal la stabilité du niveau général des prix.
-2. La monnaie nationale et le dollar américain remplissent des rôles qui se recouvrent.
-3. La dollarisation concerne les transactions, l’épargne ou le crédit à des degrés différents.
-4. Le taux directeur n’est pas le taux automatiquement offert à chaque emprunteur.
-5. Une banque transforme notamment des dépôts et des ressources en crédits et placements.
-6. Une coopérative d’épargne et de crédit se distingue d’une banque commerciale.
-7. Un compte de monnaie électronique n’équivaut pas à l’ensemble des services d’une banque.
-8. Le nombre de comptes ouverts diffère du nombre d’utilisateurs actifs.
-9. Un prêt en devise expose un emprunteur payé en monnaie nationale à un risque de change.
-10. L’inclusion financière associe accès, usage, qualité et protection des usagers.
+1. La Banque Centrale du Congo cherche principalement à maintenir la stabilité générale des prix.
+2. Le franc congolais et le dollar américain sont tous deux utilisés dans l’économie, selon les transactions et les usages.
+3. Utiliser le dollar pour payer, épargner ou emprunter correspond à des formes différentes de dollarisation.
+4. Le taux fixé par la banque centrale ne détermine pas à lui seul le taux que paiera un emprunteur.
+5. Une banque utilise notamment ses dépôts et d’autres ressources pour accorder des prêts et effectuer des placements.
+6. Une coopérative d’épargne et de crédit organise des services pour ses membres ; son statut diffère de celui d’une banque commerciale.
+7. Un portefeuille de monnaie électronique facilite certains paiements sans donner accès à tous les services bancaires.
+8. Ouvrir un compte ne signifie pas l’utiliser : il faut distinguer les comptes enregistrés des utilisateurs actifs.
+9. Une personne rémunérée en francs congolais peut avoir plus de difficulté à rembourser un prêt en dollars si le franc perd de sa valeur.
+10. L’inclusion financière suppose des services accessibles, utilisables, adaptés et accompagnés d’une protection des clients.
 
 ## Monnaie et institutions financières
 
-La monnaie sert à payer, à exprimer les prix et à conserver du pouvoir d’achat. Ces fonctions peuvent être remplies par plusieurs instruments dans une même économie. En RDC, la monnaie nationale coexiste avec un usage important du dollar américain. Les espèces, les dépôts bancaires et les soldes de monnaie électronique permettent des opérations différentes selon leur acceptation, leur accessibilité et les conditions de conversion.
+La monnaie sert à payer des achats, à fixer des prix et à conserver des moyens de paiement pour plus tard. Dans une même économie, plusieurs formes de monnaie peuvent remplir ces fonctions. En RDC, la monnaie nationale coexiste avec un usage important du dollar américain. Les espèces, les dépôts bancaires et les soldes de monnaie électronique permettent des opérations différentes selon leur acceptation, leur accessibilité et les conditions de conversion.
 
 Le système financier met en relation des détenteurs de ressources et des utilisateurs ayant besoin de fonds. Les banques, les institutions de microfinance et les coopératives remplissent des fonctions d’intermédiation ; les prestataires de paiement facilitent la circulation des fonds. Les catégories ne sont pas interchangeables et leurs activités autorisées dépendent de leur cadre réglementaire. La BCC publie les textes applicables par type d’entité, ce qui permet de vérifier le régime d’une institution plutôt que de l’inférer de son nom commercial. [1]
 
@@ -57,9 +57,9 @@ Le financement d’un prêt dépend toujours de ressources disponibles, de coût
 
 ## Monnaie électronique et infrastructures de paiement
 
-La monnaie électronique permet de conserver et transférer une valeur au moyen d’un dispositif électronique dans le cadre prévu par la réglementation. Les réseaux d’agents peuvent rapprocher les services de populations éloignées d’une agence bancaire. Leur fonctionnement dépend de la couverture téléphonique, de l’identification des clients, de la disponibilité des espèces et des fonds électroniques chez les agents, ainsi que de la sécurité des opérations.
+La monnaie électronique permet de conserver une valeur et de la transférer par un service électronique autorisé. Des agents locaux peuvent permettre de déposer ou retirer de l’argent loin d’une agence bancaire. Mais le service dépend du réseau téléphonique, de l’identification des clients et de la sécurité des opérations. Il faut aussi que les agents disposent d’espèces et de fonds électroniques : un portefeuille approvisionné ne garantit pas qu’un retrait sera possible immédiatement à chaque point de service.
 
-Un utilisateur peut posséder plusieurs comptes, dont certains inactifs. Le total des comptes enregistrés ne mesure donc pas directement le nombre de personnes ayant un usage régulier. De même, recevoir un transfert ne signifie pas disposer d’un crédit, d’une épargne rémunérée ou d’une assurance. Les indicateurs doivent préciser le service, la période d’activité et la population de référence. L’interopérabilité, lorsqu’elle existe entre dispositifs, concerne la possibilité d’échanger ; elle doit être évaluée avec les frais et l’expérience concrète de l’usager.
+Une personne peut avoir plusieurs comptes et n’en utiliser qu’un. Le nombre de comptes ouverts ne dit donc pas combien de personnes utilisent régulièrement les services. Recevoir un transfert ne signifie pas non plus avoir accès au crédit, à une assurance ou à une épargne rémunérée. Les chiffres doivent préciser le service et la période d’utilisation mesurés. L’interopérabilité désigne la possibilité d’échanger entre différents services ou réseaux ; son utilité dépend aussi des frais, de la disponibilité et de la facilité des opérations pour le client.
 
 ## Inclusion financière, protection et lecture des indicateurs
 

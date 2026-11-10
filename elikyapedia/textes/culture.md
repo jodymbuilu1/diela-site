@@ -1,27 +1,27 @@
 # Les cultures, les arts et le patrimoine en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-Les cultures de la RDC forment un ensemble pluriel de langues, de pratiques, de créations et de mémoires. Elles associent transmissions, arts visuels, musiques, danses, littérature et expressions contemporaines. Les villes, les circulations régionales et les diasporas transforment ces héritages sans les effacer. La rumba congolaise, inscrite avec la République du Congo au patrimoine immatériel de l’UNESCO en 2021, en offre un exemple. Musées, archives, communautés et institutions participent à la conservation et à la transmission. L’étude du secteur distingue patrimoine et création, visibilité internationale et conditions économiques, droit d’auteur et droits des communautés, documentation et appropriation des œuvres culturelles.
+Les langues, les musiques, les récits et les arts de la RDC se transmettent et se transforment par les familles, les migrations, les villes et les échanges. Ils ne constituent pas une tradition nationale unique et figée. La rumba congolaise, inscrite par les deux Congo au patrimoine immatériel de l’UNESCO en 2021, illustre ces circulations. Musées, archives et communautés contribuent à conserver les objets et les mémoires. Les artistes créent de nouvelles formes d’expression. L’article explique ces relations entre héritage et création, ainsi que les enjeux de transmission, de droits et de rémunération dans un environnement de diffusion numérique croissante.
 
 ## Dix points clés
 
-1. Il n’existe pas une culture congolaise unique et immobile.
-2. Les langues, récits et pratiques orales sont des formes de transmission du savoir.
-3. Les cultures circulent au-delà des frontières administratives.
-4. La rumba est inscrite à l’UNESCO depuis 2021 par les deux Congo.
-5. Kinshasa appartient depuis 2015 au réseau des villes créatives pour la musique.
-6. Arts anciens et créations contemporaines appartiennent à une histoire continue.
-7. Un musée conserve des objets et documente leurs contextes.
-8. La sauvegarde d’une pratique vivante ne consiste pas à la figer.
-9. La diffusion numérique élargit les publics mais ne garantit pas des revenus.
-10. L’accès aux œuvres doit respecter créateurs, communautés et droits associés.
+1. Les cultures congolaises sont diverses et évoluent avec les générations, les échanges et les migrations.
+2. Les langues, les récits et les pratiques orales transmettent des savoirs et des mémoires.
+3. Une langue, une musique ou une tradition peut circuler entre plusieurs provinces et plusieurs pays.
+4. Les deux Congo ont fait inscrire ensemble la rumba congolaise au patrimoine culturel immatériel de l’UNESCO en 2021.
+5. Kinshasa est reconnue depuis 2015 comme ville créative de musique dans le réseau de l’UNESCO.
+6. Les créations contemporaines peuvent prolonger, transformer ou réinterpréter des héritages plus anciens.
+7. Un musée conserve des objets et explique leur origine, leur usage et leur histoire.
+8. Préserver une pratique vivante ne signifie pas empêcher ses interprètes de la faire évoluer.
+9. Internet peut donner une large audience à une œuvre sans assurer une rémunération suffisante à ses créateurs.
+10. Diffuser les œuvres suppose de respecter les droits des créateurs et ceux des communautés concernées.
 
 ## Diversité culturelle et histoire des échanges
 
-La République démocratique du Congo rassemble des langues, des mémoires et des pratiques dont les aires ne coïncident pas toujours avec les frontières provinciales ou nationales. Familles, échanges commerciaux, migrations, écoles, institutions religieuses et médias mettent ces univers en relation. Une présentation de la culture doit donc éviter deux simplifications : chercher une tradition nationale uniforme ou enfermer chaque communauté dans une identité immuable. Les appartenances peuvent se combiner et évoluer au cours d’une vie.
+Une langue, une musique ou une tradition ne s’arrête pas nécessairement à la frontière d’une province ou d’un pays. En RDC, les pratiques culturelles et les mémoires se transmettent entre des communautés reliées par leur histoire et leurs échanges. Familles, échanges commerciaux, migrations, écoles, institutions religieuses et médias mettent ces univers en relation. Une présentation de la culture doit donc éviter deux simplifications : chercher une tradition nationale uniforme ou enfermer chaque communauté dans une identité immuable. Les appartenances peuvent se combiner et évoluer au cours d’une vie.
 
 Les formes contemporaines résultent de rencontres, d’appropriations et de transformations. Les villes accueillent des répertoires venus de régions différentes ; les diasporas font circuler images, textes, sons et références. Ces échanges ne signifient pas la disparition des héritages locaux. Ils modifient leurs usages et leurs publics. Les recherches de l’AfricaMuseum sur les cultures et sociétés articulent notamment linguistique, histoire, anthropologie et histoire de l’art, ce qui rappelle la nécessité de plusieurs perspectives pour comprendre ces dynamiques. [1]
 
@@ -57,9 +57,9 @@ La reconnaissance culturelle doit également tenir compte des droits et des choi
 
 ## Économie culturelle et politiques publiques
 
-La production culturelle mobilise des métiers multiples : auteurs, interprètes, techniciens, éditeurs, organisateurs, enseignants et conservateurs. Elle dépend de lieux, d’équipements, de contrats et de circuits de diffusion. Le succès d’une chanson sur les réseaux sociaux ne garantit pas que ses créateurs reçoivent une rémunération proportionnelle. Les plateformes peuvent élargir l’audience tout en rendant la mesure des usages et le partage des revenus plus complexes. La visibilité et la viabilité économique sont donc deux questions distinctes.
+Une œuvre fait travailler des auteurs, des interprètes, des techniciens, des éditeurs et des organisateurs. Leur activité dépend de lieux, d’équipements, de contrats et de moyens de diffusion. Une chanson très écoutée sur Internet peut rester peu rémunératrice pour ses créateurs : l’audience et le partage des recettes sont deux questions différentes. Les plateformes ouvrent des publics nouveaux, mais rendent parfois plus difficile le suivi des usages et des revenus. Connaître la visibilité d’une œuvre ne suffit donc pas à comprendre les conditions de travail de ceux qui l’ont produite.
 
-Les politiques culturelles concernent à la fois le patrimoine, la liberté de création, la formation et l’accès du public. Elles doivent composer avec les priorités budgétaires et la diversité territoriale. Les échanges organisés par l’UNESCO avec les acteurs congolais en 2025 portent notamment sur la gouvernance et la mise en œuvre d’une politique culturelle nationale. Une feuille de route ou un séminaire indique une orientation de travail ; il ne prouve pas que les moyens et les résultats sont déjà présents dans toutes les régions. [7]
+Une politique culturelle concerne la conservation du patrimoine, la liberté de création, la formation et l’accès du public aux œuvres. Sa mise en œuvre dépend des moyens financiers et des besoins des territoires. En 2025, des échanges organisés par l’UNESCO avec les acteurs congolais portent notamment sur l’organisation et l’application d’une politique culturelle nationale. [7] Réunir les acteurs ou adopter une feuille de route prépare une action ; cela ne prouve pas que les budgets, les équipements et les résultats sont déjà présents dans chaque région.
 
 ## Sources
 

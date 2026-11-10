@@ -1,27 +1,27 @@
 # Institutions démocratiques et Parlement en RDC
 
-ELIKYAPEDIA · DIELA · 9 novembre 2026
+ELIKYAPEDIA · DIELA · 10 novembre 2026
 
 ## En bref
 
-Les institutions démocratiques de la République démocratique du Congo organisent la représentation des citoyens, l’exercice du pouvoir et son contrôle. Le cadre constitutionnel articule président, gouvernement, Parlement, juridictions et institutions provinciales. Le Parlement comprend l’Assemblée nationale et le Sénat, dont les modes de désignation diffèrent. Il vote les lois, autorise les ressources et les dépenses publiques et contrôle le gouvernement. Les élections constituent une étape essentielle, mais leur existence ne suffit pas à décrire toute la démocratie. Celle-ci dépend également des libertés, du pluralisme, des procédures de recours et de la capacité des institutions à demander des comptes aux gouvernants.
+En République démocratique du Congo, les institutions déterminent comment les dirigeants sont choisis, quelles décisions ils peuvent prendre et comment leur action est contrôlée. Le président, le gouvernement, le Parlement, les juridictions et les institutions provinciales exercent des fonctions différentes. L’Assemblée nationale et le Sénat votent les lois, autorisent le budget et contrôlent le gouvernement. Les citoyens élisent directement les députés nationaux ; les sénateurs élus sont désignés par les assemblées provinciales. L’article explique la fabrication des lois, les recours électoraux et les libertés qui permettent de participer à la vie publique. La démocratie ne se limite pas au vote.
 
 ## Dix points clés
 
-1. La démocratie comprend représentation, libertés et contrôle du pouvoir.
-2. Le Parlement national est bicaméral.
-3. Les députés nationaux sont élus au suffrage direct.
-4. Les sénateurs élus le sont au suffrage indirect par les assemblées provinciales.
-5. Le président et le gouvernement exercent des fonctions constitutionnelles distinctes.
-6. Le gouvernement est responsable devant l’Assemblée nationale.
-7. Projet de loi et proposition de loi ne désignent pas la même origine d’initiative.
-8. Voter le budget et contrôler son exécution sont deux opérations différentes.
-9. La CENI organise les élections dans le cadre de ses compétences.
-10. Un résultat annoncé, son contentieux et sa validation juridique doivent être distingués.
+1. Voter est essentiel à la démocratie, mais celle-ci exige aussi des libertés et des moyens de contrôler les gouvernants.
+2. Le Parlement national comprend deux chambres : l’Assemblée nationale et le Sénat.
+3. Les citoyens élisent directement les députés nationaux.
+4. Les sénateurs élus le sont par les assemblées provinciales, et non directement par l’ensemble des électeurs.
+5. Le président et le gouvernement se partagent des fonctions définies par la Constitution ; ils ne sont pas interchangeables.
+6. Le gouvernement doit répondre de son action devant l’Assemblée nationale, selon les procédures constitutionnelles.
+7. Un projet de loi vient du gouvernement ; une proposition de loi vient d’un parlementaire.
+8. Voter le budget autorise des dépenses ; contrôler les comptes permet ensuite d’examiner ce qui a été fait.
+9. La CENI organise le processus électoral dans les limites des compétences que lui attribuent les textes.
+10. Un résultat électoral annoncé peut encore faire l’objet de recours avant que sa situation juridique soit définitive.
 
 ## Ce que recouvrent les institutions démocratiques
 
-Une démocratie constitutionnelle organise l’accès au pouvoir et les limites de son exercice. Elle combine des élections, des libertés permettant de débattre, une représentation pluraliste et des mécanismes de responsabilité. Une institution peut être prévue par un texte sans disposer, à tout moment, de la même capacité pratique. Il faut donc distinguer le régime juridique, les procédures suivies et les rapports de force politiques. Les confondre conduirait soit à prendre la Constitution pour une photographie exhaustive du réel, soit à ignorer les règles au profit des seules pratiques.
+Une démocratie constitutionnelle définit comment les dirigeants sont choisis, ce qu’ils peuvent décider et comment leur action peut être contrôlée. Les élections s’accompagnent de libertés de débat et de moyens de demander des comptes aux gouvernants. Une institution peut être prévue par un texte sans disposer, à tout moment, de la même capacité pratique. Il faut donc distinguer le régime juridique, les procédures suivies et les rapports de force politiques. Les confondre conduirait soit à prendre la Constitution pour une photographie exhaustive du réel, soit à ignorer les règles au profit des seules pratiques.
 
 La Constitution de 2006 constitue le cadre de référence de la Troisième République, avec une révision en 2011.[1] Elle organise notamment les institutions nationales et provinciales et fixe des droits fondamentaux. Les institutions nationales comprennent le président, le Parlement, le gouvernement et les cours et tribunaux ; les institutions provinciales participent à une autre échelle de représentation et de décision. Pour évaluer une institution, il faut examiner ses décisions, la procédure employée, l’accès à l’information et les suites données, en précisant la période concernée.
 
@@ -29,7 +29,7 @@ La Constitution de 2006 constitue le cadre de référence de la Troisième Répu
 
 L’histoire des institutions congolaises comporte des ruptures majeures : mise en place des institutions de l’indépendance, centralisation sous la Deuxième République, retour du débat pluraliste dans les années 1990 et transitions liées aux guerres. La Conférence nationale souveraine puis le dialogue intercongolais appartiennent à cette histoire, mais ne sont pas des législatures ordinaires identiques au Parlement constitutionnel actuel. Ils répondent à des contextes et à des modes de désignation particuliers.
 
-La transition de 2003 à 2006 a précédé l’installation des institutions issues du nouveau cadre constitutionnel. Le passage à des élus ne supprime pas automatiquement les contraintes de ressources, les réseaux d’influence ou la faiblesse des administrations. Il change toutefois les mécanismes formels de légitimation et de responsabilité. Une majorité soutenant le gouvernement peut accélérer certaines décisions ; elle n’efface pas les fonctions de délibération et de contrôle. L’opposition participe aussi à la représentation, dans le cadre des garanties constitutionnelles de pluralisme et de ses droits parlementaires.
+La transition de 2003 à 2006 a précédé l’installation des institutions du nouveau cadre constitutionnel. Élire des représentants change la manière dont le pouvoir est attribué et contrôlé, mais ne fait pas disparaître le manque de moyens, les influences politiques ou les difficultés des administrations. Une majorité favorable au gouvernement peut faciliter le vote de ses textes. Elle ne supprime pas le rôle du Parlement dans le débat et le contrôle. L’opposition représente également des citoyens et bénéficie des droits prévus par le cadre constitutionnel et parlementaire.
 
 ## Deux chambres et deux modes de représentation
 
@@ -39,7 +39,7 @@ Chaque chambre possède ses organes, ses groupes parlementaires et ses commissio
 
 ## Président, gouvernement et responsabilité politique
 
-Le président de la République et le gouvernement n’exercent pas la même fonction. La répartition constitutionnelle relie les pouvoirs propres du chef de l’État, les compétences du Premier ministre et l’action collective du gouvernement. La majorité parlementaire intervient dans l’articulation de ces institutions. Le gouvernement est responsable devant l’Assemblée nationale ; cette responsabilité est un mécanisme politique et ne doit pas être confondue avec une condamnation judiciaire d’un ministre.[1]
+Le président de la République, le Premier ministre et le gouvernement disposent de responsabilités définies par la Constitution. Le fonctionnement de cet ensemble dépend aussi de la majorité présente au Parlement. Le gouvernement doit répondre de son action devant l’Assemblée nationale. Il s’agit d’un contrôle politique : mettre en cause un gouvernement ou un ministre selon cette procédure ne revient pas à le condamner pour une infraction. La responsabilité politique et la responsabilité pénale répondent à des règles et à des conséquences différentes. [1]
 
 Le contrôle parlementaire peut prendre différentes formes : questions, interpellations et commissions d’enquête, selon les conditions fixées par les textes. Une question demande une information ou une explication ; une mise en cause formelle de la responsabilité obéit à une procédure distincte. Les coalitions influencent l’utilisation de ces instruments, sans modifier par elles-mêmes le contenu juridique de chaque pouvoir. Évaluer le contrôle exige donc de regarder non seulement le nombre d’interventions, mais les réponses, les documents obtenus et les suites. Une audition très médiatisée peut éclairer un dossier sans prouver qu’une correction a effectivement été réalisée.
 
