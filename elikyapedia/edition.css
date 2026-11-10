@@ -7,3 +7,12 @@
 .documented-map figcaption{font-size:.9rem;line-height:1.6;margin-top:1rem}
 .documented-map figcaption small{display:block;margin-top:.7rem;color:#586158}
 @media print{.documented-map{break-inside:avoid}.documented-map img{max-height:18cm;width:auto;max-width:100%}}
+
+/* Structured reference articles: headings, data tables and original charts. */
+.prose h3{font-family:inherit;font-size:1.2rem;line-height:1.4;margin:2rem 0 .8rem;color:#26342b}
+.table-wrap{overflow-x:auto;margin:1.5rem 0;max-width:100%}
+.prose table{border-collapse:collapse;width:100%;font-size:.92rem;line-height:1.5}
+.prose th,.prose td{border-bottom:1px solid #d9d7cd;padding:.8rem;text-align:left;vertical-align:top;min-width:8rem}
+.prose th{background:#eeeee6;font-weight:600}
+.article-figure{padding:.7rem}
+@media print{.table-wrap{overflow:visible}.prose th,.prose td{min-width:0}}

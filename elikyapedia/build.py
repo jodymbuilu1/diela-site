@@ -17,6 +17,31 @@ def inline(s):
     s=re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', s)
     s=re.sub(r'\*(.+?)\*', r'<em>\1</em>', s)
     return re.sub(r'\[(\d+)\]',lambda m:f'<sup><a href="#source-{m[1]}" aria-label="Référence {m[1]}">[{m[1]}]</a></sup>',s)
+def render_block(text):
+    if text.startswith('### '): return '<h3>'+inline(text[4:])+'</h3>'
+    if text.startswith('|'):
+        rows=[[cell.strip() for cell in row.strip().strip('|').split('|')] for row in text.splitlines() if row.strip()]
+        assert len(rows)>2 and all(len(row)==len(rows[0]) for row in rows)
+        head='<thead><tr>'+''.join('<th scope="col">'+inline(c)+'</th>' for c in rows[0])+'</tr></thead>'
+        body='<tbody>'+''.join('<tr>'+''.join('<td>'+inline(c)+'</td>' for c in row)+'</tr>' for row in rows[2:])+'</tbody>'
+        return '<div class="table-wrap" role="region" aria-label="Tableau de données" tabindex="0"><table>'+head+body+'</table></div>'
+    if text.startswith('- '): return '<ul>'+''.join('<li>'+inline(line[2:])+'</li>' for line in text.splitlines() if line.startswith('- '))+'</ul>'
+    return '<p>'+inline(text)+'</p>'
+def figure_html(f):
+    return f'<figure class="documented-map article-figure"><a href="{esc(f["src"])}" aria-label="Ouvrir le graphique en grand"><img src="{esc(f["src"])}" alt="{esc(f["alt"])}" width="{int(f["width"])}" height="{int(f["height"])}" loading="lazy"></a><figcaption>{inline(f["caption"])}<small>{esc(f["credit"])}</small><a href="{esc(f["sourceUrl"])}" rel="noopener">Consulter les données sources →</a></figcaption></figure>'
+def section_html(section,i):
+    content=''
+    for j,paragraph in enumerate(section['paragraphs']):
+        content+=render_block(paragraph)
+        if section.get('figure',{}).get('afterParagraph')==j: content+=figure_html(section['figure'])
+    return f'<section id="section-{i}"><h2>{esc(section["title"])}</h2>'+content+'</section>'
+def section_markdown(section):
+    blocks=[]
+    for j,paragraph in enumerate(section['paragraphs']):
+        blocks.append(paragraph)
+        if section.get('figure',{}).get('afterParagraph')==j:
+            f=section['figure']; blocks.append(f'![{f["alt"]}]({ORIGIN.rstrip("/").replace("/elikyapedia", "")}{f["src"]})\n\n{f["caption"]}\n\n{f["credit"]}\n\nSource : {f["sourceUrl"]}')
+    return '## '+section['title']+'\n\n'+'\n\n'.join(blocks)
 def write(path,content):
     p=HERE/path; p.parent.mkdir(parents=True,exist_ok=True); p.write_text(content)
 def shell(title,description,body,path='',domain=None,article=False):
@@ -43,16 +68,18 @@ def article_page(a,articles):
         toc+='<a href="#carte">Lire la carte</a>'
         figure=f'<section id="carte" class="map-section"><h2>Lire la géographie du conflit</h2><p>{inline(m["context"])}</p><figure class="documented-map"><a href="{esc(m["src"])}" aria-label="Ouvrir la carte en grand"><img src="{esc(m["src"])}" alt="{esc(m["alt"])}" width="720" height="950" loading="lazy"></a><figcaption>{esc(m["caption"])}<small>{esc(m["credit"])}</small></figcaption></figure><p>{inline(m["reading"])}</p><p><a href="{esc(m["sourceUrl"])}" rel="noopener">Consulter l’analyse et la carte de juillet 2025 →</a> · <a href="{esc(m["originalUrl"])}" rel="noopener">Ouvrir la figure originale</a></p></section>'
     points=''.join(f'<li>{inline(p)}</li>' for p in a['keyPoints'])
-    prose=''.join(f'<section id="section-{i}"><h2>{esc(s["title"])}</h2>'+''.join(f'<p>{inline(p)}</p>' for p in s['paragraphs'])+'</section>' for i,s in enumerate(sections,1))
+    prose=''.join(section_html(s,i) for i,s in enumerate(sections,1))
     refs=''.join(f'<li id="source-{i}"><a href="{esc(s["url"])}" rel="noopener">{esc(s["title"])}</a><p>{esc(s.get("note",""))}</p></li>' for i,s in enumerate(a['sources'],1))
     corpus=''.join(f'<li>{esc(s["title"])}'+(f' — {esc(s.get("period",""))}' if s.get('period') else '')+'</li>' for s in a.get('corpus',[]))
-    related=''.join(f'<a href="/elikyapedia/articles/{b["slug"]}/">{esc(b["title"])}</a>' for b in articles if b['domain']==a['domain'] and b['slug']!=slug)
+    related=''.join(f'<a href="/elikyapedia/articles/{b["slug"]}/">{esc(b["title"])}</a>' for b in articles if (b['domain']==a['domain'] or b['slug'] in a.get('relatedSlugs',[])) and b['slug']!=slug)
+    documentation=f'''<details><summary>Documentation de travail utilisée</summary><p>Les rapports énumérés ci-dessous appartiennent au corpus de travail « État des lieux de la RDC » : un ensemble de recherches thématiques réunies par DIELA pour préparer les articles et repérer leurs sources. Leur présence dans ce corpus ne vaut pas validation indépendante. Les références publiques de cet article figurent ci-dessus ; les notes internes et données personnelles ne sont pas reproduites. <a href="/elikyapedia/methode.html#corpus">Comprendre le rôle du corpus et la méthode de rédaction.</a></p><ul>{corpus}</ul></details>''' if a.get('corpus') else ''
+    related_heading='Lire aussi' if a.get('relatedSlugs') else 'Lire aussi dans '+dom
     body=f'''<main id="contenu" class="article-layout"><aside class="contents"><p>Dans cet article</p><nav aria-label="Sommaire de l’article">{toc}</nav></aside><article class="article"><div class="breadcrumbs"><a href="/elikyapedia/">Encyclopédie</a><span>/</span><a href="/elikyapedia/{a['domain']}/">{dom}</a></div><header class="article-header"><p class="eyebrow">{esc(label)}</p><h1>{esc(a['title'])}</h1>{intro}<p class="article-meta">Mis à jour le {article_date}{period} · {max(1,round(nwords/220))} min de lecture · <a href="#references">Sources</a></p><div class="reading-nav"><a href="#en-bref">En bref</a><a href="#article-detaille">Article détaillé</a><button type="button" data-print>Imprimer / PDF</button></div></header>
 <section id="en-bref" class="abstract"><div class="section-kicker">EN BREF <span>100 mots</span></div><p>{inline(a['summary'])}</p></section><section id="points-cles" class="keypoints"><h2>Dix points clés</h2><ol>{points}</ol></section>
-<div id="article-detaille" class="article-divider"><span>COMPRENDRE EN DÉTAIL</span><span>{str(nwords).replace(',', ' ')} mots</span></div><div class="prose">{figure}{prose}</div><section id="references" class="references"><h2>Sources & références</h2><p class="scope">{esc(a.get('scope',''))}</p><ol>{refs}</ol><details><summary>Documentation de travail utilisée</summary><p>Les rapports énumérés ci-dessous appartiennent au corpus de travail « État des lieux de la RDC » : un ensemble de recherches thématiques réunies par DIELA pour préparer les articles et repérer leurs sources. Leur présence dans ce corpus ne vaut pas validation indépendante. Les références publiques de cet article figurent ci-dessus ; les notes internes et données personnelles ne sont pas reproduites. <a href="/elikyapedia/methode.html#corpus">Comprendre le rôle du corpus et la méthode de rédaction.</a></p><ul>{corpus}</ul></details><p class="revision">Version {esc(version)} · {article_date} · <a href="/elikyapedia/methode.html">Politique de sources et de corrections</a> · <a download href="/elikyapedia/textes/{slug}.md">Télécharger le texte</a></p></section><section class="related"><h2>Lire aussi dans {dom}</h2><div>{related}</div></section></article></main>'''
+<div id="article-detaille" class="article-divider"><span>COMPRENDRE EN DÉTAIL</span><span>{str(nwords).replace(',', ' ')} mots</span></div><div class="prose">{figure}{prose}</div><section id="references" class="references"><h2>Sources & références</h2><p class="scope">{esc(a.get('scope',''))}</p><ol>{refs}</ol>{documentation}<p class="revision">Version {esc(version)} · {article_date} · <a href="/elikyapedia/methode.html">Politique de sources et de corrections</a> · <a download href="/elikyapedia/textes/{slug}.md">Télécharger le texte</a></p></section><section class="related"><h2>{esc(related_heading)}</h2><div>{related}</div></section></article></main>'''
     write(Path('articles')/slug/'index.html', shell(a['title'],a['summary'],body,f'articles/{slug}/',a['domain'],True))
     text=f'# {a["title"]}\n\nELIKYAPEDIA · DIELA · {article_date}\n\n## En bref\n\n{a["summary"]}\n\n## Dix points clés\n\n'+ '\n'.join(f'{i}. {p}' for i,p in enumerate(a['keyPoints'],1))+'\n\n'
-    text+='\n\n'.join('## '+s['title']+'\n\n'+'\n\n'.join(s['paragraphs']) for s in sections)
+    text+='\n\n'.join(section_markdown(s) for s in sections)
     if a.get('map'):
         m=a['map']
         text+='\n\n## Carte et repères géographiques\n\n'+m['context']+'\n\n'+m['caption']+'\n\n'+m['credit']+'\n\n'+m['reading']+'\n\nCarte ELIKYAPEDIA : '+ORIGIN+'cartes/adf-reperes.svg'+'\nCarte originale CTP : '+m['originalUrl']
