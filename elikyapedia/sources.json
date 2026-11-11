@@ -513,34 +513,49 @@
       "slug": "reddition-des-comptes",
       "sources": [
         {
-          "title": "RDC — Loi n° 11/011 du 13 juillet 2011 relative aux finances publiques",
+          "title": "République démocratique du Congo — Constitution du 18 février 2006, textes coordonnés après la révision de 2011",
+          "url": "https://presidence.cd/uploads/files/Constitution%20de%20la%20RDC%20%202011.pdf",
+          "note": "Articles 171–175 et 178–180. Texte publié par la Présidence."
+        },
+        {
+          "title": "Loi n°11/011 du 13 juillet 2011 relative aux finances publiques",
           "url": "https://budget.gouv.cd/wp-content/uploads/textes-lois/lofip2011.pdf",
-          "note": "Journal officiel, numéro spécial du 25 juillet 2011, version initiale publiée par le ministère du Budget. Articles 28–30, 38–41, 81–84, 87, 90 et 141–143. À lire avec les modifications ultérieures ; ne constitue pas une version consolidée."
+          "note": "Journal officiel, numéro spécial du 25 juillet 2011. Articles 28–30, 81–84 et 87. Texte initial à lire avec ses modifications, notamment celles de 2018 et 2023."
         },
         {
-          "title": "RDC — Constitution du 18 février 2006, articles 178 à 180",
-          "url": "https://presidence.cd/uploads/files/Constitution%20de%20la%203me%20Republique.%2018%20Fev%202006.pdf",
-          "note": "Document diffusé par la Présidence : institution de la Cour des comptes, loi organique, contrôle des finances et biens publics et publication de son rapport annuel. Les articles cités portent sur la Cour des comptes."
+          "title": "Cour des comptes — Rapport public annuel, exercices 2024 et 2025",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2026/04/RAPPORT-PUBLIC-2024_2025-DEFINITIF.pdf",
+          "note": "Février 2026. Activités juridictionnelles : pages imprimées 16–18. Six dossiers jugés ne signifient pas automatiquement six condamnations définitives et exécutées."
         },
         {
-          "title": "RDC — Loi organique n° 18/024 du 13 novembre 2018 relative à la Cour des comptes",
-          "url": "https://courdescomptes.cd/wp-content/uploads/2025/07/LOI-ORGANIQUE-COUR-DES-COMPTES-RDC.pdf",
-          "note": "Journal officiel, numéro spécial du 24 novembre 2018, colonnes 15 et suivantes. Texte reproduit par la Cour des comptes ; attributions, contrôle de gestion, performance et suivi des observations, notamment article 153."
+          "title": "Cour des comptes — Rapport public exercices 2010 à 2014 et 2015",
+          "url": "https://courdescomptes.cd/rapport-public-exercices-2010-a-2014-et-2015/",
+          "note": "Présentation institutionnelle publiée le 15 décembre 2018 ; travaux réalisés notamment en 2010 et 2011 sur les exercices 2008 et 2009."
         },
         {
-          "title": "International Budget Partnership — Open Budget Survey 2023: Democratic Republic of Congo",
+          "title": "Cour des comptes — Rapport général sur le contrôle de l’exécution de la loi de finances pour l’exercice 2023",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2024/12/RAPPORT-DEFINITIF-REDDITION-2023.pdf",
+          "note": "Octobre 2024. Tableaux 2, 32 (page imprimée 45) et 34 (page imprimée 47) : synthèse, autres services et dépenses en capital."
+        },
+        {
+          "title": "Cour des comptes — Rapport général sur le contrôle de l’exécution de la loi de finances pour l’exercice 2024",
+          "url": "https://courdescomptes.cd/wp-content/uploads/2026/01/RAPPORT-GENERAL-2024-1.pdf",
+          "note": "Octobre 2025. Tableau 12, page imprimée 37 ; tableau 35, page imprimée 55. Les taux comparent les paiements aux crédits de référence du budget général."
+        },
+        {
+          "title": "Cour des comptes — Rapport sur l’exécution de la loi de finances 2025",
+          "url": "https://courdescomptes.cd/reddition-des-comptes-du-budget-du-pouvoir-central-pour-lexercice-2025/",
+          "note": "Publié le 4 novembre 2026. Le PDF intégral lié par la page fournit le tableau 2, page imprimée 23 et suivantes. Un rapport de contrôle ne constitue pas une preuve de promulgation de la loi."
+        },
+        {
+          "title": "International Budget Partnership — Open Budget Survey 2023, Democratic Republic of Congo",
           "url": "https://internationalbudget.org/open-budget-survey/country-results/2023/democratic-republic-congo",
-          "note": "Résultats nationaux et série historique 2012–2023. Transparence 41/100, participation 33/100 et contrôle 54/100 ; 74e rang sur 125. Date limite d’observation : 31 décembre 2022. Les dimensions et scores ne sont pas des mesures directes de corruption."
+          "note": "Série historique et méthodologie. Scores de transparence : 18 en 2012, 39 en 2015, 29 en 2017, 33 en 2019, 42 en 2021, 41 en 2023. L’édition 2023 observe les documents et pratiques jusqu’au 31 décembre 2022."
         },
         {
-          "title": "Cour des comptes — Rapport général sur le contrôle de l’exécution du budget du pouvoir central, exercice 2023",
-          "url": "https://courdescomptes.cd/wp-content/uploads/2024/12/REDDITION-DES-COMPTES-POUVOIR-CENTRAL-EXERCICE-2023-.pdf",
-          "note": "Kinshasa, octobre 2024, 86 pages. Loi de finances n° 22/071 du 28 décembre 2022. Pages 63–83 : opérations du Trésor, discordances, dépassements, sous-consommations et budgets annexes. Constats attribués à la Cour, sans déduction automatique d’une infraction pénale."
-        },
-        {
-          "title": "Ministère du Budget — Projets annuels de performance 2027, tome I, introduction",
-          "url": "https://www.budget.gouv.cd/wp-content/uploads/budget2027/plf2027/document_num_9_pap_tome1_2027.pdf",
-          "note": "Annexe n° 9 au projet de loi de finances 2027, introduction p. 5 : mention de la loi n° 23/030 du 28 juin 2023 modifiant et complétant la LOFIP. Cette référence sert au repérage de la modification législative, sans utiliser les projections 2027 comme résultats constatés."
+          "title": "Loi n°14/007 du 21 février 2014 portant reddition des comptes du budget du pouvoir central pour l’exercice 2012",
+          "url": "https://adminfinances.cd/assets/textes_legeaux/LOIS/REDDITION-DES-COMPTES-2012-DU-4-JUIN-2012(1).pdf",
+          "note": "Texte et annexes publiés par l’administration des Finances ; référence au Journal officiel du 15 mars 2014. La date dans le nom du fichier ne remplace pas celle du texte légal."
         }
       ]
     },

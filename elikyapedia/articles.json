@@ -1833,258 +1833,180 @@
     "category": "Institutions et contrôle public",
     "kind": "Article de référence",
     "date": "10 novembre 2026",
-    "period": "Repères juridiques 2006–2023 ; observations budgétaires 2012–2023",
-    "version": "1.2",
-    "summary": "Rendre les comptes publics consiste à expliquer ce que l’État a encaissé et dépensé, puis à le comparer au budget autorisé. En RDC, le gouvernement présente les comptes, la Cour des comptes les examine et le Parlement intervient dans leur approbation législative. Cette procédure permet de repérer les dépenses dépassant les crédits, les sommes inutilisées et les informations contradictoires. Publier les comptes ne garantit pourtant ni leur exactitude ni le suivi des anomalies. L’article explique ces étapes, les rôles des institutions et les limites documentées du contrôle, en distinguant les irrégularités budgétaires des preuves nécessaires pour établir une infraction pénale.",
+    "period": "2000–2025 ; informations documentaires actualisées au 10 novembre 2026",
+    "version": "2.0",
+    "summary": "La reddition des comptes permet de comparer les recettes et les dépenses de l’État avec le budget autorisé. En République démocratique du Congo, elle associe le Gouvernement, qui présente les comptes, la Cour des comptes, qui les contrôle, et le Parlement, qui examine leur règlement. Les documents disponibles révèlent des investissements partiellement financés, des dépassements de crédits et des informations insuffisamment détaillées. Ils montrent une activité de contrôle dont les résultats doivent être suivis. Comprendre cette procédure exige de distinguer l’argent payé, les ouvrages livrés, les irrégularités constatées et les responsabilités établies. Publier ces comptes ne corrige pas les problèmes.",
     "keyPoints": [
-      "Rendre les comptes publics consiste à expliquer ce qui a été encaissé et dépensé, puis à le comparer au budget autorisé.",
-      "La Constitution confie à la Cour des comptes le contrôle des finances et des biens publics.",
-      "La loi de 2011 sur les finances publiques organise notamment la présentation et l’examen des comptes après chaque exercice.",
-      "La loi de reddition arrête les résultats budgétaires de l’exercice ; elle ne se limite pas à annoncer des dépenses.",
-      "Le gouvernement présente les comptes, la Cour les contrôle et le Parlement les examine dans la procédure législative.",
-      "Une dépense prévue, une dépense payée et un dépassement à régulariser ne désignent pas la même situation.",
-      "Pour 2023, la Cour a relevé des dépenses dépassant les crédits : ce constat ne prouve pas à lui seul un détournement.",
-      "L’enquête sur le budget ouvert 2023 relève un accès encore insuffisant à l’information budgétaire en RDC, avec 41 points sur 100.",
-      "Publier les comptes, les vérifier et donner suite aux anomalies sont trois tâches différentes ; la publication seule ne suffit pas.",
-      "Les provinces et les autorités locales doivent aussi rendre leurs comptes, selon des procédures adaptées à leurs budgets."
+      "La reddition des comptes répond à une question centrale : l’État a-t-il utilisé l’argent public conformément au budget autorisé, et comment explique-t-il les écarts ?",
+      "Voter un budget et rendre compte de son exécution sont deux actes différents. Le premier autorise les recettes et les dépenses ; le second examine les opérations enregistrées après leur réalisation.",
+      "Le Gouvernement présente les comptes, la Cour des comptes les contrôle et le Parlement examine leur règlement. Ces institutions exercent des responsabilités complémentaires, qui ne se remplacent pas. [1] [2] [3]",
+      "Une dépense inscrite au budget n’est pas nécessairement payée. Et un paiement ne prouve pas qu’une route, une école ou un hôpital est achevé et utilisable.",
+      "En 2023, les équipements ont légèrement dépassé leur budget prévu, tandis que les constructions et réhabilitations en ont utilisé moins de la moitié. Les résultats diffèrent donc selon la nature des investissements. [5]",
+      "En 2024 et 2025, environ la moitié, puis moins de la moitié des investissements prévus au budget général ont donné lieu à des paiements. Pendant ces deux exercices, les dépenses courantes ont dépassé leurs prévisions. [6] [7]",
+      "Certaines rubriques restent difficiles à comprendre faute de détail public. En 2023, « autres services » regroupait près de 87 % des paiements du titre des prestations, sans ventilation suffisante dans le tableau examiné par la Cour. [5]",
+      "La transparence budgétaire a progressé sans suivre une hausse continue. Le score de la RDC était de 33/100 en 2019, 42/100 en 2021 et 41/100 en 2023 dans l’Open Budget Survey. [8]",
+      "Le contrôle produit des observations et des décisions, mais leur exécution doit être examinée séparément. La Cour rapporte six dossiers jugés en 2024 en matière de discipline budgétaire et financière. [3]",
+      "Une irrégularité n’est pas automatiquement un détournement. Pour établir une responsabilité, il faut identifier les opérations, les règles applicables, les justifications et les décisions concernant le cas étudié."
     ],
     "sections": [
       {
-        "title": "Définition et portée de la reddition des comptes",
+        "title": "À quoi sert la reddition des comptes ?",
         "paragraphs": [
-          "Rendre les comptes publics, c’est expliquer ce qui a été encaissé et dépensé, puis le comparer au budget autorisé. Le gouvernement présente ces comptes aux institutions chargées de les examiner : la Cour des comptes et le Parlement.",
-          "Le Parlement autorise des recettes et des dépenses. Après l’année budgétaire, les comptes permettent de comparer cette autorisation avec l’argent réellement encaissé et les dépenses payées.",
-          "En République démocratique du Congo (RDC), la reddition des comptes constitue une étape du cycle des [finances publiques](/elikyapedia/articles/finances-publiques/). Elle intervient après l'exécution du budget et se traduit notamment par l'élaboration et l'examen d'une loi portant reddition des comptes.",
-          "La loi de reddition arrête les comptes de l’année écoulée. Elle constate les recettes encaissées et les dépenses payées, puis traite, dans les conditions prévues par la loi, les dépassements de dépenses et les crédits restés inutilisés. Ces fonctions sont précisées à l’article 29 de la loi de 2011 sur les finances publiques. [1]",
-          "La reddition permet de savoir si les dépenses ont respecté les autorisations, quel solde budgétaire reste en fin d’année et quelles explications le gouvernement doit fournir au Parlement. Rendre ces opérations compréhensibles fait partie de la procédure de contrôle. [1]",
-          "Examiner les comptes ne répond pas à toutes les questions. Un audit de performance cherche si les moyens ont produit les résultats attendus et s’ils ont été bien utilisés. Une enquête judiciaire cherche, elle, à établir une éventuelle infraction et ses auteurs.",
-          "### Distinction entre budget et reddition des comptes",
-          "Le budget de l'État présente les prévisions de recettes et les autorisations de dépenses pour un exercice à venir. La reddition des comptes présente, après cet exercice, les opérations effectivement réalisées. [1]",
-          "| Document                               | Fonction principale                                   | Moment du cycle budgétaire  |\n| -------------------------------------- | ----------------------------------------------------- | --------------------------- |\n| Projet de loi de finances              | Présenter les prévisions et les choix du gouvernement | Avant l'exercice            |\n| Loi de finances                        | Autoriser les recettes et les dépenses                | Avant ou pendant l'exercice |\n| Rapports d'exécution                   | Suivre les recettes et dépenses réalisées             | Pendant l'exercice          |\n| Projet de loi de reddition des comptes | Arrêter les résultats de l'exercice clos              | Après l'exercice            |\n| Rapport de la Cour des comptes         | Examiner les comptes et présenter des observations    | Contrôle a posteriori       |",
-          "Cette distinction est importante pour l'interprétation des chiffres publics. Un crédit inscrit au budget ne correspond pas nécessairement à une dépense engagée, ordonnancée ou payée.",
-          "De même, une prévision de recettes ne signifie pas que les ressources ont été effectivement encaissées.",
-          "### Les principales notions comptables",
-          "Dans la procédure budgétaire, plusieurs notions doivent être distinguées.",
-          "Le crédit budgétaire représente une autorisation de dépense. L’engagement crée ou constate une obligation susceptible d’entraîner une charge. La liquidation vérifie la réalité de la dette et détermine son montant exact. L’ordonnancement donne l’ordre de payer la dette liquidée ; le paiement libère l’administration de cette dette. Ces étapes sont distinguées à l’article 90 de la LOFIP. [1]",
-          "La reddition des comptes s'intéresse notamment aux paiements et aux encaissements constatés pendant l'exercice, selon les règles de comptabilité applicables.",
-          "Un dépassement de crédits doit donc être analysé à partir de la nature du crédit concerné, de l'autorisation initiale, des éventuelles modifications intervenues en cours d'année et des dépenses effectivement exécutées.",
-          "Dans le texte de la LOFIP, l’article 84 fixe le dépôt du projet de reddition à l’Assemblée nationale au plus tard le 15 mai de l’année suivante ; si ce délai ne peut être respecté, il prévoit un dépôt avant la fin de la session ordinaire de mars. L’article 87 prévoit son examen avant le vote du projet de loi de finances de l’année. Il s’agit du calendrier légal, distinct du calendrier effectivement observé pour chaque exercice. [1]"
+          "La reddition des comptes publics est la procédure par laquelle les autorités présentent et font examiner les résultats de l’exécution budgétaire. Elle permet de comparer ce qui avait été autorisé avec les recettes encaissées et les dépenses enregistrées.",
+          "Son intérêt dépasse la clôture comptable. Elle rend possible l’examen des choix effectivement financés : les investissements annoncés ont-ils reçu les ressources prévues ? Certaines administrations ont-elles dépensé davantage que leur autorisation ? Les recettes ont-elles été inférieures aux prévisions ? Les écarts sont-ils expliqués ?",
+          "En RDC, la loi relative aux finances publiques prévoit que la loi de reddition constate les résultats définitifs de l’exécution et arrête le compte général du pouvoir central. Elle organise également les documents explicatifs et comparatifs qui accompagnent cet exercice. [2]",
+          "**La reddition permet ainsi de passer du budget comme annonce au budget comme résultat financier.** Pour connaître les services réellement rendus à la population, il faut toutefois compléter les comptes par des informations sur les réalisations."
         ]
       },
       {
-        "title": "Cadre constitutionnel et législatif",
+        "title": "Du budget autorisé aux comptes de fin d’année",
         "paragraphs": [
-          "### La Constitution de 2006",
-          "La Constitution du 18 février 2006 organise les principales compétences financières des institutions nationales.",
-          "Elle établit les principes de l'autorisation parlementaire des finances publiques et reconnaît la Cour des comptes comme institution chargée du contrôle des finances et des biens publics.",
-          "Les dispositions constitutionnelles relatives à la Cour des comptes figurent notamment dans les articles 178 à 180. Elles inscrivent le contrôle financier dans l'organisation institutionnelle de l'État. [2]",
-          "La reddition des comptes s'insère ainsi dans la séparation des fonctions entre l'exécutif, qui exécute le budget, et les institutions chargées d'en contrôler l'utilisation.",
-          "### La loi relative aux finances publiques de 2011",
-          "La loi n° 11/011 du 13 juillet 2011 relative aux finances publiques, généralement désignée par le sigle LOFIP, encadre la préparation, l'adoption, l'exécution et le contrôle des budgets publics.",
-          "Le cadre de 2011 a ensuite été modifié, notamment par la loi n° 18/010 du 9 juillet 2018 et la loi n° 23/030 du 28 juin 2023. Le texte initial, ses modifications et les textes d’application doivent donc être distingués. Les dispositions de reddition présentées ici sont rapprochées du rapport de contrôle de l’exercice 2023 ; l’article ne constitue pas une édition consolidée de la législation. [5] [6]",
-          "Ses articles 29 et 30 définissent les principales fonctions de la loi portant reddition des comptes.",
-          "Cette loi constate les résultats de l'exécution budgétaire et établit un compte de résultats comprenant notamment le déficit ou l'excédent du budget général et des budgets annexes, ainsi que les résultats des comptes spéciaux et, le cas échéant, des opérations de trésorerie. [1]",
-          "La LOFIP prévoit également des dispositions relatives à la reddition des comptes des provinces et des entités territoriales décentralisées, notamment aux articles 141 à 143. [1]",
-          "Cette architecture traduit le caractère territorialement différencié des finances publiques congolaises : le pouvoir central, les provinces et les entités décentralisées disposent de responsabilités budgétaires qui doivent faire l'objet de procédures adaptées de contrôle.",
-          "### La Cour des comptes",
-          "La Cour des comptes est l'institution supérieure de contrôle des finances publiques de la RDC.",
-          "Son organisation et son fonctionnement sont notamment régis par la loi organique n° 18/024 du 13 novembre 2018. [3]",
-          "Elle exerce des attributions juridictionnelles et non juridictionnelles, notamment dans l'examen des comptes publics et l'assistance au Parlement.",
-          "Dans le cadre de la reddition des comptes, la Cour examine les informations transmises par le gouvernement, confronte les résultats présentés aux autorisations budgétaires et formule des observations sur les anomalies constatées.",
-          "Ses rapports constituent une source primaire importante pour l'étude des dépenses publiques. Ils établissent les constatations de l'institution de contrôle, mais ne doivent pas être assimilés automatiquement à des décisions judiciaires constatant une infraction pénale."
+          "Plusieurs documents interviennent à des moments différents. Leur distinction évite de comparer des chiffres qui ne décrivent pas la même chose.",
+          "| Document | Ce qu’il permet de comprendre |\n| --- | --- |\n| Projet de loi de finances | Les ressources et les dépenses proposées par le Gouvernement. |\n| Loi de finances adoptée | Les autorisations budgétaires votées. |\n| Loi de finances rectificative | Les modifications apportées au budget en cours d’exercice. |\n| États de suivi budgétaire | L’exécution enregistrée à une date donnée. |\n| Projet de loi de reddition des comptes | Les résultats et les écarts que le Gouvernement soumet à l’examen. |\n| Rapport de la Cour des comptes | Les observations résultant du contrôle. |\n| Loi de reddition des comptes | Le règlement de l’exercice adopté au terme de la procédure législative. |",
+          "Une comparaison rigoureuse conserve le budget initial et ses modifications. Un dépassement apparent par rapport au budget de départ peut avoir fait l’objet d’une autorisation ultérieure ; inversement, une modification présentée dans les comptes doit pouvoir être rattachée à un acte régulier.",
+          "Il faut également distinguer les étapes de la dépense. **Engager une dépense, vérifier une prestation, donner l’ordre de payer et effectuer le paiement ne désignent pas une seule opération.** Un rapport portant sur les engagements ne peut pas être comparé directement à un tableau de paiements sans expliquer cette différence. [2]"
         ]
       },
       {
-        "title": "Les institutions participant à la reddition des comptes",
+        "title": "Qui doit rendre compte et qui contrôle ?",
         "paragraphs": [
-          "### Le gouvernement et les administrations financières",
-          "Le gouvernement assure la préparation et l'exécution du budget national. [1]",
-          "Plusieurs administrations interviennent dans la production des données nécessaires à la reddition des comptes.",
-          "Le ministère du Budget intervient dans la préparation et le suivi de l'exécution budgétaire. Le ministère des Finances intervient notamment dans la gestion financière, la trésorerie et les opérations relevant de ses compétences.",
-          "Les administrations de mobilisation des recettes jouent également un rôle dans la production des informations financières : [1] [5]",
-          "- la Direction générale des impôts (DGI), chargée des impôts relevant de ses compétences ;\n- la Direction générale des douanes et accises (DGDA), chargée notamment des recettes douanières et des accises ;\n- la Direction générale des recettes administratives, judiciaires, domaniales et de participations (DGRAD), chargée des recettes non fiscales relevant de son champ d'attributions.",
-          "La qualité des comptes dépend notamment de la cohérence des informations provenant de ces administrations et de leur rapprochement avec les données de trésorerie et de paiement.",
-          "### Le Parlement",
-          "Le Parlement exerce une fonction de contrôle sur l'utilisation des ressources publiques. [2] [3]",
-          "L'examen de la loi portant reddition des comptes permet aux parlementaires de prendre connaissance des résultats de l'exercice, des écarts entre prévisions et réalisations et des observations de la Cour des comptes.",
-          "Ce contrôle est distinct de l'autorisation budgétaire initiale. Il porte sur des opérations déjà effectuées et doit permettre d'apprécier leur conformité aux dispositions légales.",
-          "L'efficacité du contrôle parlementaire dépend notamment de la disponibilité des documents, des délais d'examen, des capacités techniques des commissions compétentes et des suites institutionnelles données aux observations.",
-          "### Les organes de contrôle administratif",
-          "D'autres organismes, notamment les services d'inspection et de contrôle interne, peuvent intervenir dans la surveillance de l'utilisation des ressources publiques.",
-          "Leurs missions ne sont pas identiques à celles de la Cour des comptes.",
-          "Les contrôles administratifs peuvent être réalisés pendant l'exécution des opérations, tandis que la reddition des comptes s'inscrit principalement dans la clôture et l'examen d'un exercice budgétaire.",
-          "Les résultats de ces différents contrôles peuvent contribuer à la connaissance des irrégularités, mais ils relèvent de procédures et de compétences distinctes."
+          "### Le Gouvernement présente les opérations",
+          "Le Gouvernement prépare le projet de reddition et les documents qui permettent d’expliquer les résultats de l’exercice. Les administrations et les agents concernés doivent produire les comptes et les pièces relevant de leurs responsabilités.",
+          "La Constitution prévoit la soumission annuelle du compte général au Parlement avec les observations de la Cour des comptes. La loi relative aux finances publiques précise l’organisation de cette procédure. [1] [2]",
+          "### La Cour des comptes examine les comptes et la gestion",
+          "La Cour contrôle les finances publiques dans les conditions fixées par les textes. Ses fonctions comprennent l’examen de l’exécution budgétaire, des contrôles de gestion et des activités juridictionnelles.",
+          "Ces fonctions sont distinctes. **Un rapport sur l’exécution du budget n’est pas un jugement individuel.** Il peut constater des anomalies ou recommander des mesures sans établir, à lui seul, toutes les responsabilités liées aux opérations examinées. [3]",
+          "### Le Parlement exerce un contrôle politique",
+          "Le Parlement examine le projet de reddition, les explications du Gouvernement et les observations de la Cour.",
+          "Le dépôt du projet, sa recevabilité, son adoption dans une chambre et sa promulgation sont des étapes différentes. Un article de presse annonçant un vote à l’Assemblée nationale ne suffit donc pas à établir que la loi a déjà été promulguée.",
+          "Le délai du 15 mai prévu à l’article 84 du texte de 2011 concerne le **dépôt du projet de reddition**, avec une disposition de repli en cas d’impossibilité. Il ne doit pas être présenté comme une date uniforme d’adoption parlementaire. [2]"
         ]
       },
       {
-        "title": "Repères historiques et évolution documentaire",
+        "title": "Une histoire qui doit être reconstituée exercice par exercice",
         "paragraphs": [
-          "### Des réformes antérieures à la LOFIP",
-          "L’exposé des motifs de la LOFIP de 2011 situe la réforme dans le prolongement de transformations engagées depuis 2002. Il mentionne notamment les intervenants dans la chaîne de la dépense, les reports de crédits et les nomenclatures budgétaires. Il décrit le remplacement du cadre de la loi financière de 1983, modifiée en 1987, pour l’adapter à la Constitution de 2006 et à la décentralisation. [1]",
-          "Ces repères juridiques ne suffisent pas à établir une chronologie complète des lois de reddition déposées, examinées et promulguées depuis 2000. Une telle chronologie nécessite l’examen des textes propres à chaque exercice.",
-          "### La réforme de 2011",
-          "L'adoption de la LOFIP en juillet 2011 constitue une étape importante de l'évolution du droit budgétaire congolais.",
-          "La loi précise les différentes catégories de lois de finances, les règles d'exécution du budget et les modalités de reddition des comptes. Elle organise également la gestion budgétaire à différents niveaux de l'administration publique. [1]",
-          "La réforme s'inscrit dans une évolution vers une gestion financière structurée par des procédures plus explicites et une responsabilisation des acteurs intervenant dans la chaîne de la dépense.",
-          "L'adoption de cette loi ne permet cependant pas, à elle seule, de mesurer son application. Celle-ci doit être appréciée à partir des documents budgétaires, des rapports de contrôle et des pratiques institutionnelles observées.",
-          "### Les années 2010 : développement des instruments de contrôle",
-          "Les années 2010 ont été marquées par le développement du cadre juridique et administratif du contrôle budgétaire.",
-          "La loi organique de novembre 2018 relative à la Cour des comptes a notamment contribué à préciser le statut, l'organisation et les compétences de cette institution. [3]",
-          "Les évaluations internationales permettent également de suivre l'évolution de la disponibilité de l'information budgétaire.",
-          "L’International Budget Partnership (IBP), organisme spécialisé dans la transparence budgétaire, publie une série de scores pour la RDC : 18 en 2012, 39 en 2015, 29 en 2017, 33 en 2019, 42 en 2021 et 41 en 2023. Ces éditions montrent une progression par rapport à 2012, avec des fluctuations. Les scores portent sur l’accès à l’information budgétaire et ne mesurent pas directement la régularité de chaque dépense. [4]",
-          "### Le contrôle de l’exercice 2023",
-          "Au cours de cette période, les rapports d'exécution budgétaire et les rapports de la Cour des comptes ont fourni des informations permettant d'examiner plus précisément la gestion des finances publiques.",
-          "Le rapport de la Cour des comptes relatif à l'exercice 2023, établi en octobre 2024, illustre la diversité des opérations soumises à vérification : recettes internes et extérieures, dépenses courantes, [investissements publics](/elikyapedia/articles/investissements-publics/), dette publique, budgets annexes, comptes spéciaux et opérations de trésorerie. [5]",
-          "Il montre également que la production de documents de reddition ne signifie pas nécessairement que toutes les opérations ont été exécutées conformément aux autorisations.",
-          "Les rapports de contrôle permettent ainsi d'étudier séparément l'existence de la procédure, la qualité des informations produites et la conformité de l'exécution budgétaire."
-        ],
-        "figure": {
-          "afterParagraph": 12,
-          "src": "/elikyapedia/illustrations/transparence-budgetaire-rdc-2012-2023.svg",
-          "width": 800,
-          "height": 500,
-          "alt": "Scores de transparence budgétaire de la RDC : 18 en 2012, 39 en 2015, 29 en 2017, 33 en 2019, 42 en 2021 et 41 en 2023 ; seuil IBP de 61 sur 100.",
-          "caption": "Scores de transparence de l’Enquête sur le budget ouvert, éditions 2012–2023. Le seuil de 61 sur 100 est celui retenu par l’IBP pour une information suffisante au débat public. Les millésimes désignent les éditions de l’enquête, pas nécessairement l’exercice budgétaire des documents évalués. [4]",
-          "credit": "Graphique original ELIKYAPEDIA à partir des valeurs publiées par l’International Budget Partnership. Les données sont également décrites dans le texte.",
-          "sourceUrl": "https://internationalbudget.org/open-budget-survey/country-results/2023/democratic-republic-congo"
-        }
-      },
-      {
-        "title": "Les irrégularités et difficultés documentées",
-        "paragraphs": [
-          "### Les dépassements de crédits",
-          "Il y a dépassement lorsque les dépenses d’une catégorie excèdent les crédits disponibles pour cette catégorie. L’analyse doit tenir compte des règles applicables et des modifications du budget intervenues pendant l’année.",
-          "La LOFIP distingue notamment des mécanismes d'autorisation et de régularisation des crédits. Les articles 29, 39 et 40 sont pertinents pour l'examen de certaines situations de dépassement. [1]",
-          "Dans son rapport sur l'exercice 2023, la Cour des comptes a constaté des dépassements portant sur plusieurs catégories de dépenses et a relevé que le gouvernement n'avait pas sollicité les ouvertures de crédits nécessaires à leur régularisation en application des articles 39 et 40 de la LOFIP. [5]",
-          "Cette observation concerne la conformité de l'exécution budgétaire. Elle ne constitue pas, en elle-même, une preuve de détournement de fonds.",
-          "Un dépassement peut correspondre à différentes situations administratives ou financières. Son appréciation juridique dépend notamment de la nature des crédits, des décisions prises pendant l'exercice et des pièces justificatives disponibles.",
-          "### La sous-consommation des crédits",
-          "La sous-consommation signifie qu’une partie des dépenses autorisées n’a pas été réalisée pendant l’année. Le montant inutilisé ne permet pas, à lui seul, de savoir si les projets ont été retardés, annulés ou financés autrement.",
-          "Elle peut résulter d'une insuffisance des recettes disponibles, de retards dans les procédures de passation des marchés, de difficultés d'exécution des projets ou de modifications des priorités budgétaires.",
-          "La Cour des comptes a relevé, pour l'exercice 2023, des crédits non consommés dans différentes catégories de dépenses, notamment celles relatives aux équipements et aux constructions. [5]",
-          "L'existence de crédits non consommés ne permet pas, isolément, de déterminer la cause de leur non-utilisation. Une analyse complète nécessite de rapprocher les autorisations, les ressources effectivement disponibles, les engagements contractuels et l'état d'avancement des activités.",
-          "### Les divergences entre documents financiers",
-          "La production des comptes publics repose sur plusieurs systèmes d'information et plusieurs administrations.",
-          "Des différences peuvent apparaître entre les données relatives aux recettes, à la dette, aux paiements ou aux opérations de trésorerie.",
-          "Dans son rapport sur l'exercice 2023, la Cour des comptes a identifié des discordances entre certaines données du projet de loi de reddition, les informations relatives à la dette publique et celles du compte général du Trésor. [5]",
-          "Ces écarts doivent être examinés selon leur origine. Ils peuvent résulter de différences de périmètre comptable, de périodes d'enregistrement, de méthodes de présentation ou d'erreurs.",
-          "Le rapprochement des données constitue donc une étape importante de l'établissement des comptes définitifs.",
-          "### Les budgets annexes et les comptes spéciaux",
-          "Le budget de l'État ne se limite pas aux dépenses directement inscrites dans le budget général. [1]",
-          "La législation prévoit également des budgets annexes et des comptes spéciaux, soumis à des règles particulières.",
-          "Les budgets annexes retracent certaines opérations de services publics dans les conditions prévues par la loi. Les comptes spéciaux permettent de présenter des opérations particulières dont le traitement budgétaire est défini par les textes. [1]",
-          "Le rapport de la Cour des comptes relatif à l'exercice 2023 examine distinctement ces composantes et relève des discordances concernant certaines entités relevant des budgets annexes. [5]",
-          "L'analyse de la reddition des comptes doit donc tenir compte du périmètre exact des opérations examinées. Une présentation limitée au budget général ne couvre pas nécessairement l'ensemble des opérations financières publiques pertinentes.",
-          "*Pour approfondir : [Exécution des dépenses d’investissement public en RDC (2020–2025)](/elikyapedia/articles/investissements-publics/).*"
+          "La documentation disponible ne permet pas de résumer toute la période 2000–2025 par une opposition entre une absence ancienne de contrôle et une normalisation récente.",
+          "La Cour mentionne des travaux réalisés en 2010 sur les comptes de l’exercice 2008, puis en 2011 sur ceux de 2009. Ces éléments attestent une activité de contrôle ; ils ne donnent pas nécessairement toutes les dates du parcours législatif correspondant. [4]",
+          "Une pièce établit en revanche précisément le règlement de l’exercice 2012 : **la loi n° 14/007 du 21 février 2014**, reproduite sur le site de l’administration des Finances. [9]",
+          "Ces repères montrent pourquoi il faut distinguer :",
+          "- l’année pendant laquelle les dépenses ont été exécutées ;\n- la date de production et d’examen des comptes ;\n- la date d’adoption de la loi ;\n- la date de publication ou de mise en ligne des documents.",
+          "**L’absence d’un fichier retrouvé en ligne ne démontre pas l’absence d’une loi.** Une chronologie complète exige les textes et les traces de procédure pour chaque exercice."
         ]
       },
       {
-        "title": "La transparence budgétaire et l'accès du public aux comptes",
+        "title": "Ce que les comptes révèlent sur les investissements",
         "paragraphs": [
-          "### Les résultats de l'Enquête sur le budget ouvert 2023",
-          "L'Enquête sur le budget ouvert (Open Budget Survey) est une évaluation comparative réalisée par l'International Budget Partnership.",
-          "Elle examine notamment la disponibilité et le contenu des principaux documents budgétaires, les possibilités de participation du public et les mécanismes de contrôle institutionnel.",
-          "L'édition 2023 a évalué 125 pays. Pour la RDC, les résultats étaient les suivants : [4]",
-          "| Dimension évaluée | Score sur 100 |\n| --- | --- |\n| Transparence budgétaire | 41 |\n| Participation du public | 33 |\n| Contrôle institutionnel | 54 |",
-          "L’information budgétaire accessible au public reste insuffisante selon l’enquête 2023 de l’International Budget Partnership : la RDC obtient 41 points sur 100, au 74e rang des 125 pays évalués. Ce score porte sur la disponibilité et le contenu des documents, pas sur la part d’argent détourné. [4]",
-          "L'organisme considère qu'un score d'au moins 61 indique généralement la publication d'une quantité d'informations suffisante pour permettre un débat public éclairé sur le budget.",
-          "L'enquête attribuait également à la RDC un score de 33 sur 100 pour la participation du public et de 54 sur 100 pour le contrôle exercé par les institutions compétentes.",
-          "Ces indicateurs portent sur des dimensions différentes de la gouvernance budgétaire. Ils ne constituent ni une mesure directe de la corruption ni une certification des comptes publics.",
-          "L’édition 2023 retient uniquement les documents publiés et les événements ou pratiques intervenus jusqu’au 31 décembre 2022. Le millésime de l’enquête ne doit donc pas être lu comme un diagnostic de la situation en 2026. [4]",
-          "### La disponibilité des documents",
-          "L'International Budget Partnership examine huit catégories principales de documents budgétaires, notamment les projets de budget, les budgets approuvés, les rapports d'exécution en cours d'année, les rapports de fin d'exercice et les rapports d'audit.",
-          "Pour la RDC, l'évaluation 2023 signalait des insuffisances concernant notamment la publication en temps utile du budget citoyen et du rapport de fin d'exercice.",
-          "Elle relevait aussi une amélioration liée à la publication en ligne d'un rapport d'audit. [4]",
-          "La disponibilité d'un document dépend non seulement de son existence administrative, mais aussi de sa publication, de son accessibilité et de son contenu.",
-          "### La participation citoyenne",
-          "La participation du public aux finances publiques peut intervenir à différents moments du cycle budgétaire.",
-          "Elle comprend notamment les consultations organisées pendant la préparation du budget, les auditions parlementaires et les mécanismes permettant aux citoyens ou aux organisations de la société civile de contribuer au contrôle.",
-          "L'Enquête sur le budget ouvert 2023 constatait l'existence de mécanismes de consultation pendant la préparation et l'approbation du budget congolais, mais relevait l'absence de possibilités formalisées de participation dans certaines phases de l'exécution et de l'audit, selon ses critères d'évaluation. [4]",
-          "Cette distinction montre que la participation à la préparation du budget et la participation au contrôle de son exécution ne sont pas nécessairement développées au même degré."
+          "Les rapports récents permettent de comparer les crédits d’investissement aux paiements effectués. Ils montrent surtout que les résultats varient selon les années et les catégories.",
+          "| Exercice | Ensemble des investissements ou dépenses en capital | Équipements | Constructions et réhabilitations |\n| --- | --- | --- | --- |\n| 2023 | 77,44 % | 101,32 % | 42,95 % |\n| 2024 | 50,54 % | 59,27 % | 34,55 % |\n| 2025 | 44,56 % | 41,40 % | 51,36 % |",
+          "Paiements rapportés aux crédits de référence des tableaux de la Cour, pour le budget général. Les masses budgétaires et leur composition changent selon les exercices. [5] [6] [7]",
+          "En 2023, les équipements ont légèrement dépassé leurs prévisions, tandis que les constructions et réhabilitations sont restées sous la moitié des leurs. Il serait donc inexact de décrire toutes les dépenses d’investissement par un même constat.",
+          "En 2024 et 2025, les investissements du budget général ont été beaucoup moins exécutés que les dépenses courantes : ces dernières ont atteint respectivement 114,12 % et 107,76 % de leurs crédits de référence. [6] [7]",
+          "Ces écarts renseignent sur la réalisation financière du budget. **Ils ne disent pas combien d’ouvrages ont été achevés, s’ils sont conformes ou s’ils fonctionnent.**",
+          "Pour approfondir : [Exécution des dépenses d’investissement public en RDC](/elikyapedia/articles/investissements-publics/)."
         ]
       },
       {
-        "title": "Le contrôle des comptes et ses limites institutionnelles",
+        "title": "Pourquoi certaines dépenses restent difficiles à suivre",
         "paragraphs": [
-          "### Le contrôle de régularité",
-          "Le contrôle de régularité vise à déterminer si les opérations financières ont été réalisées conformément aux règles applicables.",
-          "Il porte notamment sur les autorisations budgétaires, les procédures de dépense, les opérations comptables et la justification des mouvements financiers.",
-          "Une dépense peut avoir financé une activité réelle tout en présentant une irrégularité administrative. Inversement, une dépense régulièrement autorisée ne démontre pas nécessairement que l'objectif poursuivi a été atteint.",
-          "Ces deux dimensions doivent être distinguées.",
-          "### Le contrôle de performance",
-          "Le contrôle de performance s'intéresse aux résultats obtenus avec les ressources mobilisées.",
-          "Un contrôle de performance peut examiner si l’administration a acheté au bon coût, utilisé ses moyens sans gaspillage et atteint les objectifs annoncés. L’article 153 de la loi organique de 2018 prévoit notamment le contrôle de la performance des programmes et l’évaluation des politiques publiques par la Cour des comptes. [3]",
-          "Par exemple, la régularité du paiement d'un marché de construction ne suffit pas à établir que l'ouvrage a été achevé, qu'il respecte les caractéristiques prévues ou qu'il répond aux besoins identifiés.",
-          "L'analyse de performance nécessite donc des informations complémentaires aux données financières.",
-          "### Le suivi des observations de contrôle",
-          "La Cour des comptes peut formuler des observations sur les opérations examinées.",
-          "Le traitement de ces observations relève ensuite de plusieurs procédures institutionnelles, selon leur nature et les compétences des autorités concernées. La loi organique de 2018 prévoit aussi un mécanisme administratif de suivi des observations et recommandations, distinct de la mesure de son fonctionnement effectif. [3]",
-          "L'International Budget Partnership estimait, dans son enquête 2023, que le contrôle budgétaire exercé par le Parlement et l'institution supérieure de contrôle présentait des limites. Il recommandait notamment un examen parlementaire plus systématique des rapports d'audit et la publication des conclusions correspondantes. [4]",
-          "Ces recommandations sont celles de l'organisme évaluateur et ne constituent pas des obligations juridiques supplémentaires établies par la législation congolaise."
+          "Une information peut être publiée tout en restant insuffisamment détaillée pour comprendre les opérations concernées.",
+          "Le rapport sur l’exercice 2023 en fournit un exemple. La ligne **« autres services » représente 87,46 % des paiements du titre des prestations**. La Cour constate que cette rubrique n’est pas détaillée. [5]",
+          "Ce chiffre ne signifie pas que 87 % du budget national aurait été détourné. Il décrit la concentration des paiements à l’intérieur d’un titre particulier. Il pose une question plus précise : quelles prestations, quels contrats et quels bénéficiaires composent cette rubrique ?",
+          "Les comptes spéciaux, les fonds et les relations financières avec les entreprises publiques demandent également une lecture attentive. Leur existence ne constitue pas en elle-même une irrégularité. Il faut examiner leur régime, les opérations enregistrées et les pièces disponibles.",
+          "La même prudence vaut pour les dépenses courantes. Elles financent aussi les enseignants, les soignants, les fournitures et l’entretien. Les qualifier globalement d’« improductives » empêcherait de comprendre ce qui rend les services publics opérationnels."
         ]
       },
       {
-        "title": "La reddition des comptes aux niveaux provincial et local",
+        "title": "Publier davantage ne signifie pas tout rendre vérifiable",
         "paragraphs": [
-          "La RDC est un État décentralisé dont l'organisation territoriale comprend des provinces et des entités territoriales décentralisées. [2]",
-          "La LOFIP prévoit des procédures de reddition adaptées à ces niveaux de gouvernement.",
-          "Les articles 141 à 143 encadrent notamment les édits ou décisions portant reddition des comptes et la détermination des résultats budgétaires correspondants. [1]",
-          "Au niveau provincial, le contrôle s'inscrit dans les rapports institutionnels entre le gouvernement provincial et l'assemblée provinciale.",
-          "Au niveau des entités territoriales décentralisées, les règles applicables dépendent de leur statut et de leurs compétences budgétaires.",
-          "L'examen des finances publiques congolaises doit ainsi distinguer les comptes du pouvoir central de ceux des administrations territoriales. Les résultats d'un rapport national consacré au pouvoir central ne peuvent pas être automatiquement généralisés aux provinces."
+          "L’Open Budget Survey évalue l’accès du public aux informations budgétaires, leur contenu et leur publication dans les délais. Sa série historique montre une évolution discontinue en RDC.",
+          "| Édition de l’enquête | Score de transparence |\n| --- | --- |\n| 2012 | 18/100 |\n| 2015 | 39/100 |\n| 2017 | 29/100 |\n| 2019 | 33/100 |\n| 2021 | 42/100 |\n| 2023 | 41/100 |",
+          "L’édition 2023 porte sur des documents et pratiques observés jusqu’au 31 décembre 2022. Son score de 41/100 indique une information encore limitée ; il ne mesure ni la proportion de dépenses régulières ni le niveau de corruption. [8]",
+          "Pour le lecteur, la transparence devient utile lorsqu’il peut retrouver le document, identifier l’exercice, comprendre les catégories et refaire les calculs. Une référence générale à un ministère ne suffit pas à vérifier une affirmation chiffrée.",
+          "La cohérence entre documents compte également. Un écart entre deux tableaux doit être expliqué : changement de périmètre, révision, différence de phase comptable ou erreur matérielle. Choisir silencieusement une valeur ne résout pas la divergence."
         ]
       },
       {
-        "title": "Portée des données disponibles",
+        "title": "Du constat aux conséquences",
         "paragraphs": [
-          "L'étude de la reddition des comptes en RDC repose sur plusieurs catégories de sources : les textes juridiques, les lois de finances, les projets et lois de reddition, les rapports d'exécution, les rapports de la Cour des comptes et les évaluations indépendantes.",
-          "Chacune possède une portée différente.",
-          "Les textes juridiques établissent les obligations prévues par le droit. Les documents gouvernementaux présentent les opérations déclarées par les administrations. Les rapports de contrôle formulent des constatations sur les informations examinées. Les enquêtes indépendantes évaluent certains aspects de la transparence et du fonctionnement institutionnel.",
-          "Les divergences entre ces sources peuvent être informatives, mais elles ne doivent pas être interprétées sans examen de leur périmètre et de leur méthode.",
-          "En particulier, l'étude de la reddition des comptes ne permet pas, à elle seule, de mesurer l'ensemble des détournements éventuels, la qualité de tous les services publics ou les performances économiques générales de l'État.",
-          "Elle constitue une source essentielle pour l'analyse de la gestion financière publique, sans se substituer aux enquêtes judiciaires, aux audits techniques ou aux évaluations des politiques publiques."
+          "Le contrôle n’a pas la même portée selon qu’il produit une observation, une recommandation, une procédure ou une décision exécutée.",
+          "Le rapport public de la Cour pour 2024–2025 indique qu’en 2024, parmi 25 dossiers déférés en matière de discipline budgétaire et financière, six avaient été jugés, sept proposés au classement et douze demeuraient en instruction. Il signale parallèlement des difficultés de production des comptes nécessaires à d’autres activités de jugement. [3]",
+          "Ces informations empêchent de parler d’une absence totale d’activité juridictionnelle. Elles ne suffisent toutefois pas à connaître toutes les conséquences des décisions.",
+          "Pour apprécier les suites d’un contrôle, il faut distinguer :",
+          "| Étape | Preuve recherchée |\n| --- | --- |\n| Observation formulée | Le passage du rapport décrivant le problème. |\n| Réponse apportée | L’explication et les pièces de l’administration. |\n| Correction annoncée | La mesure et son calendrier. |\n| Correction réalisée | Une preuve de mise en œuvre. |\n| Décision rendue | Le texte de la décision et sa portée. |\n| Décision exécutée | Les mesures effectivement appliquées. |",
+          "L’absence d’une preuve accessible doit être signalée comme une limite documentaire. Elle ne permet pas, à elle seule, d’affirmer qu’aucune mesure n’a été prise."
+        ]
+      },
+      {
+        "title": "Lire les comptes sans leur faire dire davantage",
+        "paragraphs": [
+          "Une lecture fiable repose d’abord sur le **périmètre**. Le budget général, les budgets annexes, les comptes spéciaux et les budgets provinciaux ne couvrent pas les mêmes opérations. Leurs résultats ne peuvent pas être additionnés ou comparés sans rapprochement.",
+          "Elle repose ensuite sur le **sens des indicateurs**. Un taux d’exécution compare une dépense à son autorisation ; une part budgétaire décrit son poids dans un total. Un taux de paiement supérieur à 100 % ne correspond pas au même pourcentage de dépassement.",
+          "Enfin, elle distingue la **preuve financière de la preuve matérielle**. Un paiement doit être rapproché du contrat, de la prestation, de la réception et du fonctionnement du service.",
+          "Le rapport relatif à l’exercice 2025, publié par la Cour le 4 novembre 2026, illustre aussi l’importance de dater la documentation : les opérations concernent 2025, mais leur contrôle et leur publication interviennent en 2026. L’existence de ce rapport n’équivaut pas à la promulgation de la loi de reddition. [7]",
+          "La reddition fournit ainsi une base pour comprendre les [finances publiques](/elikyapedia/articles/finances-publiques/). Son apport dépend de la possibilité de relier les chiffres aux décisions, aux réalisations et aux suites du contrôle."
         ]
       }
     ],
     "sources": [
       {
-        "title": "RDC — Loi n° 11/011 du 13 juillet 2011 relative aux finances publiques",
+        "title": "République démocratique du Congo — Constitution du 18 février 2006, textes coordonnés après la révision de 2011",
+        "url": "https://presidence.cd/uploads/files/Constitution%20de%20la%20RDC%20%202011.pdf",
+        "note": "Articles 171–175 et 178–180. Texte publié par la Présidence."
+      },
+      {
+        "title": "Loi n°11/011 du 13 juillet 2011 relative aux finances publiques",
         "url": "https://budget.gouv.cd/wp-content/uploads/textes-lois/lofip2011.pdf",
-        "note": "Journal officiel, numéro spécial du 25 juillet 2011, version initiale publiée par le ministère du Budget. Articles 28–30, 38–41, 81–84, 87, 90 et 141–143. À lire avec les modifications ultérieures ; ne constitue pas une version consolidée."
+        "note": "Journal officiel, numéro spécial du 25 juillet 2011. Articles 28–30, 81–84 et 87. Texte initial à lire avec ses modifications, notamment celles de 2018 et 2023."
       },
       {
-        "title": "RDC — Constitution du 18 février 2006, articles 178 à 180",
-        "url": "https://presidence.cd/uploads/files/Constitution%20de%20la%203me%20Republique.%2018%20Fev%202006.pdf",
-        "note": "Document diffusé par la Présidence : institution de la Cour des comptes, loi organique, contrôle des finances et biens publics et publication de son rapport annuel. Les articles cités portent sur la Cour des comptes."
+        "title": "Cour des comptes — Rapport public annuel, exercices 2024 et 2025",
+        "url": "https://courdescomptes.cd/wp-content/uploads/2026/04/RAPPORT-PUBLIC-2024_2025-DEFINITIF.pdf",
+        "note": "Février 2026. Activités juridictionnelles : pages imprimées 16–18. Six dossiers jugés ne signifient pas automatiquement six condamnations définitives et exécutées."
       },
       {
-        "title": "RDC — Loi organique n° 18/024 du 13 novembre 2018 relative à la Cour des comptes",
-        "url": "https://courdescomptes.cd/wp-content/uploads/2025/07/LOI-ORGANIQUE-COUR-DES-COMPTES-RDC.pdf",
-        "note": "Journal officiel, numéro spécial du 24 novembre 2018, colonnes 15 et suivantes. Texte reproduit par la Cour des comptes ; attributions, contrôle de gestion, performance et suivi des observations, notamment article 153."
+        "title": "Cour des comptes — Rapport public exercices 2010 à 2014 et 2015",
+        "url": "https://courdescomptes.cd/rapport-public-exercices-2010-a-2014-et-2015/",
+        "note": "Présentation institutionnelle publiée le 15 décembre 2018 ; travaux réalisés notamment en 2010 et 2011 sur les exercices 2008 et 2009."
       },
       {
-        "title": "International Budget Partnership — Open Budget Survey 2023: Democratic Republic of Congo",
+        "title": "Cour des comptes — Rapport général sur le contrôle de l’exécution de la loi de finances pour l’exercice 2023",
+        "url": "https://courdescomptes.cd/wp-content/uploads/2024/12/RAPPORT-DEFINITIF-REDDITION-2023.pdf",
+        "note": "Octobre 2024. Tableaux 2, 32 (page imprimée 45) et 34 (page imprimée 47) : synthèse, autres services et dépenses en capital."
+      },
+      {
+        "title": "Cour des comptes — Rapport général sur le contrôle de l’exécution de la loi de finances pour l’exercice 2024",
+        "url": "https://courdescomptes.cd/wp-content/uploads/2026/01/RAPPORT-GENERAL-2024-1.pdf",
+        "note": "Octobre 2025. Tableau 12, page imprimée 37 ; tableau 35, page imprimée 55. Les taux comparent les paiements aux crédits de référence du budget général."
+      },
+      {
+        "title": "Cour des comptes — Rapport sur l’exécution de la loi de finances 2025",
+        "url": "https://courdescomptes.cd/reddition-des-comptes-du-budget-du-pouvoir-central-pour-lexercice-2025/",
+        "note": "Publié le 4 novembre 2026. Le PDF intégral lié par la page fournit le tableau 2, page imprimée 23 et suivantes. Un rapport de contrôle ne constitue pas une preuve de promulgation de la loi."
+      },
+      {
+        "title": "International Budget Partnership — Open Budget Survey 2023, Democratic Republic of Congo",
         "url": "https://internationalbudget.org/open-budget-survey/country-results/2023/democratic-republic-congo",
-        "note": "Résultats nationaux et série historique 2012–2023. Transparence 41/100, participation 33/100 et contrôle 54/100 ; 74e rang sur 125. Date limite d’observation : 31 décembre 2022. Les dimensions et scores ne sont pas des mesures directes de corruption."
+        "note": "Série historique et méthodologie. Scores de transparence : 18 en 2012, 39 en 2015, 29 en 2017, 33 en 2019, 42 en 2021, 41 en 2023. L’édition 2023 observe les documents et pratiques jusqu’au 31 décembre 2022."
       },
       {
-        "title": "Cour des comptes — Rapport général sur le contrôle de l’exécution du budget du pouvoir central, exercice 2023",
-        "url": "https://courdescomptes.cd/wp-content/uploads/2024/12/REDDITION-DES-COMPTES-POUVOIR-CENTRAL-EXERCICE-2023-.pdf",
-        "note": "Kinshasa, octobre 2024, 86 pages. Loi de finances n° 22/071 du 28 décembre 2022. Pages 63–83 : opérations du Trésor, discordances, dépassements, sous-consommations et budgets annexes. Constats attribués à la Cour, sans déduction automatique d’une infraction pénale."
-      },
-      {
-        "title": "Ministère du Budget — Projets annuels de performance 2027, tome I, introduction",
-        "url": "https://www.budget.gouv.cd/wp-content/uploads/budget2027/plf2027/document_num_9_pap_tome1_2027.pdf",
-        "note": "Annexe n° 9 au projet de loi de finances 2027, introduction p. 5 : mention de la loi n° 23/030 du 28 juin 2023 modifiant et complétant la LOFIP. Cette référence sert au repérage de la modification législative, sans utiliser les projections 2027 comme résultats constatés."
+        "title": "Loi n°14/007 du 21 février 2014 portant reddition des comptes du budget du pouvoir central pour l’exercice 2012",
+        "url": "https://adminfinances.cd/assets/textes_legeaux/LOIS/REDDITION-DES-COMPTES-2012-DU-4-JUIN-2012(1).pdf",
+        "note": "Texte et annexes publiés par l’administration des Finances ; référence au Journal officiel du 15 mars 2014. La date dans le nom du fichier ne remplace pas celle du texte légal."
       }
     ],
     "relatedSlugs": [
       "finances-publiques",
       "investissements-publics"
     ],
-    "corpus": [],
-    "scope": "Présentation des mécanismes de reddition des comptes et de leurs limites documentées. Les constats chiffrés se rapportent à l’OBS 2023 et le contrôle détaillé à l’exercice budgétaire 2023, rapport publié en octobre 2024. Ils ne décrivent pas à eux seuls la situation de 2026. Les textes juridiques sont cités avec leur date ; l’article ne remplace pas leur lecture dans une version à jour.",
-    "parentSlug": "finances-publiques"
+    "corpus": [
+      {
+        "title": "B02 — Reddition des comptes publics en République démocratique du Congo, version révisée le 10 novembre 2026",
+        "period": "2000–2025"
+      }
+    ],
+    "scope": "Les ratios portent sur les exercices et périmètres indiqués dans chaque tableau. La chronologie 2000–2025 reste partielle ; l’absence d’une pièce retrouvée ne démontre pas l’absence d’une loi. Le rapport sur 2025 est distinct de la promulgation de la loi de reddition. Les textes juridiques sont cités avec leur date et doivent être lus avec leurs modifications.",
+    "parentSlug": "finances-publiques",
+    "intro": "Comprendre ce que l’État a dépensé, les écarts avec le budget et les suites du contrôle."
   },
   {
     "slug": "investissements-publics",
