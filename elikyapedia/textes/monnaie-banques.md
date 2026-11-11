@@ -1,85 +1,110 @@
-# Monnaie, banques et inclusion financière en République démocratique du Congo
+# Système bancaire et inclusion financière en République démocratique du Congo
 
-ELIKYAPEDIA · DIELA · 10 novembre 2026
+ELIKYAPEDIA · DIELA · 11 novembre 2026
 
 ## En bref
 
-En République démocratique du Congo, le franc congolais et le dollar américain servent à payer, à épargner et à emprunter selon des usages différents. La Banque Centrale du Congo cherche principalement à stabiliser les prix et encadre les activités financières relevant de ses compétences. Banques, coopératives, microfinance et services de monnaie électronique ne proposent pas les mêmes produits. Ouvrir un compte ne garantit ni son utilisation ni l’accès à un crédit adapté. Un emprunteur payé en francs peut subir la hausse du dollar. L’article explique ces mécanismes et les conditions qui permettent d’utiliser les services financiers avec confiance et protection.
+Le système bancaire congolais assure les paiements, recueille les dépôts et finance une partie de l’économie. Sa croissance ne signifie pourtant pas que tous les ménages ou les entreprises accèdent à des services adaptés. L’inclusion financière englobe aussi la monnaie mobile, la microfinance et les coopératives. Comprendre ce système exige de distinguer comptes, personnes, usages et crédit, puis de situer chaque donnée dans son année et son périmètre. La concentration bancaire, la dollarisation et les contraintes de financement productif éclairent ses limites. Les sources disponibles montrent des progrès, mais laissent subsister des incertitudes statistiques, territoriales et réglementaires à documenter précisément.
 
 ## Dix points clés
 
-1. La Banque Centrale du Congo cherche principalement à maintenir la stabilité générale des prix.
-2. Le franc congolais et le dollar américain sont tous deux utilisés dans l’économie, selon les transactions et les usages.
-3. Utiliser le dollar pour payer, épargner ou emprunter correspond à des formes différentes de dollarisation.
-4. Le taux fixé par la banque centrale ne détermine pas à lui seul le taux que paiera un emprunteur.
-5. Une banque utilise notamment ses dépôts et d’autres ressources pour accorder des prêts et effectuer des placements.
-6. Une coopérative d’épargne et de crédit organise des services pour ses membres ; son statut diffère de celui d’une banque commerciale.
-7. Un portefeuille de monnaie électronique facilite certains paiements sans donner accès à tous les services bancaires.
-8. Ouvrir un compte ne signifie pas l’utiliser : il faut distinguer les comptes enregistrés des utilisateurs actifs.
-9. Une personne rémunérée en francs congolais peut avoir plus de difficulté à rembourser un prêt en dollars si le franc perd de sa valeur.
-10. L’inclusion financière suppose des services accessibles, utilisables, adaptés et accompagnés d’une protection des clients.
+1. Le système bancaire relie épargne, paiements et financement ; sa taille ne mesure pas à elle seule les services rendus à la population.
+2. Le répertoire BCC consulté présente 16 banques agréées : il s’agit d’un état daté, pas du nombre de banques ayant existé depuis 2000.
+3. Banques commerciales, banque centrale, microfinance, coopératives et monnaie électronique doivent être distinguées par leurs fonctions et leurs règles.
+4. Posséder un compte financier ne signifie pas nécessairement avoir un compte bancaire : l’indicateur Findex inclut la monnaie mobile.
+5. Une personne peut détenir plusieurs comptes ; additionner les comptes ou les catégories produit des doubles comptes.
+6. Trois établissements dominent le marché bancaire, mais une part de marché ne mesure pas la proportion de citoyens servis.
+7. Les actifs, les dépôts, les crédits et les bénéfices correspondent à des objets différents ; leurs dates et périmètres conditionnent toute comparaison.
+8. La dollarisation crée notamment un risque pour les emprunteurs endettés en USD lorsque leurs revenus sont dans une autre monnaie.
+9. L’agrément, le capital, la liquidité, la gouvernance et les contrôles protègent des fonctions différentes de l’activité bancaire.
+10. Les données disponibles ne suffisent pas à dresser une carte précise des services réellement accessibles dans chaque province.
 
-## Monnaie et institutions financières
+## Ce que fait le système bancaire
 
-La monnaie sert à payer des achats, à fixer des prix et à conserver des moyens de paiement pour plus tard. Dans une même économie, plusieurs formes de monnaie peuvent remplir ces fonctions. En RDC, la monnaie nationale coexiste avec un usage important du dollar américain. Les espèces, les dépôts bancaires et les soldes de monnaie électronique permettent des opérations différentes selon leur acceptation, leur accessibilité et les conditions de conversion.
+Une banque commerciale reçoit des fonds remboursables, exécute des paiements et accorde des crédits. Un dépôt constitue une dette envers le client ; un prêt est une créance sur l’emprunteur. Les fonds propres appartiennent à une autre catégorie : ils absorbent les pertes avant que celles-ci n’affectent les autres créanciers, selon les règles applicables. Confondre ces postes empêche de comprendre le fonctionnement d’un bilan.
 
-Le système financier met en relation des détenteurs de ressources et des utilisateurs ayant besoin de fonds. Les banques, les institutions de microfinance et les coopératives remplissent des fonctions d’intermédiation ; les prestataires de paiement facilitent la circulation des fonds. Les catégories ne sont pas interchangeables et leurs activités autorisées dépendent de leur cadre réglementaire. La BCC publie les textes applicables par type d’entité, ce qui permet de vérifier le régime d’une institution plutôt que de l’inférer de son nom commercial. [1]
+L’intermédiation consiste à rapprocher des ressources et des besoins de financement. Elle transforme aussi des risques et des échéances : l’épargnant peut souhaiter retirer rapidement son argent, tandis que l’entreprise finance un investissement sur plusieurs années. Le rôle de la banque ne se réduit donc pas à transmettre mécaniquement chaque dépôt à un emprunteur.
 
-## La Banque Centrale du Congo et ses missions
+La Banque centrale du Congo remplit les fonctions d’autorité monétaire et de surveillance du secteur. Elle ne doit pas être confondue avec les établissements qui offrent des services commerciaux. La liste officielle décrit ces derniers comme des sociétés anonymes autorisées à recevoir les fonds du public, effectuer des opérations de crédit ou de paiement et gérer des moyens de paiement. [1]
 
-La loi n°18/027 du 13 décembre 2018 organise le fonctionnement de la Banque Centrale du Congo. La BCC présente la stabilité du niveau général des prix comme son objectif principal ; sans préjudice de cet objectif, elle soutient la politique économique générale du gouvernement. Ses missions comprennent notamment la conduite de la politique monétaire, la gestion des réserves de change, l’émission monétaire, la supervision bancaire et le bon fonctionnement des systèmes de paiement. [2]
+## Des institutions aux rôles différents
 
-La banque centrale ne se confond pas avec une banque de détail. Elle ne décide pas des crédits ordinaires de chaque entreprise et ne remplace pas les services budgétaires de l’État. Son indépendance juridique doit également être distinguée de ses moyens opérationnels, de sa solidité financière et de sa capacité d’analyse. Le droit définit des compétences ; les rapports de politique monétaire et les publications de supervision permettent d’examiner comment elles sont exercées. L’évaluation d’une institution ne peut reposer sur le seul énoncé de ses objectifs.
+Le paysage financier dépasse les banques : il comprend aussi la microfinance, les coopératives et les paiements électroniques. Pour comprendre ces acteurs, il faut partir des services rendus et du statut de l’organisme, plutôt que de tous les réunir sous le mot « banque ».
 
-## Dollarisation et risque de change
+Un établissement spécialisé dans de petits prêts, une coopérative de membres et un prestataire de monnaie mobile n’ont pas nécessairement les mêmes ressources, les mêmes engagements ni les mêmes autorisations. Un portefeuille électronique facilite des transferts ; cette fonction ne prouve pas, à elle seule, l’accès à un crédit ou à une épargne rémunérée.
 
-La dollarisation peut concerner les prix, les paiements, les dépôts ou les crédits. Elle ne signifie pas nécessairement que toutes les transactions se font dans la même monnaie. Elle peut résulter d’une recherche de protection après des épisodes d’inflation et de dépréciation, ainsi que d’habitudes commerciales persistantes. Le travail du FMI publié en 2024 sur la RDC analyse ces liens entre mémoire de l’instabilité, préférence pour les devises et fonctionnement des marchés financiers. [3]
+La BCC publie notamment trois références juridiques distinctes : la loi 22/069 du 27 décembre 2022 sur l’activité et le contrôle des établissements de crédit ; la loi 18/027 du 13 décembre 2018 sur son organisation et son fonctionnement ; et la loi 011/020 du 15 septembre 2011 sur la microfinance. Les intitulés ne sont pas interchangeables. Le présent article identifie ces textes sans prétendre remplacer leur lecture consolidée. [2]
 
-Une entreprise qui emprunte en dollars américains mais reçoit principalement des recettes en monnaie nationale supporte un risque de change : une dépréciation augmente l’effort nécessaire pour acheter les devises de remboursement. L’existence d’un contrat en devise ne supprime donc pas le risque économique. À l’échelle bancaire, la dollarisation limite aussi la capacité de la banque centrale à fournir une liquidité en devise qu’elle ne peut pas créer. Cet aspect figure dans les analyses de stabilité financière du FMI. [4]
+## Reconstruction et recomposition du secteur
 
-## Politique monétaire et inflation
+L’histoire récente doit être lue comme une transformation du paysage institutionnel, et non comme une progression continue du nombre de banques. Des établissements entrent, changent de contrôle, fusionnent ou cessent leur activité. Une acquisition de capital ne crée pas automatiquement une nouvelle banque ; une fusion peut au contraire réduire le nombre de personnes morales.
 
-La politique monétaire agit sur les conditions de liquidité et de financement. Ses instruments peuvent inclure le taux directeur, les réserves obligatoires des banques, les opérations sur titres et les interventions de change. Le taux directeur donne un signal et influence certaines opérations entre la banque centrale et les établissements ; sa variation ne se transmet cependant pas automatiquement et immédiatement à tous les prix du crédit.
+Le répertoire BCC consulté le 11 novembre 2026 comporte 16 entrées. Il mentionne notamment des autorisations en 2004 pour TMB, en 2007 pour Ecobank et en 2023 pour CRDB. Ces dates documentent un acte d’autorisation figurant dans le registre. Elles ne prouvent pas toutes la date de fondation du groupe, l’ouverture de la première agence ou le début de chaque service. [1]
 
-Dans une économie où les contrats et l’épargne sont largement libellés en devises, les mécanismes de transmission sont particuliers. Une variation du change peut modifier le coût des importations et se répercuter sur les prix intérieurs, tandis qu’une hausse des taux en monnaie nationale agit sur un marché plus restreint. Les rapports de la BCC décrivent le cadre et les instruments utilisés ; le modèle du FMI examine précisément ces interactions. [3][5] Les contraintes d’offre, les coûts de transport et les chocs alimentaires peuvent parallèlement peser sur l’inflation sans découler uniquement de la création monétaire.
+Une histoire exhaustive depuis 2000 exigerait de rapprocher les répertoires annuels, décisions d’agrément, retraits, liquidations et opérations de fusion. Cette série n’est pas constituée dans les sources rassemblées pour cet article. Il serait donc trompeur de présenter le nombre actuel comme celui de toute la période.
 
-## Banques commerciales, dépôts et crédit
+La concentration constitue un autre changement à suivre. Fin 2025, Rawbank, Equity BCDC et TMB représentent ensemble 62,0 % des actifs bancaires, selon la Banque mondiale. Ce constat décrit le poids de trois établissements dans un agrégat. Il ne classe pas leur solidité et ne permet pas de calculer le nombre de clients uniques. [4]
 
-Une banque reçoit des dépôts, fournit des paiements et accorde des financements dans les limites de son agrément. Elle doit gérer l’écart entre la disponibilité attendue par les déposants et la durée des prêts accordés. Les fonds propres absorbent certaines pertes ; la liquidité permet d’honorer les retraits et les paiements. Rentabilité, solvabilité et liquidité décrivent ainsi des dimensions distinctes : une banque bénéficiaire peut rencontrer un problème de liquidité, et un actif comptable ne se transforme pas toujours immédiatement en espèces.
+## Mesurer l’inclusion sans confondre les indicateurs
 
-Pour un prêteur, le risque dépend de la capacité de remboursement, de la qualité des informations, des garanties et de l’exécution des contrats. Les activités agricoles ou les investissements longs présentent des calendriers de revenus différents d’un commerce à rotation rapide. Les services bancaires sont inégalement répartis sur le territoire, avec une présence plus forte dans les grands centres économiques. La couverture des agences, le nombre d’institutions agréées et le volume de crédit évoluent à des rythmes différents : une fusion peut réduire le nombre de banques sans diminuer le nombre de points de service.
+La fiche RDC du Global Findex présente, pour 2024, 39,2 % des adultes de 15 ans et plus possédant un compte financier. Elle distingue 13,5 % ayant un compte dans une banque ou institution similaire et 35,1 % ayant un compte de monnaie mobile. Ces catégories se recoupent : elles ne doivent pas être additionnées. Le recueil affiche également 27,4 % sous 2021 ; cette année est reprise selon son libellé, sans l’assimiler automatiquement à une date de collecte. [3]
 
-## Microfinance et coopératives d’épargne et de crédit
+Les informations les plus utiles ne se limitent pas à l’ouverture. Un compte peut rester inutilisé, servir uniquement à recevoir un versement ou devenir un outil régulier de paiement et d’épargne. Ces usages rendent des services différents. Un taux de possession ne mesure ni le montant de l’épargne, ni le crédit reçu, ni la fiabilité des transactions.
 
-Les institutions de microfinance proposent des services adaptés à certaines clientèles et à des opérations de plus petite taille. Les coopératives d’épargne et de crédit reposent sur une organisation de membres, avec des règles de propriété et de gouvernance distinctes de celles d’une banque commerciale. Leur proximité peut faciliter la connaissance des usagers, mais elle ne supprime ni le risque de crédit ni les exigences de contrôle interne.
+Les comptes administratifs et les enquêtes de population répondent également à des questions différentes. Une banque peut compter des comptes ; une enquête interroge des personnes. Sans dédoublonnage entre établissements et opérateurs, le premier décompte ne fournit pas automatiquement le second.
 
-Le financement d’un prêt dépend toujours de ressources disponibles, de coûts et de pertes possibles. Un taux affiché doit être rapproché des frais, de la périodicité et du montant réellement reçu. Une collecte d’épargne engage une responsabilité envers les déposants ; elle ne constitue pas une réserve gratuite pour financer tout projet communautaire. La BCC identifie notamment la loi du 15 septembre 2011 parmi les textes relatifs à la microfinance. [1] La constitution d’une structure coopérative, la collecte de fonds et l’autorisation d’exercer des activités financières constituent des étapes distinctes. La forme communautaire d’un projet ne dispense pas de respecter les règles prudentielles applicables.
+La couverture géographique limite l’interprétation. Le recueil Findex précise des exclusions liées à l’insécurité représentant 19 % de la population pour la RDC. L’indicateur publié ne permet donc pas de décrire avec précision chaque territoire exclu. Les écarts de couverture doivent être examinés avant une comparaison entre vagues. [3]
 
-## Monnaie électronique et infrastructures de paiement
+## Croissance des bilans et financement productif
 
-La monnaie électronique permet de conserver une valeur et de la transférer par un service électronique autorisé. Des agents locaux peuvent permettre de déposer ou retirer de l’argent loin d’une agence bancaire. Mais le service dépend du réseau téléphonique, de l’identification des clients et de la sécurité des opérations. Il faut aussi que les agents disposent d’espèces et de fonds électroniques : un portefeuille approvisionné ne garantit pas qu’un retrait sera possible immédiatement à chaque point de service.
+Un bilan plus important peut correspondre à davantage de dépôts, de placements ou de prêts. Il ne démontre pas, seul, que les entreprises auparavant exclues obtiennent un financement adapté.
 
-Une personne peut avoir plusieurs comptes et n’en utiliser qu’un. Le nombre de comptes ouverts ne dit donc pas combien de personnes utilisent régulièrement les services. Recevoir un transfert ne signifie pas non plus avoir accès au crédit, à une assurance ou à une épargne rémunérée. Les chiffres doivent préciser le service et la période d’utilisation mesurés. L’interopérabilité désigne la possibilité d’échanger entre différents services ou réseaux ; son utilité dépend aussi des frais, de la disponibilité et de la facilité des opérations pour le client.
+La Banque mondiale indique 25,7 milliards USD d’actifs en mars 2026 et 10,1 milliards USD de crédit au secteur privé en juin 2026. Les dates diffèrent ; ces valeurs ne constituent pas un bilan à une date commune. Leur lecture exige aussi de distinguer crédit privé, crédit total et crédit net de provisions. [4]
 
-## Inclusion financière, protection et lecture des indicateurs
+Pour une entreprise, l’utilité du financement dépend de son montant, de son échéance, de sa monnaie et de son coût complet. Un prêt court peut convenir à une opération commerciale rapide mais mal correspondre à un équipement amorti sur plusieurs années. Un financement agricole doit tenir compte du calendrier de production et de paiement. Ces exemples expliquent un mécanisme ; ils ne constituent pas une mesure du portefeuille bancaire congolais.
 
-L’inclusion financière combine l’accès physique ou numérique, l’usage effectif, l’adéquation des produits et la protection des clients. Les obstacles peuvent être documentaires, géographiques, économiques ou liés à la confiance. La distance jusqu’au point de service, le coût d’un retrait, la compréhension d’un contrat et la capacité à résoudre un litige influencent autant l’usage qu’une campagne d’ouverture de comptes. Les femmes, les ménages ruraux et les petites entreprises ne rencontrent pas nécessairement les mêmes contraintes.
+Le ratio crédits/dépôts appelle la même prudence. La différence entre dépôts et crédits ne représente pas une réserve entièrement disponible pour de nouveaux prêts : les retraits, obligations de liquidité, autres actifs, échéances et engagements doivent aussi être considérés. Un agrégat sectoriel peut enfin masquer des situations très différentes entre établissements.
 
-Pour étudier la progression du secteur, il faut distinguer comptes et personnes, activité et inscription, stock de crédit et nouveaux prêts, valeurs nominales et évolution réelle. Les moyennes nationales peuvent masquer une forte concentration des services dans certaines villes. Les rapports officiels, les enquêtes auprès des ménages et les données des opérateurs répondent à des questions complémentaires. La multiplication des transactions constitue un signe d’usage, mais l’objectif de connaissance consiste aussi à comprendre si les services sécurisent les paiements, facilitent les activités et limitent l’exposition des utilisateurs à des risques mal compris.
+## Dollarisation et gestion des risques
+
+La dollarisation désigne ici l’usage d’une monnaie étrangère dans les dépôts et les prêts. Selon la Banque mondiale, les dépôts libellés en USD représentent 86,1 % des dépôts bancaires en décembre 2025. Cette proportion doit conserver sa date : elle n’est pas un caractère immuable du système. [4]
+
+L’enjeu concerne notamment le revenu de l’emprunteur. Si une dette est en USD et les revenus dans une monnaie qui se déprécie, l’effort nécessaire pour rembourser peut augmenter. Une banque peut ainsi subir davantage de défauts même lorsque ses propres prêts et ressources sont libellés dans la même devise. Cette explication décrit un risque de crédit transmis par le change ; elle ne prédit pas le défaut d’un client particulier.
+
+La liquidité et la solvabilité sont aussi distinctes. Une institution peut avoir des actifs de valeur tout en ne disposant pas immédiatement des moyens de paiement nécessaires. Inversement, disposer de liquidités à court terme ne suffit pas à absorber des pertes importantes sur les prêts. Les deux dimensions doivent être examinées séparément.
+
+## Capital, surveillance et confiance
+
+Le FMI indique, dans son rapport publié en janvier 2026 et fondé sur des observations de 2025, que le minimum de capital a été relevé à 50 millions USD. Il relève également des situations de non-conformité et des mesures de régularisation. Ce document apporte une information plus récente que l’ancienne instruction mentionnant 30 millions USD. Il ne remplace cependant pas la vérification du texte BCC consolidé pour une opération d’agrément. [5]
+
+La confiance suppose aussi des contrôles sur la gouvernance, les risques et les opérations. L’absence de scandale retrouvé dans une recherche ne constitue pas une certification d’intégrité. Une accusation doit être attribuée et séparée d’un constat de contrôle ou d’une décision judiciaire.
+
+Le GAFI a retiré la RDC de la surveillance renforcée le 30 octobre 2026. Ce changement concerne l’évaluation du dispositif national de lutte contre le blanchiment et le financement du terrorisme. Il ne certifie pas individuellement chaque établissement et ne supprime pas les obligations de vigilance. [6]
+
+## Ce que les données permettent de conclure
+
+Les sources décrivent un secteur bancaire concentré et une inclusion qui repose aussi sur la monnaie mobile. Elles permettent de distinguer croissance financière, possession d’un compte et accès au financement. Elles ne fournissent pas, dans ce dossier, une mesure exhaustive de la qualité du service dans chaque province.
+
+Pour apprécier les services rendus, plusieurs questions restent ouvertes : les points de retrait disposent-ils de liquidités ? Quel coût total supporte un petit utilisateur ? Quels prêts sont accessibles aux entreprises selon leur taille et leur activité ? Quelle proportion des plaintes est résolue ? Ces questions indiquent les limites du diagnostic ; elles ne présument pas leurs réponses.
+
+Les séries historiques et les enquêtes doivent donc conserver leurs définitions et leurs réserves. Un objectif public, une annonce commerciale et une observation statistique n’ont pas le même statut. Cette distinction est indispensable pour comprendre les changements du système financier congolais.
 
 ## Sources
 
-[1] BCC — Textes applicables par entité — https://www.bcc.cd/intermediaires-financiers/reglementation/textes-par-entite
-Références réglementaires pour banques, microfinance et autres institutions.
+[1] BCC — Banques agréées, répertoire consulté le 11 novembre 2026. — https://www.bcc.cd/intermediaires-financiers/banques-agreees
+Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte.
 
-[2] BCC — Missions de la Banque centrale — https://www.bcc.cd/la-banque/missions-de-la-banque-centrale
-Mandat fondé sur la loi n°18/027 du 13 décembre 2018.
+[2] BCC — Textes légaux applicables aux banques. — https://www.bcc.cd/intermediaires-financiers/reglementation/textes-legaux/banques
+Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte.
 
-[3] FMI — Modèle d’une économie riche en ressources et dollarisée, 2024 — https://www.imf.org/-/media/files/publications/wp/2024/english/wpiea2024126-print-pdf.pdf
-Analyse des mécanismes monétaires congolais ; document de recherche.
+[3] Banque mondiale — The Little Data Book on Financial Inclusion 2025, fiche RDC, p. 46 ; exclusions géographiques, p. 16. — https://thedocs.worldbank.org/en/doc/be6615202d1f08a25855c8ac2d615122-0050012025/related/Little-Data-Book-2025-Web.pdf
+Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte.
 
-[4] FMI — Rapport pays n°25/23, janvier 2025 — https://www.elibrary.imf.org/view/journals/002/2025/023/article-A001-en.xml
-Risques macrofinanciers et contraintes liées à la dollarisation.
+[4] Banque mondiale — Democratic Republic of Congo Economic Update, octobre 2026, §29–32 et tableau 1.1. — https://documents1.worldbank.org/curated/en/099102826135511180/pdf/P513492-d5cfd878-34ce-43aa-8498-f6501aab12df.pdf
+Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte.
 
-[5] BCC — Rapport sur la politique monétaire 2022 — https://www.bcc.cd/system/files_force/publications/rapport_sur_la_politique_monetaire_en_2022.pdf/?download=1
-Description des instruments ; données historiques de 2022.
+[5] FMI — Country Report 26/002, rapport achevé le 5 décembre 2025 et publié en janvier 2026, §9, p. 8. — https://www.imf.org/-/media/files/publications/cr/2026/english/1codea2026001-source-pdf.pdf
+Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte.
+
+[6] GAFI — Jurisdictions under Increased Monitoring, 30 octobre 2026, rubrique RDC. — https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2026.html
+Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte.

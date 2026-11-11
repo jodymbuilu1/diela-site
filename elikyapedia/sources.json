@@ -257,33 +257,38 @@
       ]
     },
     {
-      "title": "Monnaie, banques et inclusion financière en République démocratique du Congo",
+      "title": "Système bancaire et inclusion financière en République démocratique du Congo",
       "slug": "monnaie-banques",
       "sources": [
         {
-          "title": "BCC — Textes applicables par entité",
-          "url": "https://www.bcc.cd/intermediaires-financiers/reglementation/textes-par-entite",
-          "note": "Références réglementaires pour banques, microfinance et autres institutions."
+          "title": "BCC — Banques agréées, répertoire consulté le 11 novembre 2026.",
+          "url": "https://www.bcc.cd/intermediaires-financiers/banques-agreees",
+          "note": "Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte."
         },
         {
-          "title": "BCC — Missions de la Banque centrale",
-          "url": "https://www.bcc.cd/la-banque/missions-de-la-banque-centrale",
-          "note": "Mandat fondé sur la loi n°18/027 du 13 décembre 2018."
+          "title": "BCC — Textes légaux applicables aux banques.",
+          "url": "https://www.bcc.cd/intermediaires-financiers/reglementation/textes-legaux/banques",
+          "note": "Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte."
         },
         {
-          "title": "FMI — Modèle d’une économie riche en ressources et dollarisée, 2024",
-          "url": "https://www.imf.org/-/media/files/publications/wp/2024/english/wpiea2024126-print-pdf.pdf",
-          "note": "Analyse des mécanismes monétaires congolais ; document de recherche."
+          "title": "Banque mondiale — The Little Data Book on Financial Inclusion 2025, fiche RDC, p. 46 ; exclusions géographiques, p. 16.",
+          "url": "https://thedocs.worldbank.org/en/doc/be6615202d1f08a25855c8ac2d615122-0050012025/related/Little-Data-Book-2025-Web.pdf",
+          "note": "Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte."
         },
         {
-          "title": "FMI — Rapport pays n°25/23, janvier 2025",
-          "url": "https://www.elibrary.imf.org/view/journals/002/2025/023/article-A001-en.xml",
-          "note": "Risques macrofinanciers et contraintes liées à la dollarisation."
+          "title": "Banque mondiale — Democratic Republic of Congo Economic Update, octobre 2026, §29–32 et tableau 1.1.",
+          "url": "https://documents1.worldbank.org/curated/en/099102826135511180/pdf/P513492-d5cfd878-34ce-43aa-8498-f6501aab12df.pdf",
+          "note": "Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte."
         },
         {
-          "title": "BCC — Rapport sur la politique monétaire 2022",
-          "url": "https://www.bcc.cd/system/files_force/publications/rapport_sur_la_politique_monetaire_en_2022.pdf/?download=1",
-          "note": "Description des instruments ; données historiques de 2022."
+          "title": "FMI — Country Report 26/002, rapport achevé le 5 décembre 2025 et publié en janvier 2026, §9, p. 8.",
+          "url": "https://www.imf.org/-/media/files/publications/cr/2026/english/1codea2026001-source-pdf.pdf",
+          "note": "Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte."
+        },
+        {
+          "title": "GAFI — Jurisdictions under Increased Monitoring, 30 octobre 2026, rubrique RDC.",
+          "url": "https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2026.html",
+          "note": "Référence de la révision du 11 novembre 2026 ; conserver les dates d’observation indiquées dans le texte."
         }
       ]
     },
