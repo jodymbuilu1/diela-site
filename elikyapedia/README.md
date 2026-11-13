@@ -1,6 +1,6 @@
 # ELIKYAPEDIA — édition 2.0
 
-Édition du 10 novembre 2026 : dix-huit articles dans trois domaines (sept en Politique, six en Économie, cinq en Social).
+Édition du 13 novembre 2026 : dix-neuf articles dans trois domaines (sept en Politique, six en Économie, six en Social), dont un premier article territorial sur la gestion des déchets à Kinshasa.
 
 ## Source éditoriale
 
@@ -9,8 +9,8 @@
 `python elikyapedia/build.py` depuis la racine génère :
 
 - le catalogue et les trois portails de domaine ;
-- dix-huit articles sous `articles/<slug>/index.html` ;
-- dix-huit versions texte sous `textes/<slug>.md` ;
+- les articles sous `articles/<slug>/index.html` ;
+- les versions texte sous `textes/<slug>.md` ;
 - les pages de sources et de méthode ;
 - les pages de continuité depuis les anciennes adresses.
 

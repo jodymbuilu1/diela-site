@@ -1,6 +1,6 @@
 {
   "edition": "2.0",
-  "date": "2026-11-10",
+  "date": "2026-11-13",
   "articles": [
     {
       "title": "La justice en République démocratique du Congo",
@@ -627,6 +627,132 @@
           "title": "RDC — Loi organique n° 18/024 du 13 novembre 2018 relative à la Cour des comptes",
           "url": "https://courdescomptes.cd/wp-content/uploads/2025/07/LOI-ORGANIQUE-COUR-DES-COMPTES-RDC.pdf",
           "note": "Journal officiel, numéro spécial du 24 novembre 2018, notamment article 153 : contrôle de gestion, performance des programmes et évaluation des politiques publiques. Les compétences prévues ne prouvent pas leur exercice pour chaque projet."
+        }
+      ]
+    },
+    {
+      "title": "Gestion des déchets solides municipaux à Kinshasa",
+      "slug": "dechets-kinshasa",
+      "sources": [
+        {
+          "title": "Banque mondiale — Solid Waste Management and Jobs Project (P512210), Project Information Document, stade conceptuel, 4 août 2025",
+          "url": "https://documents1.worldbank.org/curated/en/099080425072020377/pdf/P512210-42734520-65c8-4057-9c07-c6bf8be502cb.pdf",
+          "note": "Stade conceptuel, 4 août 2025, §5–8 et notes 7, 10–11. Les volumes et coûts cités sont des estimations ; les recettes et allocations concernent 2023."
+        },
+        {
+          "title": "Banque mondiale — World Bank Approves $250 Million to Transform Kinshasa’s Waste Management and Create Jobs, communiqué du 28 avril 2026",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/04/28/world-bank-approves-250-million-to-transform-kinshasa-s-waste-management-and-create-jobs",
+          "note": "Communiqué du 28 avril 2026 : crédit IDA approuvé et composantes du programme. L’approbation ne mesure pas les décaissements ni les résultats."
+        },
+        {
+          "title": "Ketoro Yawili J., Mbumba Bandi M., Bolaluembe Boliale P.-C., Lele Nyami B. — Caractérisation des déchets ménagers solides à Kinshasa : analyse et perspectives, 2025, 8(2), 124–133",
+          "url": "https://www.rafea-congo.com/admin/pdfFile/Raf_313_Rafea-Article.pdf",
+          "note": "Revue Africaine d’Environnement et d’Agriculture, 2025, 8(2), p.124–133. DOI : 10.4314/rafea.v8i2.11. Échantillon effectif de 192 ménages ; résultats non extrapolés à toute la ville."
+        },
+        {
+          "title": "Holenu Mangenda H., Mulaba P., Kiawutua A. — Gestion des déchets ménagers dans la ville de Kinshasa : enquête sur la perception des habitants et propositions, 2020",
+          "url": "https://eid.episciences.org/7723",
+          "note": "Environnement, Ingénierie & Développement, n°83, mars 2020. DOI : 10.4267/dechets-sciences-techniques.4272. Notice et résumé : estimations reprises et enquête de perception, non série municipale de pesées."
+        },
+        {
+          "title": "Projet Kin Elenda / Cellule Infrastructures — EIES de la réhabilitation et de l’aménagement du CET de Mpasa et des installations de collecte et transfert, mars 2024",
+          "url": "https://celluleinfra.org/storage/publications/March2024/6npLxLB7B6OtPG1hhFQo.pdf",
+          "note": "Étude d’impact de mars 2024, résumé exécutif p.13 et §2.2.6 p.60. Les hypothèses de dimensionnement et le diagnostic d’accès décrivent cette période ; voir aussi la référence 21 pour les travaux de 2026."
+        },
+        {
+          "title": "Banque mondiale — Kinshasa Urban Transformation and Jobs Program (P512210), Appraisal Environmental and Social Review Summary, publication du 3 février 2026",
+          "url": "https://documents1.worldbank.org/curated/en/099020326174533395/pdf/P512210-5d22ef51-1703-4d54-b3f6-32586425580a.pdf",
+          "note": "Revue publiée le 3 février 2026, préparée le 29 janvier 2026, pp.3–8 et 12–15. Diagnostic environnemental et conception du projet ; les constats de référence et les travaux ultérieurs doivent être distingués."
+        },
+        {
+          "title": "Ministère provincial des Infrastructures et Travaux publics — Communication sur plus de 400 zones de regroupement des déchets, 6 novembre 2026",
+          "url": "https://en.kinshasaitp.cd/2026/11/06/fight-against-unsanitary-conditions-in-kinshasa-governor-daniel-bumba-launches-a-vast-construction-project-of-more-than-400-waste-discharge-zones/",
+          "note": "Communication administrative du 6 novembre 2026. Volumes et nombre de sites annoncés attribués à leur émetteur ; couverture effective non évaluée indépendamment."
+        },
+        {
+          "title": "Antea Group — Études pour l’organisation de la collecte des déchets solides et diagnostic du CET de Mpasa",
+          "url": "https://www.anteagroup.fr/nos-projets/international-etudes-diagnostic-projet-developpement-urbain-resilience-kinshasa",
+          "note": "Présentation du périmètre d’étude et des contraintes logistiques par le prestataire ; ne vaut pas bilan d’exploitation actuel."
+        },
+        {
+          "title": "OMS — Guidance on solid waste and health",
+          "url": "https://www.who.int/tools/compendium-on-health-and-environment/solid-waste",
+          "note": "Synthèse générale sur les voies d’exposition liées aux déchets solides ; aucune charge de maladie locale n’en est déduite."
+        },
+        {
+          "title": "OMS — Open waste burning: sectoral solutions for air pollution and health, 17 juillet 2025",
+          "url": "https://www.who.int/publications/i/item/B09367",
+          "note": "Publication du 17 juillet 2025 sur les polluants et les risques sanitaires du brûlage à ciel ouvert."
+        },
+        {
+          "title": "OMS — Health-care waste, fiche du 24 octobre 2024",
+          "url": "https://www.who.int/en/news-room/fact-sheets/detail/health-care-waste",
+          "note": "Fiche du 24 octobre 2024 sur la séparation des déchets de soins dangereux et les risques infectieux, chimiques et traumatiques."
+        },
+        {
+          "title": "PNUE / ISWA — Global Waste Management Outlook 2024",
+          "url": "https://www.unep.org/en/publications/report/global-waste-management-outlook-2024",
+          "note": "Rapport mondial 2024, PNUE / ISWA : prévention, hiérarchie de gestion et coûts environnementaux. Les moyennes mondiales ne sont pas transposées à Kinshasa."
+        },
+        {
+          "title": "Agence congolaise de presse — Inauguration d’une usine de recyclage des bouteilles en plastique à Limete, 14 avril 2022",
+          "url": "https://acp.cd/nation/le-president-felix-tshisekedi-inaugure-une-usine-de-recyclage-des-bouteilles-en-plastique/",
+          "note": "Reportage d’inauguration du 14 avril 2022. Existence de l’installation OK Plast / Kintoko à Limete ; production actuelle non établie."
+        },
+        {
+          "title": "OIT / ILOSTAT — Beyond the bin: Decent work deficits in the waste management and recycling industry, 26 août 2024",
+          "url": "https://ilostat.ilo.org/blog/beyond-the-bin-decent-work-deficits-in-the-waste-management-and-recycling-industry/",
+          "note": "Analyse internationale du 26 août 2024 sur les conditions de travail dans les déchets et le recyclage ; aucun effectif local n’est extrapolé."
+        },
+        {
+          "title": "Masamuna P.K. et collaborateurs — Déchets solides ménagers à Kinshasa : opportunités et menaces pour l’environnement et la population",
+          "url": "https://www.ajol.info/index.php/jafrisci/article/view/325671",
+          "note": "Masamuna P.K. et collaborateurs, Journal Africain des Sciences, 1(2), millésime 2024, p.137–146 ; mise en ligne signalée le 28 mai 2026. Résumé seulement ; résultats circonscrits aux communes étudiées."
+        },
+        {
+          "title": "ADEME — Méthanisation, documentation Base Carbone",
+          "url": "https://prod-basecarbonesolo.ademe-dri.fr/documentation/UPLOAD_DOC_FR/methanisation2_2.htm",
+          "note": "Repère technique sur la digestion anaérobie ; aucune performance locale ni rentabilité n’est déduite."
+        },
+        {
+          "title": "Ministère français de la Transition écologique — Traitement des déchets",
+          "url": "https://www.ecologie.gouv.fr/politiques-publiques/traitement-dechets",
+          "note": "Principes de traitement et de qualité du retour au sol. La réglementation française n’est pas présentée comme le droit applicable en RDC."
+        },
+        {
+          "title": "ADEME — 5 règles pour réussir son compost",
+          "url": "https://agirpourlatransition.ademe.fr/particuliers/reduire-dechets/composter-pailler/regles-pour-reussir-compost",
+          "note": "Principes du compostage avec oxygène et conditions de fonctionnement ; distinction entre biodégradabilité et innocuité."
+        },
+        {
+          "title": "ONUDI / FEM — Promotion of waste to energy options for sustainable urban management in the Democratic Republic of the Congo, projet 9683, dossier soumis en 2016 puis révisé en février 2017, pp. 9–10.",
+          "url": "https://downloads.unido.org/ot/83/78/8378969/UNIDO%20GEF%206%20CCM-Democratic%20Republic%20of%20the%20Congo_PIF_9683_app.pdf",
+          "note": "ONUDI / FEM, projet 9683, dossier 2016–2017, pp.9–10. Repères historiques PAUK/PARAU ; les équipements énergétiques projetés ne sont pas présentés comme réalisés."
+        },
+        {
+          "title": "COFED — Rapport annuel 2015, rubrique assainissement urbain et transfert du PARAU.",
+          "url": "https://cofed.cd/wp-content/uploads/2023/11/Rapport-Annuel-2015.pdf",
+          "note": "Rapport annuel 2015, passage relatif à l’assainissement et au transfert du PARAU. Inventaire historique accessible dans l’extrait indexé. Le chiffre de 62 stations diffère des 61 reprises dans l’étude de 2023 : périmètres non réconciliés."
+        },
+        {
+          "title": "Cellule Infrastructures — Inauguration du pont M’Fusu par le ministre des Infrastructures et Travaux publics, publication du 17 février 2026 ; événement du 21 janvier 2026.",
+          "url": "https://www.celluleinfra.org/index.php/articles/inauguration-du-pont-m-fusu-par-le-ministre-des-infrastructures-et-travaux-publics",
+          "note": "Publication du 17 février 2026 ; inauguration le 21 janvier 2026. Travaux et ouvrages rapportés par le maître d’ouvrage ; pas de certification du débit ni de la conformité environnementale du centre."
+        },
+        {
+          "title": "Kang Y. O., Yabar H., Mizunoya T., Higano Y. — Environmental and economic performances of municipal solid waste management strategies based on LCA method: A case study of Kinshasa. Heliyon, 2023, 9(3), e14372.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10025032/",
+          "note": "Heliyon, 2023, 9(3), e14372. DOI : 10.1016/j.heliyon.2023.e14372. Analyse de cycle de vie et scénarios ; base de modélisation distincte d’un bilan opérationnel mesuré."
+        },
+        {
+          "title": "ONU-Habitat — Waste Wise Cities Tool et présentation des données déchets.",
+          "url": "https://unhabitat.org/wwc-tool",
+          "note": "Présentation officielle de la méthode Waste Wise Cities Tool et du suivi ODD 11.6.1. Cadre de mesure international, sans score établi pour Kinshasa."
+        },
+        {
+          "title": "Ministère chargé de l’Enseignement — Cadre de gestion des déchets chimiques de laboratoire, PEQPESU, section 4.2",
+          "url": "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cadre-de-Gestion-des-Dechets-Chimiques-de-Laboratoire-CGDCL-PEQPESU.pdf",
+          "note": "Document ministériel PEQPESU, section 4.2 : reproduction des articles 56–58 de la loi n°11/009 du 9 juillet 2011. Ce rappel ne constitue pas une version consolidée de toutes les modifications et mesures d’application."
         }
       ]
     }
