@@ -5,7 +5,7 @@ from collections import Counter
 
 HERE = Path(__file__).resolve().parent
 ORIGIN = 'https://diela.org/elikyapedia/'
-DATE = '13 novembre 2026'
+DATE = '16 novembre 2026'
 DOMAINS = {
  'politique': ('Politique', 'L’État, les institutions et la vie publique', 'Justice, démocratie, administration, défense et relations internationales.'),
  'economie': ('Économie', 'Les ressources, la production et les échanges', 'Finances publiques, énergie, agriculture, mines et système monétaire.'),
@@ -144,5 +144,5 @@ if __name__=='__main__':
     catalog(articles)
     for domain in DOMAINS: catalog(articles,domain)
     auxiliaries(articles); redirects()
-    write('sources.json',json.dumps({'edition':'2.0','date':'2026-11-13','articles':[{'title':a['title'],'slug':a['slug'],'sources':a['sources']} for a in articles]},ensure_ascii=False,indent=2))
+    write('sources.json',json.dumps({'edition':'2.0','date':'2026-11-16','articles':[{'title':a['title'],'slug':a['slug'],'sources':a['sources']} for a in articles]},ensure_ascii=False,indent=2))
     print(f'Built {len(articles)} articles, 3 domains, sources, method, and legacy redirects.')
